@@ -8,11 +8,13 @@
 
 typedef long long ll;
 using namespace std;
-// #ifndef ONLINE_JUDGE
-// #include "debug.cpp"
-// #else
-// #define kar(...)
-// #endif
+#ifndef ONLINE_JUDGE
+
+#include "debug.cpp"
+
+#else
+#define kar(...)
+#endif
 #define pb push_back
 #define F first
 #define S second
@@ -38,6 +40,8 @@ struct Seg {  /*CHANGE THE ID YA KARIM !!*/
             cout << (i == 0 ? "sg : " : "") << query(i, i) << (i == n - 1 ? "\n" : " ");/**/}
 };
 
+int pref[30][N];
+
 void Solve() {
     int n;
     cin >> n;
@@ -51,6 +55,13 @@ void Solve() {
     for (int i = 1; i <= n; i++) {
         cin >> v[i];
         andd &= v[i];
+
+        for (int j = 0; j < 20; j++) {
+            if (v[i] & (1 << j));
+            else pref[j][i]++;
+
+            pref[j][i] += pref[j][i - 1];
+        }
     }
     for (int i = 1; i <= n; i++) {
         int ans = i;
@@ -62,8 +73,16 @@ void Solve() {
             if ((1 << j) & andd) continue;
             ans = min(ans, lst[j]);
         }
-
+        if (ans == 1 && i == n) {
+            sg.upd(i, ans);
+            continue;
+        }
+        for (int j = 0; j < 20; j++) {
+            if ((1 << j) & andd || ans == -INF) continue;
+            if ((pref[j][i] - pref[j][ans - 1]) == pref[j][n])ans = -INF;
+        }
         sg.upd(i, ans);
+
     }
 
     int q;
@@ -80,9 +99,9 @@ void Solve() {
 }
 
 int32_t main() {
-//    #ifndef ONLINE_JUDGE
-//        freopen("input.txt","r",stdin),freopen("output.txt","w",stdout);
-//    #endif
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin), freopen("output.txt", "w", stdout);
+#endif
     ios::sync_with_stdio(0), cin.tie(0);
     int Test_case = 1;
 //    cin >> Test_case;
