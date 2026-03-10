@@ -1,3 +1,4 @@
 *_cache.json
 __pycache__/
 failed.json
+group_failed.json

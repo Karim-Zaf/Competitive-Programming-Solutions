@@ -3,9 +3,10 @@
 My accepted solutions for competitive programming problems, primarily from [Codeforces](https://codeforces.com/profile/Kairm_Zaf).
 
 **Handle:** [Kairm_Zaf](https://codeforces.com/profile/Kairm_Zaf)  
-**Total Problems Solved:** 2108  
+**Total Problems Solved:** 2660  
 **Contest Problems:** 1501  
 **GYM Problems:** 607  
+**Group Problems:** 552  
 **Last Updated:** 2026-03-10
 
 ## Rating Distribution
@@ -1665,662 +1666,1214 @@ My accepted solutions for competitive programming problems, primarily from [Code
 </details>
 
 <details>
-<summary><b>Rating Unrated</b> (652 problems)</summary>
+<summary><b>Unrated</b> (1204 problems)</summary>
 
-| # | Problem | Tags | Solution |
-|---|---------|------|----------|
-| 1812A | [1812A - Are You a Robot?](https://codeforces.com/contest/1812/problem/A) | *special, expression parsing, strings | [Solution](Codeforces/Contests/1812/A_Are_You_a_Robot.cpp) |
-| 1812B | [1812B - Was it Rated?](https://codeforces.com/contest/1812/problem/B) | *special, brute force, implementation | [Solution](Codeforces/Contests/1812/B_Was_it_Rated.cpp) |
-| 1812D | [1812D - Trivial Conjecture](https://codeforces.com/contest/1812/problem/D) | *special, constructive algorithms, math, number theory | [Solution](Codeforces/Contests/1812/D_Trivial_Conjecture.cpp) |
-| 1812E | [1812E - Not a Geometry Problem](https://codeforces.com/contest/1812/problem/E) | *special, constructive algorithms, geometry, math | [Solution](Codeforces/Contests/1812/E_Not_a_Geometry_Problem.cpp) |
-| 1812F | [1812F - Factorization](https://codeforces.com/contest/1812/problem/F) | *special, number theory | [Solution](Codeforces/Contests/1812/F_Factorization.cpp) |
-| 1812J | [1812J - Unmysterious Language](https://codeforces.com/contest/1812/problem/J) | *special, constructive algorithms, strings | [Solution](Codeforces/Contests/1812/J_Unmysterious_Language.txt) |
-| 1952A | [1952A - Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | *special, strings | [Solution](Codeforces/Contests/1952/A_Are_You_a_Robot,_Again.cpp) |
-| 1952B | [1952B - Is it stated?](https://codeforces.com/contest/1952/problem/B) | *special, strings | [Solution](Codeforces/Contests/1952/B_Is_it_stated.cpp) |
-| 1952D | [1952D - Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D) | *special, implementation | [Solution](Codeforces/Contests/1952/D_Are_You_a_Procrastinator.cpp) |
-| 1959A | [1959A - Spy Detected!](https://codeforces.com/contest/1959/problem/A) | *special, implementation | [Solution](Codeforces/Contests/1959/A_Spy_Detected!.kt) |
-| 1959B | [1959B - Compare T-Shirt Sizes](https://codeforces.com/contest/1959/problem/B) | *special, implementation, strings | [Solution](Codeforces/Contests/1959/B_Compare_T-Shirt_Sizes.kt) |
-| 1959C | [1959C - Count the Number of Pairs](https://codeforces.com/contest/1959/problem/C) | *special, greedy, strings | [Solution](Codeforces/Contests/1959/C_Count_the_Number_of_Pairs.kt) |
-| 1959D | [1959D - Traffic Light](https://codeforces.com/contest/1959/problem/D) | *special | [Solution](Codeforces/Contests/1959/D_Traffic_Light.kt) |
-| 1959E | [1959E - Jumping on Tiles](https://codeforces.com/contest/1959/problem/E) | *special, constructive algorithms, strings | [Solution](Codeforces/Contests/1959/E_Jumping_on_Tiles.kt) |
-| 1959F | [1959F - Sending a Sequence Over the Network](https://codeforces.com/contest/1959/problem/F) | *special, dp | [Solution](Codeforces/Contests/1959/F_Sending_a_Sequence_Over_the_Network.kt) |
-| 2192A | [2192A - String Rotation Game](https://codeforces.com/contest/2192/problem/A) | brute force, strings | [Solution](Codeforces/Contests/2192/A_String_Rotation_Game.cpp) |
-| 2192B | [2192B - Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | constructive algorithms, strings | [Solution](Codeforces/Contests/2192/B_Flipping_Binary_String.cpp) |
-| 2192C | [2192C - All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | binary search, greedy, math | [Solution](Codeforces/Contests/2192/C_All-in-one_Gun.cpp) |
-| 2192D | [2192D - Cost of Tree](https://codeforces.com/contest/2192/problem/D) | dp, greedy, trees | [Solution](Codeforces/Contests/2192/D_Cost_of_Tree.cpp) |
-| 2192E | [2192E - Swap to Rearrange](https://codeforces.com/contest/2192/problem/E) | constructive algorithms, dfs and similar, graph matchings, graphs, greedy, strings | [Solution](Codeforces/Contests/2192/E_Swap_to_Rearrange.cpp) |
-| 2194A | [2194A - Lawn Mower](https://codeforces.com/contest/2194/problem/A) | greedy, math | [Solution](Codeforces/Contests/2194/A_Lawn_Mower.cpp) |
-| 2194B | [2194B - Offshores](https://codeforces.com/contest/2194/problem/B) | greedy, implementation, math | [Solution](Codeforces/Contests/2194/B_Offshores.cpp) |
-| 2194C | [2194C - Secret message](https://codeforces.com/contest/2194/problem/C) | bitmasks, brute force, dp, math, number theory | [Solution](Codeforces/Contests/2194/C_Secret_message.cpp) |
-| 2194D | [2194D - Table Cut](https://codeforces.com/contest/2194/problem/D) | constructive algorithms, greedy, implementation | [Solution](Codeforces/Contests/2194/D_Table_Cut.cpp) |
-| 2194E | [2194E - The Turtle Strikes Back](https://codeforces.com/contest/2194/problem/E) | dp, graphs, greedy, implementation | [Solution](Codeforces/Contests/2194/E_The_Turtle_Strikes_Back.cpp) |
-| 2194F1 | [2194F1 - Again Trees... (Easy Version)](https://codeforces.com/contest/2194/problem/F1) | bitmasks, dfs and similar, dp, trees | [Solution](Codeforces/Contests/2194/F1_Again_Trees..._(Easy_Version).cpp) |
-| 2195A | [2195A - Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | math, number theory | [Solution](Codeforces/Contests/2195/A_Sieve_of_Erato67henes.cpp) |
-| 2195B | [2195B - Heapify 1](https://codeforces.com/contest/2195/problem/B) | implementation, sortings | [Solution](Codeforces/Contests/2195/B_Heapify_1.cpp) |
-| 2195C | [2195C - Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | dp, greedy | [Solution](Codeforces/Contests/2195/C_Dice_Roll_Sequence.cpp) |
-| 2195D | [2195D - Absolute Cinema](https://codeforces.com/contest/2195/problem/D) | math | [Solution](Codeforces/Contests/2195/D_Absolute_Cinema.cpp) |
-| 2195E | [2195E - Idiot First Search](https://codeforces.com/contest/2195/problem/E) | dfs and similar, dp, trees | [Solution](Codeforces/Contests/2195/E_Idiot_First_Search.cpp) |
-| 2195F | [2195F - Parabola Independence](https://codeforces.com/contest/2195/problem/F) | dp, graphs, greedy, math, sortings | [Solution](Codeforces/Contests/2195/F_Parabola_Independence.cpp) |
-| 2195G | [2195G - Idiot First Search and Queries](https://codeforces.com/contest/2195/problem/G) | binary search, data structures, dp, graphs, trees | [Solution](Codeforces/Contests/2195/G_Idiot_First_Search_and_Queries.cpp) |
-| 2197A | [2197A - Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | binary search, brute force, expression parsing, math, schedules | [Solution](Codeforces/Contests/2197/A_Friendly_Numbers.cpp) |
-| 2197B | [2197B - Array and Permutation](https://codeforces.com/contest/2197/problem/B) | implementation, schedules, sortings, two pointers | [Solution](Codeforces/Contests/2197/B_Array_and_Permutation.cpp) |
-| 2197C | [2197C - Game with a Fraction](https://codeforces.com/contest/2197/problem/C) | games, greedy, math | [Solution](Codeforces/Contests/2197/C_Game_with_a_Fraction.cpp) |
-| 2197D | [2197D - Another Problem about Beautiful Pairs](https://codeforces.com/contest/2197/problem/D) | brute force, data structures, divide and conquer, math, number theory | [Solution](Codeforces/Contests/2197/D_Another_Problem_about_Beautiful_Pairs.cpp) |
-| 2197E1 | [2197E1 - Interactive Graph (Simple Version)](https://codeforces.com/contest/2197/problem/E1) | binary search, combinatorics, dfs and similar, dp, graphs, interactive | [Solution](Codeforces/Contests/2197/E1_Interactive_Graph_(Simple_Version).cpp) |
-| 2203A | [2203A - Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | math | [Solution](Codeforces/Contests/2203/A_Towers_of_Boxes.cpp) |
-| 2203B | [2203B - Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | bitmasks, dp, fft, greedy, math | [Solution](Codeforces/Contests/2203/B_Beautiful_Numbers.cpp) |
-| 2203C | [2203C - Test Generator](https://codeforces.com/contest/2203/problem/C) | binary search, bitmasks, greedy, math | [Solution](Codeforces/Contests/2203/C_Test_Generator.cpp) |
-| 2203D | [2203D - Divisibility Game](https://codeforces.com/contest/2203/problem/D) | brute force, games, greedy, number theory | [Solution](Codeforces/Contests/2203/D_Divisibility_Game.cpp) |
-| 2205A | [2205A - Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | brute force, constructive algorithms | [Solution](Codeforces/Contests/2205/A_Simons_and_Making_It_Beautiful.cpp) |
-| 2205B | [2205B - Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | implementation, math | [Solution](Codeforces/Contests/2205/B_Simons_and_Cakes_for_Success.cpp) |
-| 2205C | [2205C - Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C) | greedy, sortings | [Solution](Codeforces/Contests/2205/C_Simons_and_Posting_Blogs.cpp) |
-| 2205D | [2205D - Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | data structures, divide and conquer, dp, greedy, implementation, trees | [Solution](Codeforces/Contests/2205/D_Simons_and_Beating_Peaks.cpp) |
-| 2205E | [2205E - Simons and Dividing the Rhythm](https://codeforces.com/contest/2205/problem/E) | combinatorics, data structures, dp, dsu, math, string suffix structures, strings | [Solution](Codeforces/Contests/2205/E_Simons_and_Dividing_the_Rhythm.cpp) |
-| 2207A | [2207A - 1-1](https://codeforces.com/contest/2207/problem/A) | greedy, strings | [Solution](Codeforces/Contests/2207/A_1-1.cpp) |
-| 2207B | [2207B - One Night At Freddy's](https://codeforces.com/contest/2207/problem/B) | games, greedy, sortings | [Solution](Codeforces/Contests/2207/B_One_Night_At_Freddy's.cpp) |
-| 2207C | [2207C - Where's My Water?](https://codeforces.com/contest/2207/problem/C) | binary search, data structures, divide and conquer, implementation | [Solution](Codeforces/Contests/2207/C_Where's_My_Water.cpp) |
-| 2207D | [2207D - Boxed Like a Fish](https://codeforces.com/contest/2207/problem/D) | dfs and similar, dp, games, trees | [Solution](Codeforces/Contests/2207/D_Boxed_Like_a_Fish.cpp) |
-| 2207E1 | [2207E1 - N-MEX (Constructive Version)](https://codeforces.com/contest/2207/problem/E1) | constructive algorithms, greedy | [Solution](Codeforces/Contests/2207/E1_N-MEX_(Constructive_Version).cpp) |
-| 100712A | [100712A - Who Is The Winner](https://codeforces.com/gym/100712/problem/A) |  | [Solution](Codeforces/GYM/100712/A_Who_Is_The_Winner.cpp) |
-| 100712B | [100712B - Rock-Paper-Scissors](https://codeforces.com/gym/100712/problem/B) |  | [Solution](Codeforces/GYM/100712/B_Rock-Paper-Scissors.cpp) |
-| 100712C | [100712C - Street Lamps](https://codeforces.com/gym/100712/problem/C) |  | [Solution](Codeforces/GYM/100712/C_Street_Lamps.cpp) |
-| 100712E | [100712E - Epic Professor](https://codeforces.com/gym/100712/problem/E) |  | [Solution](Codeforces/GYM/100712/E_Epic_Professor.cpp) |
-| 100712G | [100712G - Heavy Coins](https://codeforces.com/gym/100712/problem/G) |  | [Solution](Codeforces/GYM/100712/G_Heavy_Coins.cpp) |
-| 100712J | [100712J - Candy](https://codeforces.com/gym/100712/problem/J) |  | [Solution](Codeforces/GYM/100712/J_Candy.cpp) |
-| 100712K | [100712K - Runtime Error](https://codeforces.com/gym/100712/problem/K) |  | [Solution](Codeforces/GYM/100712/K_Runtime_Error.cpp) |
-| 100814A | [100814A - Arcade Game](https://codeforces.com/gym/100814/problem/A) |  | [Solution](Codeforces/GYM/100814/A_Arcade_Game.cpp) |
-| 100814B | [100814B - Unlucky Teacher](https://codeforces.com/gym/100814/problem/B) |  | [Solution](Codeforces/GYM/100814/B_Unlucky_Teacher.cpp) |
-| 100814C | [100814C - Connecting Graph](https://codeforces.com/gym/100814/problem/C) |  | [Solution](Codeforces/GYM/100814/C_Connecting_Graph.cpp) |
-| 100814D | [100814D - Frozen Rivers](https://codeforces.com/gym/100814/problem/D) |  | [Solution](Codeforces/GYM/100814/D_Frozen_Rivers.cpp) |
-| 100814E | [100814E - Palmyra](https://codeforces.com/gym/100814/problem/E) |  | [Solution](Codeforces/GYM/100814/E_Palmyra.cpp) |
-| 100814F | [100814F - Geometry](https://codeforces.com/gym/100814/problem/F) |  | [Solution](Codeforces/GYM/100814/F_Geometry.cpp) |
-| 100814G | [100814G - It is all about wisdom](https://codeforces.com/gym/100814/problem/G) |  | [Solution](Codeforces/GYM/100814/G_It_is_all_about_wisdom.cpp) |
-| 100814I | [100814I - Salem](https://codeforces.com/gym/100814/problem/I) |  | [Solution](Codeforces/GYM/100814/I_Salem.cpp) |
-| 100814J | [100814J - Game](https://codeforces.com/gym/100814/problem/J) |  | [Solution](Codeforces/GYM/100814/J_Game.cpp) |
-| 100814L | [100814L - Candy Jars](https://codeforces.com/gym/100814/problem/L) |  | [Solution](Codeforces/GYM/100814/L_Candy_Jars.cpp) |
-| 101061B | [101061B - RGB plants](https://codeforces.com/gym/101061/problem/B) |  | [Solution](Codeforces/GYM/101061/B_RGB_plants.cpp) |
-| 101086A | [101086A - My Friend of Misery](https://codeforces.com/gym/101086/problem/A) |  | [Solution](Codeforces/GYM/101086/A_My_Friend_of_Misery.cpp) |
-| 101086F | [101086F - Hey JUDgE](https://codeforces.com/gym/101086/problem/F) |  | [Solution](Codeforces/GYM/101086/F_Hey_JUDgE.cpp) |
-| 101086G | [101086G - Paradise City](https://codeforces.com/gym/101086/problem/G) |  | [Solution](Codeforces/GYM/101086/G_Paradise_City.cpp) |
-| 101086H | [101086H - Another Square in the Floor](https://codeforces.com/gym/101086/problem/H) |  | [Solution](Codeforces/GYM/101086/H_Another_Square_in_the_Floor.cpp) |
-| 101086J | [101086J - Smooth Developer](https://codeforces.com/gym/101086/problem/J) |  | [Solution](Codeforces/GYM/101086/J_Smooth_Developer.cpp) |
-| 101086L | [101086L - Chance](https://codeforces.com/gym/101086/problem/L) |  | [Solution](Codeforces/GYM/101086/L_Chance.cpp) |
-| 101086M | [101086M - ACPC Headquarters : AASTMT (Stairway to Heaven)](https://codeforces.com/gym/101086/problem/M) |  | [Solution](Codeforces/GYM/101086/M_ACPC_Headquarters_AASTMT_(Stairway_to_Heaven).cpp) |
-| 101102A | [101102A - Coins](https://codeforces.com/gym/101102/problem/A) |  | [Solution](Codeforces/GYM/101102/A_Coins.cpp) |
-| 101102B | [101102B - The Little Match Girl](https://codeforces.com/gym/101102/problem/B) |  | [Solution](Codeforces/GYM/101102/B_The_Little_Match_Girl.cpp) |
-| 101102C | [101102C - Bored Judge](https://codeforces.com/gym/101102/problem/C) |  | [Solution](Codeforces/GYM/101102/C_Bored_Judge.cpp) |
-| 101102D | [101102D - Rectangles](https://codeforces.com/gym/101102/problem/D) |  | [Solution](Codeforces/GYM/101102/D_Rectangles.cpp) |
-| 101102E | [101102E - Ya Rajaie and Books](https://codeforces.com/gym/101102/problem/E) |  | [Solution](Codeforces/GYM/101102/E_Ya_Rajaie_and_Books.cpp) |
-| 101102F | [101102F - Exchange](https://codeforces.com/gym/101102/problem/F) |  | [Solution](Codeforces/GYM/101102/F_Exchange.cpp) |
-| 101102H | [101102H - Cinema](https://codeforces.com/gym/101102/problem/H) |  | [Solution](Codeforces/GYM/101102/H_Cinema.cpp) |
-| 101102I | [101102I - Simple Robot](https://codeforces.com/gym/101102/problem/I) |  | [Solution](Codeforces/GYM/101102/I_Simple_Robot.cpp) |
-| 101102J | [101102J - Divisible Numbers](https://codeforces.com/gym/101102/problem/J) |  | [Solution](Codeforces/GYM/101102/J_Divisible_Numbers.cpp) |
-| 101149A | [101149A - Balls in Urn](https://codeforces.com/gym/101149/problem/A) |  | [Solution](Codeforces/GYM/101149/A_Balls_in_Urn.cpp) |
-| 101149B | [101149B - No Time for Dragons](https://codeforces.com/gym/101149/problem/B) |  | [Solution](Codeforces/GYM/101149/B_No_Time_for_Dragons.cpp) |
-| 101149C | [101149C - Mathematical Field of Experiments](https://codeforces.com/gym/101149/problem/C) |  | [Solution](Codeforces/GYM/101149/C_Mathematical_Field_of_Experiments.cpp) |
-| 101149E | [101149E - The Best among Equals](https://codeforces.com/gym/101149/problem/E) |  | [Solution](Codeforces/GYM/101149/E_The_Best_among_Equals.cpp) |
-| 101149F | [101149F - The Weakest Sith](https://codeforces.com/gym/101149/problem/F) |  | [Solution](Codeforces/GYM/101149/F_The_Weakest_Sith.cpp) |
-| 101149H | [101149H - Streets of Working Lanterns](https://codeforces.com/gym/101149/problem/H) |  | [Solution](Codeforces/GYM/101149/H_Streets_of_Working_Lanterns.cpp) |
-| 101149I | [101149I - It's the Police](https://codeforces.com/gym/101149/problem/I) |  | [Solution](Codeforces/GYM/101149/I_It's_the_Police.cpp) |
-| 101149J | [101149J - Panoramic Photography](https://codeforces.com/gym/101149/problem/J) |  | [Solution](Codeforces/GYM/101149/J_Panoramic_Photography.cpp) |
-| 101149L | [101149L - Right Build](https://codeforces.com/gym/101149/problem/L) |  | [Solution](Codeforces/GYM/101149/L_Right_Build.cpp) |
-| 101174C | [101174C - Candle Box](https://codeforces.com/gym/101174/problem/C) |  | [Solution](Codeforces/GYM/101174/C_Candle_Box.cpp) |
-| 101174F | [101174F - Performance Review](https://codeforces.com/gym/101174/problem/F) |  | [Solution](Codeforces/GYM/101174/F_Performance_Review.cpp) |
-| 101174H | [101174H - Pascal's Hyper-Pyramids](https://codeforces.com/gym/101174/problem/H) |  | [Solution](Codeforces/GYM/101174/H_Pascal's_Hyper-Pyramids.cpp) |
-| 101174K | [101174K - Balls and Needles](https://codeforces.com/gym/101174/problem/K) |  | [Solution](Codeforces/GYM/101174/K_Balls_and_Needles.cpp) |
-| 101291A | [101291A - Alphabet](https://codeforces.com/gym/101291/problem/A) |  | [Solution](Codeforces/GYM/101291/A_Alphabet.cpp) |
-| 101291B | [101291B - Barbells](https://codeforces.com/gym/101291/problem/B) |  | [Solution](Codeforces/GYM/101291/B_Barbells.cpp) |
-| 101291D | [101291D - Cameras](https://codeforces.com/gym/101291/problem/D) |  | [Solution](Codeforces/GYM/101291/D_Cameras.cpp) |
-| 101291E | [101291E - Contest Score](https://codeforces.com/gym/101291/problem/E) |  | [Solution](Codeforces/GYM/101291/E_Contest_Score.cpp) |
-| 101291F | [101291F - Equality](https://codeforces.com/gym/101291/problem/F) |  | [Solution](Codeforces/GYM/101291/F_Equality.cpp) |
-| 101291G | [101291G - Gravity](https://codeforces.com/gym/101291/problem/G) |  | [Solution](Codeforces/GYM/101291/G_Gravity.cpp) |
-| 101291H | [101291H - Islands](https://codeforces.com/gym/101291/problem/H) |  | [Solution](Codeforces/GYM/101291/H_Islands.cpp) |
-| 101291I | [101291I - Mismatched Socks](https://codeforces.com/gym/101291/problem/I) |  | [Solution](Codeforces/GYM/101291/I_Mismatched_Socks.cpp) |
-| 101291J | [101291J - Postman](https://codeforces.com/gym/101291/problem/J) |  | [Solution](Codeforces/GYM/101291/J_Postman.cpp) |
-| 101291K | [101291K - Six Sides](https://codeforces.com/gym/101291/problem/K) |  | [Solution](Codeforces/GYM/101291/K_Six_Sides.cpp) |
-| 101291L | [101291L - Three Square](https://codeforces.com/gym/101291/problem/L) |  | [Solution](Codeforces/GYM/101291/L_Three_Square.cpp) |
-| 101291M | [101291M - Zigzag](https://codeforces.com/gym/101291/problem/M) |  | [Solution](Codeforces/GYM/101291/M_Zigzag.cpp) |
-| 101350B | [101350B - Unusual Team](https://codeforces.com/gym/101350/problem/B) |  | [Solution](Codeforces/GYM/101350/B_Unusual_Team.cpp) |
-| 101350C | [101350C - Cheap Kangaroo](https://codeforces.com/gym/101350/problem/C) |  | [Solution](Codeforces/GYM/101350/C_Cheap_Kangaroo.cpp) |
-| 101350D | [101350D - Magical Bamboos](https://codeforces.com/gym/101350/problem/D) |  | [Solution](Codeforces/GYM/101350/D_Magical_Bamboos.cpp) |
-| 101350E | [101350E - Competitive Seagulls](https://codeforces.com/gym/101350/problem/E) |  | [Solution](Codeforces/GYM/101350/E_Competitive_Seagulls.cpp) |
-| 101350F | [101350F - Monkeying Around](https://codeforces.com/gym/101350/problem/F) |  | [Solution](Codeforces/GYM/101350/F_Monkeying_Around.cpp) |
-| 101350G | [101350G - Snake Rana](https://codeforces.com/gym/101350/problem/G) |  | [Solution](Codeforces/GYM/101350/G_Snake_Rana.cpp) |
-| 101350H | [101350H - Mirrored String I](https://codeforces.com/gym/101350/problem/H) |  | [Solution](Codeforces/GYM/101350/H_Mirrored_String_I.cpp) |
-| 101350I | [101350I - Mirrored String II](https://codeforces.com/gym/101350/problem/I) |  | [Solution](Codeforces/GYM/101350/I_Mirrored_String_II.cpp) |
-| 101350J | [101350J - Lazy Physics Cat](https://codeforces.com/gym/101350/problem/J) |  | [Solution](Codeforces/GYM/101350/J_Lazy_Physics_Cat.cpp) |
-| 101350K | [101350K - Owl Geeks](https://codeforces.com/gym/101350/problem/K) |  | [Solution](Codeforces/GYM/101350/K_Owl_Geeks.cpp) |
-| 101350M | [101350M - Make Cents?](https://codeforces.com/gym/101350/problem/M) |  | [Solution](Codeforces/GYM/101350/M_Make_Cents.cpp) |
-| 101608A | [101608A - Chrome Tabs](https://codeforces.com/gym/101608/problem/A) |  | [Solution](Codeforces/GYM/101608/A_Chrome_Tabs.cpp) |
-| 101608B | [101608B - OverCode](https://codeforces.com/gym/101608/problem/B) |  | [Solution](Codeforces/GYM/101608/B_OverCode.cpp) |
-| 101608C | [101608C - A message for you!](https://codeforces.com/gym/101608/problem/C) |  | [Solution](Codeforces/GYM/101608/C_A_message_for_you!.cpp) |
-| 101608D | [101608D - Test Cases](https://codeforces.com/gym/101608/problem/D) |  | [Solution](Codeforces/GYM/101608/D_Test_Cases.cpp) |
-| 101608E | [101608E - Robot I - Instruction Reduction](https://codeforces.com/gym/101608/problem/E) |  | [Solution](Codeforces/GYM/101608/E_Robot_I_-_Instruction_Reduction.cpp) |
-| 101608G | [101608G - WiFi Password](https://codeforces.com/gym/101608/problem/G) |  | [Solution](Codeforces/GYM/101608/G_WiFi_Password.cpp) |
-| 101608H | [101608H - Gas Stations](https://codeforces.com/gym/101608/problem/H) |  | [Solution](Codeforces/GYM/101608/H_Gas_Stations.cpp) |
-| 101608M | [101608M - Winning Cells](https://codeforces.com/gym/101608/problem/M) |  | [Solution](Codeforces/GYM/101608/M_Winning_Cells.cpp) |
-| 101611A | [101611A - Advertising Strategy](https://codeforces.com/gym/101611/problem/A) |  | [Solution](Codeforces/GYM/101611/A_Advertising_Strategy.cpp) |
-| 101611D | [101611D - Decoding of Varints](https://codeforces.com/gym/101611/problem/D) |  | [Solution](Codeforces/GYM/101611/D_Decoding_of_Varints.cpp) |
-| 101611F | [101611F - Fake or Leak?](https://codeforces.com/gym/101611/problem/F) |  | [Solution](Codeforces/GYM/101611/F_Fake_or_Leak.cpp) |
-| 101611G | [101611G - God of Winds](https://codeforces.com/gym/101611/problem/G) |  | [Solution](Codeforces/GYM/101611/G_God_of_Winds.cpp) |
-| 101635A | [101635A - Cakey McCakeFace](https://codeforces.com/gym/101635/problem/A) |  | [Solution](Codeforces/GYM/101635/A_Cakey_McCakeFace.cpp) |
-| 101635J | [101635J - Frosting on the Cake](https://codeforces.com/gym/101635/problem/J) |  | [Solution](Codeforces/GYM/101635/J_Frosting_on_the_Cake.cpp) |
-| 101652N | [101652N - Odd Palindrome](https://codeforces.com/gym/101652/problem/N) |  | [Solution](Codeforces/GYM/101652/N_Odd_Palindrome.cpp) |
-| 101652O | [101652O - Latin Squares](https://codeforces.com/gym/101652/problem/O) |  | [Solution](Codeforces/GYM/101652/O_Latin_Squares.cpp) |
-| 101652P | [101652P - Fear Factoring](https://codeforces.com/gym/101652/problem/P) |  | [Solution](Codeforces/GYM/101652/P_Fear_Factoring.cpp) |
-| 101652Q | [101652Q - Halfway](https://codeforces.com/gym/101652/problem/Q) |  | [Solution](Codeforces/GYM/101652/Q_Halfway.cpp) |
-| 101652S | [101652S - Purple Rain](https://codeforces.com/gym/101652/problem/S) |  | [Solution](Codeforces/GYM/101652/S_Purple_Rain.cpp) |
-| 101652U | [101652U - Unloaded Die](https://codeforces.com/gym/101652/problem/U) |  | [Solution](Codeforces/GYM/101652/U_Unloaded_Die.cpp) |
-| 101652W | [101652W - Grid Coloring](https://codeforces.com/gym/101652/problem/W) |  | [Solution](Codeforces/GYM/101652/W_Grid_Coloring.cpp) |
-| 101652X | [101652X - Star Arrangements](https://codeforces.com/gym/101652/problem/X) |  | [Solution](Codeforces/GYM/101652/X_Star_Arrangements.cpp) |
-| 101652Y | [101652Y - Delayed Work](https://codeforces.com/gym/101652/problem/Y) |  | [Solution](Codeforces/GYM/101652/Y_Delayed_Work.cpp) |
-| 101652Z | [101652Z - Forbidden Zero](https://codeforces.com/gym/101652/problem/Z) |  | [Solution](Codeforces/GYM/101652/Z_Forbidden_Zero.cpp) |
-| 101801A | [101801A - A. Can Shahhoud Solve it?](https://codeforces.com/gym/101801/problem/A) |  | [Solution](Codeforces/GYM/101801/A_A._Can_Shahhoud_Solve_it.cpp) |
-| 101801B | [101801B - B. Defeat the Monsters](https://codeforces.com/gym/101801/problem/B) |  | [Solution](Codeforces/GYM/101801/B_B._Defeat_the_Monsters.cpp) |
-| 101801C | [101801C - C. UCL Game Night](https://codeforces.com/gym/101801/problem/C) |  | [Solution](Codeforces/GYM/101801/C_C._UCL_Game_Night.cpp) |
-| 101801E | [101801E - E. Create Your Own Nim Game](https://codeforces.com/gym/101801/problem/E) |  | [Solution](Codeforces/GYM/101801/E_E._Create_Your_Own_Nim_Game.cpp) |
-| 101801F | [101801F - F. Nim Cheater](https://codeforces.com/gym/101801/problem/F) |  | [Solution](Codeforces/GYM/101801/F_F._Nim_Cheater.cpp) |
-| 101801I | [101801I - I. Odd and Even Queries](https://codeforces.com/gym/101801/problem/I) |  | [Solution](Codeforces/GYM/101801/I_I._Odd_and_Even_Queries.cpp) |
-| 101801K | [101801K - K. Quantum Stones](https://codeforces.com/gym/101801/problem/K) |  | [Solution](Codeforces/GYM/101801/K_K._Quantum_Stones.cpp) |
-| 101801L | [101801L - L. Odd and Even Count](https://codeforces.com/gym/101801/problem/L) |  | [Solution](Codeforces/GYM/101801/L_L._Odd_and_Even_Count.cpp) |
-| 101810B | [101810B - Friends and Cookies](https://codeforces.com/gym/101810/problem/B) |  | [Solution](Codeforces/GYM/101810/B_Friends_and_Cookies.cpp) |
-| 101810C | [101810C - Flip the Bits](https://codeforces.com/gym/101810/problem/C) |  | [Solution](Codeforces/GYM/101810/C_Flip_the_Bits.cpp) |
-| 101810D | [101810D - Magic Sticks](https://codeforces.com/gym/101810/problem/D) |  | [Solution](Codeforces/GYM/101810/D_Magic_Sticks.cpp) |
-| 101810E | [101810E - N-Dimensional Grid](https://codeforces.com/gym/101810/problem/E) |  | [Solution](Codeforces/GYM/101810/E_N-Dimensional_Grid.cpp) |
-| 101810F | [101810F - Minimum Sum of Array](https://codeforces.com/gym/101810/problem/F) |  | [Solution](Codeforces/GYM/101810/F_Minimum_Sum_of_Array.cpp) |
-| 101810H | [101810H - Making Friends](https://codeforces.com/gym/101810/problem/H) |  | [Solution](Codeforces/GYM/101810/H_Making_Friends.cpp) |
-| 101810I | [101810I - Split the Number](https://codeforces.com/gym/101810/problem/I) |  | [Solution](Codeforces/GYM/101810/I_Split_the_Number.cpp) |
-| 101810M | [101810M - Greedy Pirate](https://codeforces.com/gym/101810/problem/M) |  | [Solution](Codeforces/GYM/101810/M_Greedy_Pirate.cpp) |
-| 101853A | [101853A - Zero Array](https://codeforces.com/gym/101853/problem/A) |  | [Solution](Codeforces/GYM/101853/A_Zero_Array.cpp) |
-| 101853B | [101853B - New Assignment](https://codeforces.com/gym/101853/problem/B) |  | [Solution](Codeforces/GYM/101853/B_New_Assignment.cpp) |
-| 101853C | [101853C - Intersections](https://codeforces.com/gym/101853/problem/C) |  | [Solution](Codeforces/GYM/101853/C_Intersections.cpp) |
-| 101853D | [101853D - Balloons](https://codeforces.com/gym/101853/problem/D) |  | [Solution](Codeforces/GYM/101853/D_Balloons.cpp) |
-| 101853E | [101853E - Maximum Sum](https://codeforces.com/gym/101853/problem/E) |  | [Solution](Codeforces/GYM/101853/E_Maximum_Sum.cpp) |
-| 101853F | [101853F - Working Time](https://codeforces.com/gym/101853/problem/F) |  | [Solution](Codeforces/GYM/101853/F_Working_Time.cpp) |
-| 101853G | [101853G - Hard Equation](https://codeforces.com/gym/101853/problem/G) |  | [Solution](Codeforces/GYM/101853/G_Hard_Equation.cpp) |
-| 101853H | [101853H - Cube](https://codeforces.com/gym/101853/problem/H) |  | [Solution](Codeforces/GYM/101853/H_Cube.cpp) |
-| 101853I | [101853I - Circles](https://codeforces.com/gym/101853/problem/I) |  | [Solution](Codeforces/GYM/101853/I_Circles.cpp) |
-| 101853J | [101853J - Smallest Difference](https://codeforces.com/gym/101853/problem/J) |  | [Solution](Codeforces/GYM/101853/J_Smallest_Difference.cpp) |
-| 101856K | [101856K - Katryoshka](https://codeforces.com/gym/101856/problem/K) |  | [Solution](Codeforces/GYM/101856/K_Katryoshka.cpp) |
-| 101856L | [101856L - Lazy ERCD](https://codeforces.com/gym/101856/problem/L) |  | [Solution](Codeforces/GYM/101856/L_Lazy_ERCD.cpp) |
-| 101873B | [101873B - Buildings](https://codeforces.com/gym/101873/problem/B) |  | [Solution](Codeforces/GYM/101873/B_Buildings.cpp) |
-| 101873C | [101873C - Joyride](https://codeforces.com/gym/101873/problem/C) |  | [Solution](Codeforces/GYM/101873/C_Joyride.cpp) |
-| 101873D | [101873D - Pants On Fire](https://codeforces.com/gym/101873/problem/D) |  | [Solution](Codeforces/GYM/101873/D_Pants_On_Fire.cpp) |
-| 101873F | [101873F - Plug It In](https://codeforces.com/gym/101873/problem/F) |  | [Solution](Codeforces/GYM/101873/F_Plug_It_In.cpp) |
-| 101873G | [101873G - Water Testing](https://codeforces.com/gym/101873/problem/G) |  | [Solution](Codeforces/GYM/101873/G_Water_Testing.cpp) |
-| 101873I | [101873I - Uberwatch](https://codeforces.com/gym/101873/problem/I) |  | [Solution](Codeforces/GYM/101873/I_Uberwatch.cpp) |
-| 101873K | [101873K - You Are Fired](https://codeforces.com/gym/101873/problem/K) |  | [Solution](Codeforces/GYM/101873/K_You_Are_Fired.cpp) |
-| 101908B | [101908B - Marbles](https://codeforces.com/gym/101908/problem/B) |  | [Solution](Codeforces/GYM/101908/B_Marbles.cpp) |
-| 101908C | [101908C - Pizza Cutter](https://codeforces.com/gym/101908/problem/C) |  | [Solution](Codeforces/GYM/101908/C_Pizza_Cutter.cpp) |
-| 101908D | [101908D - Unraveling Monty Hall](https://codeforces.com/gym/101908/problem/D) |  | [Solution](Codeforces/GYM/101908/D_Unraveling_Monty_Hall.cpp) |
-| 101908E | [101908E - Enigma](https://codeforces.com/gym/101908/problem/E) |  | [Solution](Codeforces/GYM/101908/E_Enigma.cpp) |
-| 101908F | [101908F - Music Festival](https://codeforces.com/gym/101908/problem/F) |  | [Solution](Codeforces/GYM/101908/F_Music_Festival.cpp) |
-| 101908I | [101908I - Switches](https://codeforces.com/gym/101908/problem/I) |  | [Solution](Codeforces/GYM/101908/I_Switches.cpp) |
-| 101911C | [101911C - Bacteria](https://codeforces.com/gym/101911/problem/C) |  | [Solution](Codeforces/GYM/101911/C_Bacteria.cpp) |
-| 101911D | [101911D - Masquerade strikes back](https://codeforces.com/gym/101911/problem/D) |  | [Solution](Codeforces/GYM/101911/D_Masquerade_strikes_back.cpp) |
-| 101911E | [101911E - Painting the Fence](https://codeforces.com/gym/101911/problem/E) |  | [Solution](Codeforces/GYM/101911/E_Painting_the_Fence.cpp) |
-| 101911F | [101911F - Tickets](https://codeforces.com/gym/101911/problem/F) |  | [Solution](Codeforces/GYM/101911/F_Tickets.cpp) |
-| 101911H | [101911H - Theater Square](https://codeforces.com/gym/101911/problem/H) |  | [Solution](Codeforces/GYM/101911/H_Theater_Square.cpp) |
-| 101911K | [101911K - Medians and Partition](https://codeforces.com/gym/101911/problem/K) |  | [Solution](Codeforces/GYM/101911/K_Medians_and_Partition.cpp) |
-| 101972A | [101972A - Multiplication Dilemma](https://codeforces.com/gym/101972/problem/A) |  | [Solution](Codeforces/GYM/101972/A_Multiplication_Dilemma.cpp) |
-| 101972C | [101972C - Shortest Path!](https://codeforces.com/gym/101972/problem/C) |  | [Solution](Codeforces/GYM/101972/C_Shortest_Path!.cpp) |
-| 101972D | [101972D - Wooden Fence](https://codeforces.com/gym/101972/problem/D) |  | [Solution](Codeforces/GYM/101972/D_Wooden_Fence.cpp) |
-| 101972E | [101972E - Stupid Submissions](https://codeforces.com/gym/101972/problem/E) |  | [Solution](Codeforces/GYM/101972/E_Stupid_Submissions.cpp) |
-| 101972F | [101972F - I'm Bored!](https://codeforces.com/gym/101972/problem/F) |  | [Solution](Codeforces/GYM/101972/F_I'm_Bored!.cpp) |
-| 101972G | [101972G - Minimax](https://codeforces.com/gym/101972/problem/G) |  | [Solution](Codeforces/GYM/101972/G_Minimax.cpp) |
-| 101972H | [101972H - Beautiful Substrings](https://codeforces.com/gym/101972/problem/H) |  | [Solution](Codeforces/GYM/101972/H_Beautiful_Substrings.cpp) |
-| 101972K | [101972K - Cyclic Shift](https://codeforces.com/gym/101972/problem/K) |  | [Solution](Codeforces/GYM/101972/K_Cyclic_Shift.cpp) |
-| 101982A | [101982A - Exam](https://codeforces.com/gym/101982/problem/A) |  | [Solution](Codeforces/GYM/101982/A_Exam.cpp) |
-| 101982C | [101982C - Contest Setting](https://codeforces.com/gym/101982/problem/C) |  | [Solution](Codeforces/GYM/101982/C_Contest_Setting.cpp) |
-| 101982G | [101982G - Goat on a Rope](https://codeforces.com/gym/101982/problem/G) |  | [Solution](Codeforces/GYM/101982/G_Goat_on_a_Rope.cpp) |
-| 101982H | [101982H - Repeating Goldbachs](https://codeforces.com/gym/101982/problem/H) |  | [Solution](Codeforces/GYM/101982/H_Repeating_Goldbachs.cpp) |
-| 101982J | [101982J - Time Limits](https://codeforces.com/gym/101982/problem/J) |  | [Solution](Codeforces/GYM/101982/J_Time_Limits.cpp) |
-| 101982L | [101982L - Liars](https://codeforces.com/gym/101982/problem/L) |  | [Solution](Codeforces/GYM/101982/L_Liars.cpp) |
-| 101992B | [101992B - The first task](https://codeforces.com/gym/101992/problem/B) |  | [Solution](Codeforces/GYM/101992/B_The_first_task.cpp) |
-| 101992D | [101992D - The Millennium Prize Problems](https://codeforces.com/gym/101992/problem/D) |  | [Solution](Codeforces/GYM/101992/D_The_Millennium_Prize_Problems.cpp) |
-| 101992F | [101992F - MO Salah running down the wing](https://codeforces.com/gym/101992/problem/F) |  | [Solution](Codeforces/GYM/101992/F_MO_Salah_running_down_the_wing.cpp) |
-| 101992H | [101992H - Find the path](https://codeforces.com/gym/101992/problem/H) |  | [Solution](Codeforces/GYM/101992/H_Find_the_path.cpp) |
-| 101992L | [101992L - Reflection](https://codeforces.com/gym/101992/problem/L) |  | [Solution](Codeforces/GYM/101992/L_Reflection.cpp) |
-| 101992M | [101992M - The business man](https://codeforces.com/gym/101992/problem/M) |  | [Solution](Codeforces/GYM/101992/M_The_business_man.cpp) |
-| 102267A | [102267A - Picky Eater](https://codeforces.com/gym/102267/problem/A) |  | [Solution](Codeforces/GYM/102267/A_Picky_Eater.cpp) |
-| 102267B | [102267B - Primes](https://codeforces.com/gym/102267/problem/B) |  | [Solution](Codeforces/GYM/102267/B_Primes.cpp) |
-| 102267C | [102267C - Matryoshka Dolls](https://codeforces.com/gym/102267/problem/C) |  | [Solution](Codeforces/GYM/102267/C_Matryoshka_Dolls.cpp) |
-| 102267D | [102267D - Robots Easy](https://codeforces.com/gym/102267/problem/D) |  | [Solution](Codeforces/GYM/102267/D_Robots_Easy.cpp) |
-| 102267H | [102267H - Circle of Polygon](https://codeforces.com/gym/102267/problem/H) |  | [Solution](Codeforces/GYM/102267/H_Circle_of_Polygon.cpp) |
-| 102267I | [102267I - Ultimate Army](https://codeforces.com/gym/102267/problem/I) |  | [Solution](Codeforces/GYM/102267/I_Ultimate_Army.cpp) |
-| 102267K | [102267K - Birthday Puzzle](https://codeforces.com/gym/102267/problem/K) |  | [Solution](Codeforces/GYM/102267/K_Birthday_Puzzle.cpp) |
-| 102348A | [102348A - Yellow Cards](https://codeforces.com/gym/102348/problem/A) |  | [Solution](Codeforces/GYM/102348/A_Yellow_Cards.cpp) |
-| 102348B | [102348B - Interesting Vertices](https://codeforces.com/gym/102348/problem/B) |  | [Solution](Codeforces/GYM/102348/B_Interesting_Vertices.cpp) |
-| 102348F | [102348F - The Number of Products](https://codeforces.com/gym/102348/problem/F) |  | [Solution](Codeforces/GYM/102348/F_The_Number_of_Products.cpp) |
-| 102348L | [102348L - Printer](https://codeforces.com/gym/102348/problem/L) |  | [Solution](Codeforces/GYM/102348/L_Printer.cpp) |
-| 102569A | [102569A - Array's Hash](https://codeforces.com/gym/102569/problem/A) |  | [Solution](Codeforces/GYM/102569/A_Array's_Hash.cpp) |
-| 102569B | [102569B - Bonuses on a Line](https://codeforces.com/gym/102569/problem/B) |  | [Solution](Codeforces/GYM/102569/B_Bonuses_on_a_Line.cpp) |
-| 102569E | [102569E - Fluctuations of Mana](https://codeforces.com/gym/102569/problem/E) |  | [Solution](Codeforces/GYM/102569/E_Fluctuations_of_Mana.cpp) |
-| 102569F | [102569F - Moving Target](https://codeforces.com/gym/102569/problem/F) |  | [Solution](Codeforces/GYM/102569/F_Moving_Target.cpp) |
-| 102569H | [102569H - Tree Painting](https://codeforces.com/gym/102569/problem/H) |  | [Solution](Codeforces/GYM/102569/H_Tree_Painting.cpp) |
-| 102569I | [102569I - Sorting Colored Array](https://codeforces.com/gym/102569/problem/I) |  | [Solution](Codeforces/GYM/102569/I_Sorting_Colored_Array.cpp) |
-| 102569J | [102569J - The Battle of Mages](https://codeforces.com/gym/102569/problem/J) |  | [Solution](Codeforces/GYM/102569/J_The_Battle_of_Mages.cpp) |
-| 102569K | [102569K - Table](https://codeforces.com/gym/102569/problem/K) |  | [Solution](Codeforces/GYM/102569/K_Table.cpp) |
-| 102569L | [102569L - The Dragon Land](https://codeforces.com/gym/102569/problem/L) |  | [Solution](Codeforces/GYM/102569/L_The_Dragon_Land.cpp) |
-| 102569M | [102569M - Notifications](https://codeforces.com/gym/102569/problem/M) |  | [Solution](Codeforces/GYM/102569/M_Notifications.cpp) |
-| 102644C | [102644C - Fibonacci](https://codeforces.com/gym/102644/problem/C) |  | [Solution](Codeforces/GYM/102644/C_Fibonacci.cpp) |
-| 102644E | [102644E - Knight Paths](https://codeforces.com/gym/102644/problem/E) |  | [Solution](Codeforces/GYM/102644/E_Knight_Paths.cpp) |
-| 102694C | [102694C - Sloth Naptime](https://codeforces.com/gym/102694/problem/C) |  | [Solution](Codeforces/GYM/102694/C_Sloth_Naptime.cpp) |
-| 102791A | [102791A - Christmas Ornaments](https://codeforces.com/gym/102791/problem/A) |  | [Solution](Codeforces/GYM/102791/A_Christmas_Ornaments.cpp) |
-| 102791B | [102791B - Look At The Same One](https://codeforces.com/gym/102791/problem/B) |  | [Solution](Codeforces/GYM/102791/B_Look_At_The_Same_One.cpp) |
-| 102791C | [102791C - Number of Apartments](https://codeforces.com/gym/102791/problem/C) |  | [Solution](Codeforces/GYM/102791/C_Number_of_Apartments.cpp) |
-| 102791D | [102791D - Barrels](https://codeforces.com/gym/102791/problem/D) |  | [Solution](Codeforces/GYM/102791/D_Barrels.cpp) |
-| 102791E | [102791E - Numbers on Whiteboard](https://codeforces.com/gym/102791/problem/E) |  | [Solution](Codeforces/GYM/102791/E_Numbers_on_Whiteboard.cpp) |
-| 102791F | [102791F - Deposit](https://codeforces.com/gym/102791/problem/F) |  | [Solution](Codeforces/GYM/102791/F_Deposit.cpp) |
-| 102791G | [102791G - Parking Spaces](https://codeforces.com/gym/102791/problem/G) |  | [Solution](Codeforces/GYM/102791/G_Parking_Spaces.cpp) |
-| 102791H | [102791H - String Deletion](https://codeforces.com/gym/102791/problem/H) |  | [Solution](Codeforces/GYM/102791/H_String_Deletion.cpp) |
-| 102791I | [102791I - String Reversal](https://codeforces.com/gym/102791/problem/I) |  | [Solution](Codeforces/GYM/102791/I_String_Reversal.cpp) |
-| 102791J | [102791J - Divide The String](https://codeforces.com/gym/102791/problem/J) |  | [Solution](Codeforces/GYM/102791/J_Divide_The_String.cpp) |
-| 102861B | [102861B - Battleship](https://codeforces.com/gym/102861/problem/B) |  | [Solution](Codeforces/GYM/102861/B_Battleship.cpp) |
-| 102861F | [102861F - Fastminton](https://codeforces.com/gym/102861/problem/F) |  | [Solution](Codeforces/GYM/102861/F_Fastminton.cpp) |
-| 102861G | [102861G - Game Show!](https://codeforces.com/gym/102861/problem/G) |  | [Solution](Codeforces/GYM/102861/G_Game_Show!.cpp) |
-| 102861L | [102861L - Lavaspar](https://codeforces.com/gym/102861/problem/L) |  | [Solution](Codeforces/GYM/102861/L_Lavaspar.cpp) |
-| 102861N | [102861N - Number Multiplication](https://codeforces.com/gym/102861/problem/N) |  | [Solution](Codeforces/GYM/102861/N_Number_Multiplication.cpp) |
-| 102890A | [102890A - Acing the contest](https://codeforces.com/gym/102890/problem/A) |  | [Solution](Codeforces/GYM/102890/A_Acing_the_contest.cpp) |
-| 102890C | [102890C - Counting triangles](https://codeforces.com/gym/102890/problem/C) |  | [Solution](Codeforces/GYM/102890/C_Counting_triangles.cpp) |
-| 102890D | [102890D - Debugging the network](https://codeforces.com/gym/102890/problem/D) |  | [Solution](Codeforces/GYM/102890/D_Debugging_the_network.cpp) |
-| 102890E | [102890E - End of the year bonus](https://codeforces.com/gym/102890/problem/E) |  | [Solution](Codeforces/GYM/102890/E_End_of_the_year_bonus.cpp) |
-| 102890G | [102890G - Gold Fever](https://codeforces.com/gym/102890/problem/G) |  | [Solution](Codeforces/GYM/102890/G_Gold_Fever.cpp) |
-| 102890H | [102890H - How to Work Less to Pass a Programming Course in Planet E-13](https://codeforces.com/gym/102890/problem/H) |  | [Solution](Codeforces/GYM/102890/H_How_to_Work_Less_to_Pass_a_Programming_Course_in_Planet_E-13.cpp) |
-| 102890I | [102890I - Is this the best deal?](https://codeforces.com/gym/102890/problem/I) |  | [Solution](Codeforces/GYM/102890/I_Is_this_the_best_deal.cpp) |
-| 102890K | [102890K - K contestants](https://codeforces.com/gym/102890/problem/K) |  | [Solution](Codeforces/GYM/102890/K_K_contestants.cpp) |
-| 102890L | [102890L - Let's count words](https://codeforces.com/gym/102890/problem/L) |  | [Solution](Codeforces/GYM/102890/L_Let's_count_words.cpp) |
-| 102951A | [102951A - Maximum Distance](https://codeforces.com/gym/102951/problem/A) |  | [Solution](Codeforces/GYM/102951/A_Maximum_Distance.cpp) |
-| 102951B | [102951B - Studying Algorithms](https://codeforces.com/gym/102951/problem/B) |  | [Solution](Codeforces/GYM/102951/B_Studying_Algorithms.cpp) |
-| 102951C | [102951C - LCS on Permutations](https://codeforces.com/gym/102951/problem/C) |  | [Solution](Codeforces/GYM/102951/C_LCS_on_Permutations.cpp) |
-| 103061D | [103061D - andelion Knight](https://codeforces.com/gym/103061/problem/D) |  | [Solution](Codeforces/GYM/103061/D_andelion_Knight.cpp) |
-| 103061F | [103061F - leeing Sunlight](https://codeforces.com/gym/103061/problem/F) |  | [Solution](Codeforces/GYM/103061/F_leeing_Sunlight.cpp) |
-| 103102B | [103102B - Reverse Game](https://codeforces.com/gym/103102/problem/B) |  | [Solution](Codeforces/GYM/103102/B_Reverse_Game.cpp) |
-| 103102E | [103102E - Divisible by 3](https://codeforces.com/gym/103102/problem/E) |  | [Solution](Codeforces/GYM/103102/E_Divisible_by_3.cpp) |
-| 103102L | [103102L - Neo-Robin Hood](https://codeforces.com/gym/103102/problem/L) |  | [Solution](Codeforces/GYM/103102/L_Neo-Robin_Hood.cpp) |
-| 103102M | [103102M - Mistake](https://codeforces.com/gym/103102/problem/M) |  | [Solution](Codeforces/GYM/103102/M_Mistake.cpp) |
-| 103274C | [103274C - Cypher Decypher](https://codeforces.com/gym/103274/problem/C) |  | [Solution](Codeforces/GYM/103274/C_Cypher_Decypher.cpp) |
-| 103274E | [103274E - Escape Room](https://codeforces.com/gym/103274/problem/E) |  | [Solution](Codeforces/GYM/103274/E_Escape_Room.cpp) |
-| 103274F | [103274F - Fixing Subtitles](https://codeforces.com/gym/103274/problem/F) |  | [Solution](Codeforces/GYM/103274/F_Fixing_Subtitles.cpp) |
-| 103274G | [103274G - Game of Baker](https://codeforces.com/gym/103274/problem/G) |  | [Solution](Codeforces/GYM/103274/G_Game_of_Baker.cpp) |
-| 103274I | [103274I - Introducing Teleporting Machine](https://codeforces.com/gym/103274/problem/I) |  | [Solution](Codeforces/GYM/103274/I_Introducing_Teleporting_Machine.cpp) |
-| 103274J | [103274J - Just Send the Email](https://codeforces.com/gym/103274/problem/J) |  | [Solution](Codeforces/GYM/103274/J_Just_Send_the_Email.cpp) |
-| 103274K | [103274K - Kids at the Party](https://codeforces.com/gym/103274/problem/K) |  | [Solution](Codeforces/GYM/103274/K_Kids_at_the_Party.cpp) |
-| 103274L | [103274L - Leonel and the powers of two](https://codeforces.com/gym/103274/problem/L) |  | [Solution](Codeforces/GYM/103274/L_Leonel_and_the_powers_of_two.cpp) |
-| 103274M | [103274M - Moon Dancers](https://codeforces.com/gym/103274/problem/M) |  | [Solution](Codeforces/GYM/103274/M_Moon_Dancers.cpp) |
-| 103373A | [103373A - Olympic Ranking](https://codeforces.com/gym/103373/problem/A) |  | [Solution](Codeforces/GYM/103373/A_Olympic_Ranking.cpp) |
-| 103373B | [103373B - Aliquot Sum](https://codeforces.com/gym/103373/problem/B) |  | [Solution](Codeforces/GYM/103373/B_Aliquot_Sum.cpp) |
-| 103373C | [103373C - A Sorting Problem](https://codeforces.com/gym/103373/problem/C) |  | [Solution](Codeforces/GYM/103373/C_A_Sorting_Problem.cpp) |
-| 103373D | [103373D - Drunk Passenger](https://codeforces.com/gym/103373/problem/D) |  | [Solution](Codeforces/GYM/103373/D_Drunk_Passenger.cpp) |
-| 103373J | [103373J - JavaScript](https://codeforces.com/gym/103373/problem/J) |  | [Solution](Codeforces/GYM/103373/J_JavaScript.cpp) |
-| 103388C | [103388C - Creating Multiples](https://codeforces.com/gym/103388/problem/C) |  | [Solution](Codeforces/GYM/103388/C_Creating_Multiples.cpp) |
-| 103388E | [103388E - Escalator](https://codeforces.com/gym/103388/problem/E) |  | [Solution](Codeforces/GYM/103388/E_Escalator.cpp) |
-| 103388G | [103388G - Getting in Shape](https://codeforces.com/gym/103388/problem/G) |  | [Solution](Codeforces/GYM/103388/G_Getting_in_Shape.cpp) |
-| 103388H | [103388H - Handling the Blocks](https://codeforces.com/gym/103388/problem/H) |  | [Solution](Codeforces/GYM/103388/H_Handling_the_Blocks.cpp) |
-| 103388K | [103388K - Kathmandu](https://codeforces.com/gym/103388/problem/K) |  | [Solution](Codeforces/GYM/103388/K_Kathmandu.cpp) |
-| 103388M | [103388M - Monarchy in Vertigo](https://codeforces.com/gym/103388/problem/M) |  | [Solution](Codeforces/GYM/103388/M_Monarchy_in_Vertigo.cpp) |
-| 103388N | [103388N - No Luck](https://codeforces.com/gym/103388/problem/N) |  | [Solution](Codeforces/GYM/103388/N_No_Luck.cpp) |
-| 103414A | [103414A - Friendly Rooks](https://codeforces.com/gym/103414/problem/A) |  | [Solution](Codeforces/GYM/103414/A_Friendly_Rooks.cpp) |
-| 103414B | [103414B - Guess the Array](https://codeforces.com/gym/103414/problem/B) |  | [Solution](Codeforces/GYM/103414/B_Guess_the_Array.cpp) |
-| 103414C | [103414C - Moving Cells](https://codeforces.com/gym/103414/problem/C) |  | [Solution](Codeforces/GYM/103414/C_Moving_Cells.cpp) |
-| 103414D | [103414D - Army of Clones](https://codeforces.com/gym/103414/problem/D) |  | [Solution](Codeforces/GYM/103414/D_Army_of_Clones.cpp) |
-| 103414E | [103414E - Haiku](https://codeforces.com/gym/103414/problem/E) |  | [Solution](Codeforces/GYM/103414/E_Haiku.cpp) |
-| 103414I | [103414I - Third Group Exam](https://codeforces.com/gym/103414/problem/I) |  | [Solution](Codeforces/GYM/103414/I_Third_Group_Exam.cpp) |
-| 103414J | [103414J - Computational ethnography](https://codeforces.com/gym/103414/problem/J) |  | [Solution](Codeforces/GYM/103414/J_Computational_ethnography.cpp) |
-| 103414K | [103414K - Work or Sleep!](https://codeforces.com/gym/103414/problem/K) |  | [Solution](Codeforces/GYM/103414/K_Work_or_Sleep!.cpp) |
-| 103430B | [103430B - Special Permutation](https://codeforces.com/gym/103430/problem/B) |  | [Solution](Codeforces/GYM/103430/B_Special_Permutation.cpp) |
-| 103430C | [103430C - Athletes](https://codeforces.com/gym/103430/problem/C) |  | [Solution](Codeforces/GYM/103430/C_Athletes.cpp) |
-| 103430F | [103430F - X-Magic Pair](https://codeforces.com/gym/103430/problem/F) |  | [Solution](Codeforces/GYM/103430/F_X-Magic_Pair.cpp) |
-| 103430G | [103430G - Chat Ban](https://codeforces.com/gym/103430/problem/G) |  | [Solution](Codeforces/GYM/103430/G_Chat_Ban.cpp) |
-| 103430J | [103430J - Bongcloud Opening](https://codeforces.com/gym/103430/problem/J) |  | [Solution](Codeforces/GYM/103430/J_Bongcloud_Opening.cpp) |
-| 103430L | [103430L - Smash the Trash](https://codeforces.com/gym/103430/problem/L) |  | [Solution](Codeforces/GYM/103430/L_Smash_the_Trash.cpp) |
-| 103430M | [103430M - Distance](https://codeforces.com/gym/103430/problem/M) |  | [Solution](Codeforces/GYM/103430/M_Distance.cpp) |
-| 103430N | [103430N - Haiku](https://codeforces.com/gym/103430/problem/N) |  | [Solution](Codeforces/GYM/103430/N_Haiku.cpp) |
-| 103438A | [103438A - King of String Comparison](https://codeforces.com/gym/103438/problem/A) |  | [Solution](Codeforces/GYM/103438/A_King_of_String_Comparison.cpp) |
-| 103438F | [103438F - to Pay Respects](https://codeforces.com/gym/103438/problem/F) |  | [Solution](Codeforces/GYM/103438/F_to_Pay_Respects.cpp) |
-| 103438G | [103438G - Max Pair Matching](https://codeforces.com/gym/103438/problem/G) |  | [Solution](Codeforces/GYM/103438/G_Max_Pair_Matching.cpp) |
-| 103438L | [103438L - Jason ABC](https://codeforces.com/gym/103438/problem/L) |  | [Solution](Codeforces/GYM/103438/L_Jason_ABC.cpp) |
-| 103438N | [103438N - A-series](https://codeforces.com/gym/103438/problem/N) |  | [Solution](Codeforces/GYM/103438/N_A-series.cpp) |
-| 103443A | [103443A - Ice Cream](https://codeforces.com/gym/103443/problem/A) |  | [Solution](Codeforces/GYM/103443/A_Ice_Cream.cpp) |
-| 103443B | [103443B - Maximum Sub-Reverse Matching](https://codeforces.com/gym/103443/problem/B) |  | [Solution](Codeforces/GYM/103443/B_Maximum_Sub-Reverse_Matching.cpp) |
-| 103443J | [103443J - Transportation Network](https://codeforces.com/gym/103443/problem/J) |  | [Solution](Codeforces/GYM/103443/J_Transportation_Network.cpp) |
-| 103443M | [103443M - Escaping the Foggy Forest](https://codeforces.com/gym/103443/problem/M) |  | [Solution](Codeforces/GYM/103443/M_Escaping_the_Foggy_Forest.cpp) |
-| 103708B | [103708B - Building 5G antennas](https://codeforces.com/gym/103708/problem/B) |  | [Solution](Codeforces/GYM/103708/B_Building_5G_antennas.cpp) |
-| 103708D | [103708D - Different Pass a Ports](https://codeforces.com/gym/103708/problem/D) |  | [Solution](Codeforces/GYM/103708/D_Different_Pass_a_Ports.cpp) |
-| 103708E | [103708E - Erudite of words](https://codeforces.com/gym/103708/problem/E) |  | [Solution](Codeforces/GYM/103708/E_Erudite_of_words.cpp) |
-| 103708F | [103708F - Froginald the frog](https://codeforces.com/gym/103708/problem/F) |  | [Solution](Codeforces/GYM/103708/F_Froginald_the_frog.cpp) |
-| 103708H | [103708H - Hog Fencing](https://codeforces.com/gym/103708/problem/H) |  | [Solution](Codeforces/GYM/103708/H_Hog_Fencing.cpp) |
-| 103708I | [103708I - Isabel's Divisions](https://codeforces.com/gym/103708/problem/I) |  | [Solution](Codeforces/GYM/103708/I_Isabel's_Divisions.cpp) |
-| 103708K | [103708K - Kilo Waste](https://codeforces.com/gym/103708/problem/K) |  | [Solution](Codeforces/GYM/103708/K_Kilo_Waste.cpp) |
-| 103708L | [103708L - The last problem](https://codeforces.com/gym/103708/problem/L) |  | [Solution](Codeforces/GYM/103708/L_The_last_problem.cpp) |
-| 103821C | [103821C - Perfect Seating](https://codeforces.com/gym/103821/problem/C) |  | [Solution](Codeforces/GYM/103821/C_Perfect_Seating.cpp) |
-| 103821D | [103821D - Fairplay](https://codeforces.com/gym/103821/problem/D) |  | [Solution](Codeforces/GYM/103821/D_Fairplay.cpp) |
-| 103821E | [103821E - Robovac](https://codeforces.com/gym/103821/problem/E) |  | [Solution](Codeforces/GYM/103821/E_Robovac.cpp) |
-| 103821F | [103821F - A + B (Harder version)](https://codeforces.com/gym/103821/problem/F) |  | [Solution](Codeforces/GYM/103821/F_A_+_B_(Harder_version).cpp) |
-| 103821H | [103821H - FAT Sequences](https://codeforces.com/gym/103821/problem/H) |  | [Solution](Codeforces/GYM/103821/H_FAT_Sequences.cpp) |
-| 103821L | [103821L - ResliPhobia](https://codeforces.com/gym/103821/problem/L) |  | [Solution](Codeforces/GYM/103821/L_ResliPhobia.cpp) |
-| 103828A | [103828A - 2 Arrays Problem](https://codeforces.com/gym/103828/problem/A) |  | [Solution](Codeforces/GYM/103828/A_2_Arrays_Problem.cpp) |
-| 103828D | [103828D - Ctrl+A+C+V](https://codeforces.com/gym/103828/problem/D) |  | [Solution](Codeforces/GYM/103828/D_Ctrl+A+C+V.cpp) |
-| 103828E | [103828E - Do you where is Naseem?](https://codeforces.com/gym/103828/problem/E) |  | [Solution](Codeforces/GYM/103828/E_Do_you_where_is_Naseem.cpp) |
-| 103828H | [103828H - Kite](https://codeforces.com/gym/103828/problem/H) |  | [Solution](Codeforces/GYM/103828/H_Kite.cpp) |
-| 103828J | [103828J - Even Adjacent Product](https://codeforces.com/gym/103828/problem/J) |  | [Solution](Codeforces/GYM/103828/J_Even_Adjacent_Product.cpp) |
-| 103828M | [103828M - Mobile Game](https://codeforces.com/gym/103828/problem/M) |  | [Solution](Codeforces/GYM/103828/M_Mobile_Game.cpp) |
-| 103828N | [103828N - Moving grid](https://codeforces.com/gym/103828/problem/N) |  | [Solution](Codeforces/GYM/103828/N_Moving_grid.cpp) |
-| 103960A | [103960A - Finding Maximal Non-Trivial Monotones](https://codeforces.com/gym/103960/problem/A) |  | [Solution](Codeforces/GYM/103960/A_Finding_Maximal_Non-Trivial_Monotones.cpp) |
-| 103960D | [103960D - Displacing Particles](https://codeforces.com/gym/103960/problem/D) |  | [Solution](Codeforces/GYM/103960/D_Displacing_Particles.cpp) |
-| 103960E | [103960E - Eliminating Ballons](https://codeforces.com/gym/103960/problem/E) |  | [Solution](Codeforces/GYM/103960/E_Eliminating_Ballons.cpp) |
-| 103960F | [103960F - Multidimensional Hangman](https://codeforces.com/gym/103960/problem/F) |  | [Solution](Codeforces/GYM/103960/F_Multidimensional_Hangman.cpp) |
-| 103960I | [103960I - Intercepting Information](https://codeforces.com/gym/103960/problem/I) |  | [Solution](Codeforces/GYM/103960/I_Intercepting_Information.cpp) |
-| 103960J | [103960J - Playing 23](https://codeforces.com/gym/103960/problem/J) |  | [Solution](Codeforces/GYM/103960/J_Playing_23.cpp) |
-| 103960N | [103960N - Numbers on both Sides](https://codeforces.com/gym/103960/problem/N) |  | [Solution](Codeforces/GYM/103960/N_Numbers_on_both_Sides.cpp) |
-| 103993A | [103993A - As Fast As Possible](https://codeforces.com/gym/103993/problem/A) |  | [Solution](Codeforces/GYM/103993/A_As_Fast_As_Possible.cpp) |
-| 103993B | [103993B - Permutation Value](https://codeforces.com/gym/103993/problem/B) |  | [Solution](Codeforces/GYM/103993/B_Permutation_Value.cpp) |
-| 103993C | [103993C - Reverse and Remove](https://codeforces.com/gym/103993/problem/C) |  | [Solution](Codeforces/GYM/103993/C_Reverse_and_Remove.cpp) |
-| 103993D | [103993D - Password](https://codeforces.com/gym/103993/problem/D) |  | [Solution](Codeforces/GYM/103993/D_Password.cpp) |
-| 103993E | [103993E - d-Sort](https://codeforces.com/gym/103993/problem/E) |  | [Solution](Codeforces/GYM/103993/E_d-Sort.cpp) |
-| 103993G | [103993G - Scoring](https://codeforces.com/gym/103993/problem/G) |  | [Solution](Codeforces/GYM/103993/G_Scoring.cpp) |
-| 104015A | [104015A - Candies](https://codeforces.com/gym/104015/problem/A) |  | [Solution](Codeforces/GYM/104015/A_Candies.cpp) |
-| 104015B | [104015B - Computer Game](https://codeforces.com/gym/104015/problem/B) |  | [Solution](Codeforces/GYM/104015/B_Computer_Game.cpp) |
-| 104015C | [104015C - Groups](https://codeforces.com/gym/104015/problem/C) |  | [Solution](Codeforces/GYM/104015/C_Groups.cpp) |
-| 104015D | [104015D - Rectangle Restoration](https://codeforces.com/gym/104015/problem/D) |  | [Solution](Codeforces/GYM/104015/D_Rectangle_Restoration.cpp) |
-| 104015E | [104015E - Delete Two Elements](https://codeforces.com/gym/104015/problem/E) |  | [Solution](Codeforces/GYM/104015/E_Delete_Two_Elements.cpp) |
-| 104015F | [104015F - Coconuts](https://codeforces.com/gym/104015/problem/F) |  | [Solution](Codeforces/GYM/104015/F_Coconuts.cpp) |
-| 104015H | [104015H - Colored Balls](https://codeforces.com/gym/104015/problem/H) |  | [Solution](Codeforces/GYM/104015/H_Colored_Balls.cpp) |
-| 104015I | [104015I - Tree Painting](https://codeforces.com/gym/104015/problem/I) |  | [Solution](Codeforces/GYM/104015/I_Tree_Painting.cpp) |
-| 104030A | [104030A - Ace Arbiter](https://codeforces.com/gym/104030/problem/A) |  | [Solution](Codeforces/GYM/104030/A_Ace_Arbiter.cpp) |
-| 104030C | [104030C - Coffee Cup Combo](https://codeforces.com/gym/104030/problem/C) |  | [Solution](Codeforces/GYM/104030/C_Coffee_Cup_Combo.cpp) |
-| 104030D | [104030D - Disc District](https://codeforces.com/gym/104030/problem/D) |  | [Solution](Codeforces/GYM/104030/D_Disc_District.cpp) |
-| 104030F | [104030F - Foreign Football](https://codeforces.com/gym/104030/problem/F) |  | [Solution](Codeforces/GYM/104030/F_Foreign_Football.cpp) |
-| 104030H | [104030H - Highest Hill](https://codeforces.com/gym/104030/problem/H) |  | [Solution](Codeforces/GYM/104030/H_Highest_Hill.cpp) |
-| 104059C | [104059C - Chaotic Construction](https://codeforces.com/gym/104059/problem/C) |  | [Solution](Codeforces/GYM/104059/C_Chaotic_Construction.cpp) |
-| 104059E | [104059E - Enjoyable Entree](https://codeforces.com/gym/104059/problem/E) |  | [Solution](Codeforces/GYM/104059/E_Enjoyable_Entree.cpp) |
-| 104059K | [104059K - K.O. Kids](https://codeforces.com/gym/104059/problem/K) |  | [Solution](Codeforces/GYM/104059/K_K.O._Kids.cpp) |
-| 104059L | [104059L - Lots of Land](https://codeforces.com/gym/104059/problem/L) |  | [Solution](Codeforces/GYM/104059/L_Lots_of_Land.cpp) |
-| 104064A | [104064A - Access Denied](https://codeforces.com/gym/104064/problem/A) |  | [Solution](Codeforces/GYM/104064/A_Access_Denied.cpp) |
-| 104064G | [104064G - Glossary Arrangement](https://codeforces.com/gym/104064/problem/G) |  | [Solution](Codeforces/GYM/104064/G_Glossary_Arrangement.cpp) |
-| 104064H | [104064H - Heating Up](https://codeforces.com/gym/104064/problem/H) |  | [Solution](Codeforces/GYM/104064/H_Heating_Up.cpp) |
-| 104064K | [104064K - Knitpicking](https://codeforces.com/gym/104064/problem/K) |  | [Solution](Codeforces/GYM/104064/K_Knitpicking.cpp) |
-| 104114A | [104114A - AppendAppendAppend](https://codeforces.com/gym/104114/problem/A) |  | [Solution](Codeforces/GYM/104114/A_AppendAppendAppend.cpp) |
-| 104114F | [104114F - Fortune over Sportsmanship](https://codeforces.com/gym/104114/problem/F) |  | [Solution](Codeforces/GYM/104114/F_Fortune_over_Sportsmanship.cpp) |
-| 104114G | [104114G - Gears](https://codeforces.com/gym/104114/problem/G) |  | [Solution](Codeforces/GYM/104114/G_Gears.cpp) |
-| 104114H | [104114H - Hanoi](https://codeforces.com/gym/104114/problem/H) |  | [Solution](Codeforces/GYM/104114/H_Hanoi.cpp) |
-| 104114N | [104114N - Nusret Gökçe](https://codeforces.com/gym/104114/problem/N) |  | [Solution](Codeforces/GYM/104114/N_Nusret_Gökçe.cpp) |
-| 104120A | [104120A - Average Walk](https://codeforces.com/gym/104120/problem/A) |  | [Solution](Codeforces/GYM/104120/A_Average_Walk.cpp) |
-| 104120B | [104120B - Business Stamps](https://codeforces.com/gym/104120/problem/B) |  | [Solution](Codeforces/GYM/104120/B_Business_Stamps.cpp) |
-| 104120C | [104120C - Company Layoffs](https://codeforces.com/gym/104120/problem/C) |  | [Solution](Codeforces/GYM/104120/C_Company_Layoffs.cpp) |
-| 104120D | [104120D - Denji1](https://codeforces.com/gym/104120/problem/D) |  | [Solution](Codeforces/GYM/104120/D_Denji1.cpp) |
-| 104120G | [104120G - Hola](https://codeforces.com/gym/104120/problem/G) |  | [Solution](Codeforces/GYM/104120/G_Hola.cpp) |
-| 104120I | [104120I - Ivan And Mega Queries](https://codeforces.com/gym/104120/problem/I) |  | [Solution](Codeforces/GYM/104120/I_Ivan_And_Mega_Queries.cpp) |
-| 104120J | [104120J - Joyful City](https://codeforces.com/gym/104120/problem/J) |  | [Solution](Codeforces/GYM/104120/J_Joyful_City.cpp) |
-| 104120K | [104120K - Keypad Repetitions](https://codeforces.com/gym/104120/problem/K) |  | [Solution](Codeforces/GYM/104120/K_Keypad_Repetitions.cpp) |
-| 104120L | [104120L - Ladybug And The Bullet Train](https://codeforces.com/gym/104120/problem/L) |  | [Solution](Codeforces/GYM/104120/L_Ladybug_And_The_Bullet_Train.cpp) |
-| 104128D | [104128D - Chat Program](https://codeforces.com/gym/104128/problem/D) |  | [Solution](Codeforces/GYM/104128/D_Chat_Program.cpp) |
-| 104128G | [104128G - Inscryption](https://codeforces.com/gym/104128/problem/G) |  | [Solution](Codeforces/GYM/104128/G_Inscryption.cpp) |
-| 104128I | [104128I - Perfect Palindrome](https://codeforces.com/gym/104128/problem/I) |  | [Solution](Codeforces/GYM/104128/I_Perfect_Palindrome.cpp) |
-| 104147A | [104147A - Round 1](https://codeforces.com/gym/104147/problem/A) |  | [Solution](Codeforces/GYM/104147/A_Round_1.cpp) |
-| 104147B | [104147B - I'll call him Hanya](https://codeforces.com/gym/104147/problem/B) |  | [Solution](Codeforces/GYM/104147/B_I'll_call_him_Hanya.cpp) |
-| 104147D | [104147D - Do and Tak Game](https://codeforces.com/gym/104147/problem/D) |  | [Solution](Codeforces/GYM/104147/D_Do_and_Tak_Game.cpp) |
-| 104147F | [104147F - Nesr El Sieve](https://codeforces.com/gym/104147/problem/F) |  | [Solution](Codeforces/GYM/104147/F_Nesr_El_Sieve.cpp) |
-| 104147K | [104147K - Hobz is a good guy](https://codeforces.com/gym/104147/problem/K) |  | [Solution](Codeforces/GYM/104147/K_Hobz_is_a_good_guy.cpp) |
-| 104196A | [104196A - 1s For All](https://codeforces.com/gym/104196/problem/A) |  | [Solution](Codeforces/GYM/104196/A_1s_For_All.cpp) |
-| 104196B | [104196B - Abridged Reading](https://codeforces.com/gym/104196/problem/B) |  | [Solution](Codeforces/GYM/104196/B_Abridged_Reading.cpp) |
-| 104196G | [104196G - Noonerized Spumbers](https://codeforces.com/gym/104196/problem/G) |  | [Solution](Codeforces/GYM/104196/G_Noonerized_Spumbers.cpp) |
-| 104196I | [104196I - Pinned Files](https://codeforces.com/gym/104196/problem/I) |  | [Solution](Codeforces/GYM/104196/I_Pinned_Files.cpp) |
-| 104196J | [104196J - Recycling](https://codeforces.com/gym/104196/problem/J) |  | [Solution](Codeforces/GYM/104196/J_Recycling.cpp) |
-| 104196L | [104196L - Statues](https://codeforces.com/gym/104196/problem/L) |  | [Solution](Codeforces/GYM/104196/L_Statues.cpp) |
-| 104252D | [104252D - Daily Trips](https://codeforces.com/gym/104252/problem/D) |  | [Solution](Codeforces/GYM/104252/D_Daily_Trips.cpp) |
-| 104252E | [104252E - Empty Squares](https://codeforces.com/gym/104252/problem/E) |  | [Solution](Codeforces/GYM/104252/E_Empty_Squares.cpp) |
-| 104252H | [104252H - Horse Race](https://codeforces.com/gym/104252/problem/H) |  | [Solution](Codeforces/GYM/104252/H_Horse_Race.cpp) |
-| 104252I | [104252I - Italian Calzone & Pasta Corner](https://codeforces.com/gym/104252/problem/I) |  | [Solution](Codeforces/GYM/104252/I_Italian_Calzone_&_Pasta_Corner.cpp) |
-| 104252M | [104252M - Maze in Bolt](https://codeforces.com/gym/104252/problem/M) |  | [Solution](Codeforces/GYM/104252/M_Maze_in_Bolt.cpp) |
-| 104393A | [104393A - Acrobatic Jumping](https://codeforces.com/gym/104393/problem/A) |  | [Solution](Codeforces/GYM/104393/A_Acrobatic_Jumping.cpp) |
-| 104393C | [104393C - Counting Risk Factors](https://codeforces.com/gym/104393/problem/C) |  | [Solution](Codeforces/GYM/104393/C_Counting_Risk_Factors.cpp) |
-| 104393D | [104393D - Destroying Asteriods](https://codeforces.com/gym/104393/problem/D) |  | [Solution](Codeforces/GYM/104393/D_Destroying_Asteriods.cpp) |
-| 104393F | [104393F - Funny Numbers](https://codeforces.com/gym/104393/problem/F) |  | [Solution](Codeforces/GYM/104393/F_Funny_Numbers.cpp) |
-| 104393G | [104393G - Getting the Real Weight](https://codeforces.com/gym/104393/problem/G) |  | [Solution](Codeforces/GYM/104393/G_Getting_the_Real_Weight.cpp) |
-| 104393H | [104393H - Harvesting Apples](https://codeforces.com/gym/104393/problem/H) |  | [Solution](Codeforces/GYM/104393/H_Harvesting_Apples.cpp) |
-| 104393J | [104393J - Jane's Party Salad](https://codeforces.com/gym/104393/problem/J) |  | [Solution](Codeforces/GYM/104393/J_Jane's_Party_Salad.cpp) |
-| 104426A | [104426A - G Game](https://codeforces.com/gym/104426/problem/A) |  | [Solution](Codeforces/GYM/104426/A_G_Game.cpp) |
-| 104426B | [104426B - Permutation Tree](https://codeforces.com/gym/104426/problem/B) |  | [Solution](Codeforces/GYM/104426/B_Permutation_Tree.cpp) |
-| 104426C | [104426C - SYPUCPC Problemsetting](https://codeforces.com/gym/104426/problem/C) |  | [Solution](Codeforces/GYM/104426/C_SYPUCPC_Problemsetting.cpp) |
-| 104426E | [104426E - Stacked Pearls](https://codeforces.com/gym/104426/problem/E) |  | [Solution](Codeforces/GYM/104426/E_Stacked_Pearls.cpp) |
-| 104426F | [104426F - The Lazy Author](https://codeforces.com/gym/104426/problem/F) |  | [Solution](Codeforces/GYM/104426/F_The_Lazy_Author.cpp) |
-| 104426H | [104426H - Abo Abdo Smoothies](https://codeforces.com/gym/104426/problem/H) |  | [Solution](Codeforces/GYM/104426/H_Abo_Abdo_Smoothies.cpp) |
-| 104426I | [104426I - Yazan's game](https://codeforces.com/gym/104426/problem/I) |  | [Solution](Codeforces/GYM/104426/I_Yazan's_game.cpp) |
-| 104426L | [104426L - Protecting The Earth](https://codeforces.com/gym/104426/problem/L) |  | [Solution](Codeforces/GYM/104426/L_Protecting_The_Earth.cpp) |
-| 104426M | [104426M - Kubernetes](https://codeforces.com/gym/104426/problem/M) |  | [Solution](Codeforces/GYM/104426/M_Kubernetes.cpp) |
-| 104426N | [104426N - Ichthyophobia](https://codeforces.com/gym/104426/problem/N) |  | [Solution](Codeforces/GYM/104426/N_Ichthyophobia.cpp) |
-| 104447A | [104447A - Is It A Math Problem?](https://codeforces.com/gym/104447/problem/A) |  | [Solution](Codeforces/GYM/104447/A_Is_It_A_Math_Problem.cpp) |
-| 104447B | [104447B - How Aswad Use Telegram?](https://codeforces.com/gym/104447/problem/B) |  | [Solution](Codeforces/GYM/104447/B_How_Aswad_Use_Telegram.cpp) |
-| 104447D | [104447D - Could you help the judges?](https://codeforces.com/gym/104447/problem/D) |  | [Solution](Codeforces/GYM/104447/D_Could_you_help_the_judges.cpp) |
-| 104447F | [104447F - Isn't it a hard problem?](https://codeforces.com/gym/104447/problem/F) |  | [Solution](Codeforces/GYM/104447/F_Isn't_it_a_hard_problem.cpp) |
-| 104447G | [104447G - What is Kaito's delimma?](https://codeforces.com/gym/104447/problem/G) |  | [Solution](Codeforces/GYM/104447/G_What_is_Kaito's_delimma.cpp) |
-| 104447J | [104447J - How Kifah sees Extreme?](https://codeforces.com/gym/104447/problem/J) |  | [Solution](Codeforces/GYM/104447/J_How_Kifah_sees_Extreme.cpp) |
-| 104447K | [104447K - Do you believe that this is a real story?](https://codeforces.com/gym/104447/problem/K) |  | [Solution](Codeforces/GYM/104447/K_Do_you_believe_that_this_is_a_real_story.cpp) |
-| 104447L | [104447L - Amazing Teacher](https://codeforces.com/gym/104447/problem/L) |  | [Solution](Codeforces/GYM/104447/L_Amazing_Teacher.cpp) |
-| 104447M | [104447M - Is it possible?](https://codeforces.com/gym/104447/problem/M) |  | [Solution](Codeforces/GYM/104447/M_Is_it_possible.cpp) |
-| 104452A | [104452A - Motivation problems](https://codeforces.com/gym/104452/problem/A) |  | [Solution](Codeforces/GYM/104452/A_Motivation_problems.cpp) |
-| 104452B | [104452B - Time to reap the harvest](https://codeforces.com/gym/104452/problem/B) |  | [Solution](Codeforces/GYM/104452/B_Time_to_reap_the_harvest.cpp) |
-| 104452C | [104452C - Lucky or not?](https://codeforces.com/gym/104452/problem/C) |  | [Solution](Codeforces/GYM/104452/C_Lucky_or_not.cpp) |
-| 104452D | [104452D - Professor R's. Median](https://codeforces.com/gym/104452/problem/D) |  | [Solution](Codeforces/GYM/104452/D_Professor_R's._Median.cpp) |
-| 104452E | [104452E - The Highlanders' Tournament](https://codeforces.com/gym/104452/problem/E) |  | [Solution](Codeforces/GYM/104452/E_The_Highlanders'_Tournament.cpp) |
-| 104452G | [104452G - Progress bar](https://codeforces.com/gym/104452/problem/G) |  | [Solution](Codeforces/GYM/104452/G_Progress_bar.cpp) |
-| 104452I | [104452I - Pharaoh hEx](https://codeforces.com/gym/104452/problem/I) |  | [Solution](Codeforces/GYM/104452/I_Pharaoh_hEx.cpp) |
-| 104452L | [104452L - Cipher](https://codeforces.com/gym/104452/problem/L) |  | [Solution](Codeforces/GYM/104452/L_Cipher.cpp) |
-| 104452N | [104452N - Contest with bug](https://codeforces.com/gym/104452/problem/N) |  | [Solution](Codeforces/GYM/104452/N_Contest_with_bug.cpp) |
-| 104466D | [104466D - DnD Dice](https://codeforces.com/gym/104466/problem/D) |  | [Solution](Codeforces/GYM/104466/D_DnD_Dice.cpp) |
-| 104466E | [104466E - Eszett](https://codeforces.com/gym/104466/problem/E) |  | [Solution](Codeforces/GYM/104466/E_Eszett.cpp) |
-| 104466G | [104466G - German Conference for Public Counting](https://codeforces.com/gym/104466/problem/G) |  | [Solution](Codeforces/GYM/104466/G_German_Conference_for_Public_Counting.cpp) |
-| 104466I | [104466I - Investigating Frog Behaviour on Lily Pad Patterns](https://codeforces.com/gym/104466/problem/I) |  | [Solution](Codeforces/GYM/104466/I_Investigating_Frog_Behaviour_on_Lily_Pad_Patterns.cpp) |
-| 104466L | [104466L - Loop Invariant](https://codeforces.com/gym/104466/problem/L) |  | [Solution](Codeforces/GYM/104466/L_Loop_Invariant.cpp) |
-| 104466M | [104466M - Mischievous Math](https://codeforces.com/gym/104466/problem/M) |  | [Solution](Codeforces/GYM/104466/M_Mischievous_Math.cpp) |
-| 104468C | [104468C - Ammar-utiful Permutations](https://codeforces.com/gym/104468/problem/C) |  | [Solution](Codeforces/GYM/104468/C_Ammar-utiful_Permutations.cpp) |
-| 104468D | [104468D - DBSucks-ugly Array](https://codeforces.com/gym/104468/problem/D) |  | [Solution](Codeforces/GYM/104468/D_DBSucks-ugly_Array.cpp) |
-| 104468E | [104468E - Tareq-utiful Tree](https://codeforces.com/gym/104468/problem/E) |  | [Solution](Codeforces/GYM/104468/E_Tareq-utiful_Tree.cpp) |
-| 104468F | [104468F - Resli-utiful Pair](https://codeforces.com/gym/104468/problem/F) |  | [Solution](Codeforces/GYM/104468/F_Resli-utiful_Pair.cpp) |
-| 104468G | [104468G - Wael-utiful Array](https://codeforces.com/gym/104468/problem/G) |  | [Solution](Codeforces/GYM/104468/G_Wael-utiful_Array.cpp) |
-| 104468H | [104468H - Ammar-utiful Array](https://codeforces.com/gym/104468/problem/H) |  | [Solution](Codeforces/GYM/104468/H_Ammar-utiful_Array.cpp) |
-| 104468J | [104468J - Elias-utiful Array](https://codeforces.com/gym/104468/problem/J) |  | [Solution](Codeforces/GYM/104468/J_Elias-utiful_Array.cpp) |
-| 104468K | [104468K - Damas-utiful vs Aleppo-utiful](https://codeforces.com/gym/104468/problem/K) |  | [Solution](Codeforces/GYM/104468/K_Damas-utiful_vs_Aleppo-utiful.cpp) |
-| 104468M | [104468M - Resli-utiful Indices](https://codeforces.com/gym/104468/problem/M) |  | [Solution](Codeforces/GYM/104468/M_Resli-utiful_Indices.cpp) |
-| 104487A | [104487A - CBS Bracket Sequence](https://codeforces.com/gym/104487/problem/A) |  | [Solution](Codeforces/GYM/104487/A_CBS_Bracket_Sequence.cpp) |
-| 104487B | [104487B - GCN](https://codeforces.com/gym/104487/problem/B) |  | [Solution](Codeforces/GYM/104487/B_GCN.cpp) |
-| 104487D | [104487D - Similarity](https://codeforces.com/gym/104487/problem/D) |  | [Solution](Codeforces/GYM/104487/D_Similarity.cpp) |
-| 104487E | [104487E - Interesting Ratios](https://codeforces.com/gym/104487/problem/E) |  | [Solution](Codeforces/GYM/104487/E_Interesting_Ratios.cpp) |
-| 104487F | [104487F - Temporary Array](https://codeforces.com/gym/104487/problem/F) |  | [Solution](Codeforces/GYM/104487/F_Temporary_Array.cpp) |
-| 104487G | [104487G - Charging Power](https://codeforces.com/gym/104487/problem/G) |  | [Solution](Codeforces/GYM/104487/G_Charging_Power.cpp) |
-| 104487J | [104487J - Lazy Abdo](https://codeforces.com/gym/104487/problem/J) |  | [Solution](Codeforces/GYM/104487/J_Lazy_Abdo.cpp) |
-| 104487M | [104487M - Captain Haddock And The Counting Problem](https://codeforces.com/gym/104487/problem/M) |  | [Solution](Codeforces/GYM/104487/M_Captain_Haddock_And_The_Counting_Problem.cpp) |
-| 104487N | [104487N - Fixing The Servers](https://codeforces.com/gym/104487/problem/N) |  | [Solution](Codeforces/GYM/104487/N_Fixing_The_Servers.cpp) |
-| 104493B | [104493B - Convarge To 1](https://codeforces.com/gym/104493/problem/B) |  | [Solution](Codeforces/GYM/104493/B_Convarge_To_1.cpp) |
-| 104493E | [104493E - Sad Teacher](https://codeforces.com/gym/104493/problem/E) |  | [Solution](Codeforces/GYM/104493/E_Sad_Teacher.cpp) |
-| 104493F | [104493F - New Board Game](https://codeforces.com/gym/104493/problem/F) |  | [Solution](Codeforces/GYM/104493/F_New_Board_Game.cpp) |
-| 104493G | [104493G - Don't Make It 2](https://codeforces.com/gym/104493/problem/G) |  | [Solution](Codeforces/GYM/104493/G_Don't_Make_It_2.cpp) |
-| 104493H | [104493H - Yaser In Baradah](https://codeforces.com/gym/104493/problem/H) |  | [Solution](Codeforces/GYM/104493/H_Yaser_In_Baradah.cpp) |
-| 104493K | [104493K - Sam-Oh, the funny coach](https://codeforces.com/gym/104493/problem/K) |  | [Solution](Codeforces/GYM/104493/K_Sam-Oh,_the_funny_coach.cpp) |
-| 104505B | [104505B - Maracas](https://codeforces.com/gym/104505/problem/B) |  | [Solution](Codeforces/GYM/104505/B_Maracas.cpp) |
-| 104505D | [104505D - Supermarket queue](https://codeforces.com/gym/104505/problem/D) |  | [Solution](Codeforces/GYM/104505/D_Supermarket_queue.cpp) |
-| 104505E | [104505E - Long Live Mexico](https://codeforces.com/gym/104505/problem/E) |  | [Solution](Codeforces/GYM/104505/E_Long_Live_Mexico.cpp) |
-| 104505F | [104505F - Goalkeeper of 7 games (or less)](https://codeforces.com/gym/104505/problem/F) |  | [Solution](Codeforces/GYM/104505/F_Goalkeeper_of_7_games_(or_less).cpp) |
-| 104505G | [104505G - Choice hero](https://codeforces.com/gym/104505/problem/G) |  | [Solution](Codeforces/GYM/104505/G_Choice_hero.cpp) |
-| 104505K | [104505K - Missing Cyan](https://codeforces.com/gym/104505/problem/K) |  | [Solution](Codeforces/GYM/104505/K_Missing_Cyan.cpp) |
-| 104544B | [104544B - The Good Judge](https://codeforces.com/gym/104544/problem/B) |  | [Solution](Codeforces/GYM/104544/B_The_Good_Judge.cpp) |
-| 104544C | [104544C - K-th LNCA](https://codeforces.com/gym/104544/problem/C) |  | [Solution](Codeforces/GYM/104544/C_K-th_LNCA.cpp) |
-| 104544D | [104544D - For A Few Dollars More](https://codeforces.com/gym/104544/problem/D) |  | [Solution](Codeforces/GYM/104544/D_For_A_Few_Dollars_More.cpp) |
-| 104544G | [104544G - Now I Know You Are Blind Man, But You Gotta See This](https://codeforces.com/gym/104544/problem/G) |  | [Solution](Codeforces/GYM/104544/G_Now_I_Know_You_Are_Blind_Man,_But_You_Gotta_See_This.cpp) |
-| 104544L | [104544L - The Washing Machine Monster](https://codeforces.com/gym/104544/problem/L) |  | [Solution](Codeforces/GYM/104544/L_The_Washing_Machine_Monster.cpp) |
-| 104544M | [104544M - Be Aware of Your Profile Picture](https://codeforces.com/gym/104544/problem/M) |  | [Solution](Codeforces/GYM/104544/M_Be_Aware_of_Your_Profile_Picture.cpp) |
-| 104555A | [104555A - Amusement Park Adventure](https://codeforces.com/gym/104555/problem/A) |  | [Solution](Codeforces/GYM/104555/A_Amusement_Park_Adventure.cpp) |
-| 104555C | [104555C - Challenging Hike](https://codeforces.com/gym/104555/problem/C) |  | [Solution](Codeforces/GYM/104555/C_Challenging_Hike.cpp) |
-| 104555E | [104555E - Extracting Pollen](https://codeforces.com/gym/104555/problem/E) |  | [Solution](Codeforces/GYM/104555/E_Extracting_Pollen.cpp) |
-| 104555F | [104555F - Fatigue-Fighting Vacation](https://codeforces.com/gym/104555/problem/F) |  | [Solution](Codeforces/GYM/104555/F_Fatigue-Fighting_Vacation.cpp) |
-| 104555G | [104555G - Great Treaty of Byteland](https://codeforces.com/gym/104555/problem/G) |  | [Solution](Codeforces/GYM/104555/G_Great_Treaty_of_Byteland.cpp) |
-| 104555I | [104555I - Investigating Zeroes and Ones](https://codeforces.com/gym/104555/problem/I) |  | [Solution](Codeforces/GYM/104555/I_Investigating_Zeroes_and_Ones.cpp) |
-| 104555L | [104555L - Lexicographical Challenge](https://codeforces.com/gym/104555/problem/L) |  | [Solution](Codeforces/GYM/104555/L_Lexicographical_Challenge.cpp) |
-| 104555M | [104555M - Maximizing Flight Efficiency](https://codeforces.com/gym/104555/problem/M) |  | [Solution](Codeforces/GYM/104555/M_Maximizing_Flight_Efficiency.cpp) |
-| 104566A | [104566A - Live Love](https://codeforces.com/gym/104566/problem/A) |  | [Solution](Codeforces/GYM/104566/A_Live_Love.cpp) |
-| 104566B | [104566B - Red Black Tree](https://codeforces.com/gym/104566/problem/B) |  | [Solution](Codeforces/GYM/104566/B_Red_Black_Tree.cpp) |
-| 104566C | [104566C - Halting Problem](https://codeforces.com/gym/104566/problem/C) |  | [Solution](Codeforces/GYM/104566/C_Halting_Problem.cpp) |
-| 104566G | [104566G - Couleur](https://codeforces.com/gym/104566/problem/G) |  | [Solution](Codeforces/GYM/104566/G_Couleur.cpp) |
-| 104566H | [104566H - Traveling on the Axis](https://codeforces.com/gym/104566/problem/H) |  | [Solution](Codeforces/GYM/104566/H_Traveling_on_the_Axis.cpp) |
-| 104566J | [104566J - Press the Button](https://codeforces.com/gym/104566/problem/J) |  | [Solution](Codeforces/GYM/104566/J_Press_the_Button.cpp) |
-| 104566K | [104566K - XOR Clique](https://codeforces.com/gym/104566/problem/K) |  | [Solution](Codeforces/GYM/104566/K_XOR_Clique.cpp) |
-| 104603A | [104603A - Alfajores](https://codeforces.com/gym/104603/problem/A) |  | [Solution](Codeforces/GYM/104603/A_Alfajores.cpp) |
-| 104603B | [104603B - Black and white](https://codeforces.com/gym/104603/problem/B) |  | [Solution](Codeforces/GYM/104603/B_Black_and_white.cpp) |
-| 104603C | [104603C - Chromatic](https://codeforces.com/gym/104603/problem/C) |  | [Solution](Codeforces/GYM/104603/C_Chromatic.cpp) |
-| 104603D | [104603D - Assigning problems](https://codeforces.com/gym/104603/problem/D) |  | [Solution](Codeforces/GYM/104603/D_Assigning_problems.cpp) |
-| 104603E | [104603E - Finding progressions](https://codeforces.com/gym/104603/problem/E) |  | [Solution](Codeforces/GYM/104603/E_Finding_progressions.cpp) |
-| 104603F | [104603F - Cold day at the beach](https://codeforces.com/gym/104603/problem/F) |  | [Solution](Codeforces/GYM/104603/F_Cold_day_at_the_beach.cpp) |
-| 104603H | [104603H - Robotic Skills](https://codeforces.com/gym/104603/problem/H) |  | [Solution](Codeforces/GYM/104603/H_Robotic_Skills.cpp) |
-| 104603L | [104603L - Game series](https://codeforces.com/gym/104603/problem/L) |  | [Solution](Codeforces/GYM/104603/L_Game_series.cpp) |
-| 104603M | [104603M - Multiple Downloads](https://codeforces.com/gym/104603/problem/M) |  | [Solution](Codeforces/GYM/104603/M_Multiple_Downloads.cpp) |
-| 104603N | [104603N - Lucky Number](https://codeforces.com/gym/104603/problem/N) |  | [Solution](Codeforces/GYM/104603/N_Lucky_Number.cpp) |
-| 104736B | [104736B - Blackboard Game](https://codeforces.com/gym/104736/problem/B) |  | [Solution](Codeforces/GYM/104736/B_Blackboard_Game.cpp) |
-| 104736D | [104736D - Deciphering WordWhiz](https://codeforces.com/gym/104736/problem/D) |  | [Solution](Codeforces/GYM/104736/D_Deciphering_WordWhiz.cpp) |
-| 104736F | [104736F - Forward and Backward](https://codeforces.com/gym/104736/problem/F) |  | [Solution](Codeforces/GYM/104736/F_Forward_and_Backward.cpp) |
-| 104736I | [104736I - Inversions](https://codeforces.com/gym/104736/problem/I) |  | [Solution](Codeforces/GYM/104736/I_Inversions.cpp) |
-| 104736M | [104736M - Meeting Point](https://codeforces.com/gym/104736/problem/M) |  | [Solution](Codeforces/GYM/104736/M_Meeting_Point.cpp) |
-| 104757A | [104757A - A Pivotal Question](https://codeforces.com/gym/104757/problem/A) |  | [Solution](Codeforces/GYM/104757/A_A_Pivotal_Question.cpp) |
-| 104757B | [104757B - B Road Band](https://codeforces.com/gym/104757/problem/B) |  | [Solution](Codeforces/GYM/104757/B_B_Road_Band.cpp) |
-| 104757D | [104757D - Cornhusker](https://codeforces.com/gym/104757/problem/D) |  | [Solution](Codeforces/GYM/104757/D_Cornhusker.cpp) |
-| 104757E | [104757E - Prof.~Fumblemore and the Collatz Conjecture](https://codeforces.com/gym/104757/problem/E) |  | [Solution](Codeforces/GYM/104757/E_Prof.~Fumblemore_and_the_Collatz_Conjecture.cpp) |
-| 104757F | [104757F - Double Up](https://codeforces.com/gym/104757/problem/F) |  | [Solution](Codeforces/GYM/104757/F_Double_Up.cpp) |
-| 104757I | [104757I - ISBN Conversion](https://codeforces.com/gym/104757/problem/I) |  | [Solution](Codeforces/GYM/104757/I_ISBN_Conversion.cpp) |
-| 104757K | [104757K - Split Decisions](https://codeforces.com/gym/104757/problem/K) |  | [Solution](Codeforces/GYM/104757/K_Split_Decisions.cpp) |
-| 104767E | [104767E - Fragmentation](https://codeforces.com/gym/104767/problem/E) |  | [Solution](Codeforces/GYM/104767/E_Fragmentation.cpp) |
-| 104767K | [104767K - Screamers in the Storm](https://codeforces.com/gym/104767/problem/K) |  | [Solution](Codeforces/GYM/104767/K_Screamers_in_the_Storm.cpp) |
-| 104772A | [104772A - Axis-Aligned Area](https://codeforces.com/gym/104772/problem/A) |  | [Solution](Codeforces/GYM/104772/A_Axis-Aligned_Area.cpp) |
-| 104772D | [104772D - Divisibility Trick](https://codeforces.com/gym/104772/problem/D) |  | [Solution](Codeforces/GYM/104772/D_Divisibility_Trick.cpp) |
-| 104772E | [104772E - Every Queen](https://codeforces.com/gym/104772/problem/E) |  | [Solution](Codeforces/GYM/104772/E_Every_Queen.cpp) |
-| 104772G | [104772G - Game of Nim](https://codeforces.com/gym/104772/problem/G) |  | [Solution](Codeforces/GYM/104772/G_Game_of_Nim.cpp) |
-| 104772I | [104772I - Intersegment Activation](https://codeforces.com/gym/104772/problem/I) |  | [Solution](Codeforces/GYM/104772/I_Intersegment_Activation.cpp) |
-| 104772J | [104772J - Jumping Frogs](https://codeforces.com/gym/104772/problem/J) |  | [Solution](Codeforces/GYM/104772/J_Jumping_Frogs.cpp) |
-| 104772K | [104772K - Kitchen Timer](https://codeforces.com/gym/104772/problem/K) |  | [Solution](Codeforces/GYM/104772/K_Kitchen_Timer.cpp) |
-| 104772M | [104772M - Missing Vowels](https://codeforces.com/gym/104772/problem/M) |  | [Solution](Codeforces/GYM/104772/M_Missing_Vowels.cpp) |
-| 104782A | [104782A - Maximum Distance](https://codeforces.com/gym/104782/problem/A) |  | [Solution](Codeforces/GYM/104782/A_Maximum_Distance.cpp) |
-| 104782C | [104782C - Basketball](https://codeforces.com/gym/104782/problem/C) |  | [Solution](Codeforces/GYM/104782/C_Basketball.cpp) |
-| 104782D | [104782D - Edenland](https://codeforces.com/gym/104782/problem/D) |  | [Solution](Codeforces/GYM/104782/D_Edenland.cpp) |
-| 104782E | [104782E - Fiboxor](https://codeforces.com/gym/104782/problem/E) |  | [Solution](Codeforces/GYM/104782/E_Fiboxor.cpp) |
-| 104782G | [104782G - Minimize Sum](https://codeforces.com/gym/104782/problem/G) |  | [Solution](Codeforces/GYM/104782/G_Minimize_Sum.cpp) |
-| 104782I | [104782I - KSumT](https://codeforces.com/gym/104782/problem/I) |  | [Solution](Codeforces/GYM/104782/I_KSumT.cpp) |
-| 104782J | [104782J - Parallelogram](https://codeforces.com/gym/104782/problem/J) |  | [Solution](Codeforces/GYM/104782/J_Parallelogram.cpp) |
-| 104782L | [104782L - Dush](https://codeforces.com/gym/104782/problem/L) |  | [Solution](Codeforces/GYM/104782/L_Dush.cpp) |
-| 104785B | [104785B - Boat Commuter](https://codeforces.com/gym/104785/problem/B) |  | [Solution](Codeforces/GYM/104785/B_Boat_Commuter.cpp) |
-| 104785C | [104785C - Clearing Space](https://codeforces.com/gym/104785/problem/C) |  | [Solution](Codeforces/GYM/104785/C_Clearing_Space.cpp) |
-| 104785D | [104785D - Delivery Forces](https://codeforces.com/gym/104785/problem/D) |  | [Solution](Codeforces/GYM/104785/D_Delivery_Forces.cpp) |
-| 104785F | [104785F - Fast Forward](https://codeforces.com/gym/104785/problem/F) |  | [Solution](Codeforces/GYM/104785/F_Fast_Forward.cpp) |
-| 104785K | [104785K - Kernel Scheduler](https://codeforces.com/gym/104785/problem/K) |  | [Solution](Codeforces/GYM/104785/K_Kernel_Scheduler.cpp) |
-| 104785L | [104785L - Last One Standing](https://codeforces.com/gym/104785/problem/L) |  | [Solution](Codeforces/GYM/104785/L_Last_One_Standing.cpp) |
-| 104785M | [104785M - Mini-Tetris 3023](https://codeforces.com/gym/104785/problem/M) |  | [Solution](Codeforces/GYM/104785/M_Mini-Tetris_3023.cpp) |
-| 104785N | [104785N - Naming Wine Bottles](https://codeforces.com/gym/104785/problem/N) |  | [Solution](Codeforces/GYM/104785/N_Naming_Wine_Bottles.cpp) |
-| 104790A | [104790A - \texttt{apt upgrade}](https://codeforces.com/gym/104790/problem/A) |  | [Solution](Codeforces/GYM/104790/A_texttt{apt_upgrade}.cpp) |
-| 104790B | [104790B - Battle Bots](https://codeforces.com/gym/104790/problem/B) |  | [Solution](Codeforces/GYM/104790/B_Battle_Bots.cpp) |
-| 104790C | [104790C - Compressing Commands](https://codeforces.com/gym/104790/problem/C) |  | [Solution](Codeforces/GYM/104790/C_Compressing_Commands.cpp) |
-| 104790D | [104790D - Democratic Naming](https://codeforces.com/gym/104790/problem/D) |  | [Solution](Codeforces/GYM/104790/D_Democratic_Naming.cpp) |
-| 104790E | [104790E - Exam Study Planning](https://codeforces.com/gym/104790/problem/E) |  | [Solution](Codeforces/GYM/104790/E_Exam_Study_Planning.cpp) |
-| 104790F | [104790F - Funicular Frenzy](https://codeforces.com/gym/104790/problem/F) |  | [Solution](Codeforces/GYM/104790/F_Funicular_Frenzy.cpp) |
-| 104790G | [104790G - Geometry Game](https://codeforces.com/gym/104790/problem/G) |  | [Solution](Codeforces/GYM/104790/G_Geometry_Game.cpp) |
-| 104790L | [104790L - Locking Doors](https://codeforces.com/gym/104790/problem/L) |  | [Solution](Codeforces/GYM/104790/L_Locking_Doors.cpp) |
-| 104805A | [104805A - Number System](https://codeforces.com/gym/104805/problem/A) |  | [Solution](Codeforces/GYM/104805/A_Number_System.cpp) |
-| 104805B | [104805B - The Moon golf](https://codeforces.com/gym/104805/problem/B) |  | [Solution](Codeforces/GYM/104805/B_The_Moon_golf.cpp) |
-| 104805C | [104805C - Fare](https://codeforces.com/gym/104805/problem/C) |  | [Solution](Codeforces/GYM/104805/C_Fare.cpp) |
-| 104805E | [104805E - Alley](https://codeforces.com/gym/104805/problem/E) |  | [Solution](Codeforces/GYM/104805/E_Alley.cpp) |
-| 104805G | [104805G - Sleep](https://codeforces.com/gym/104805/problem/G) |  | [Solution](Codeforces/GYM/104805/G_Sleep.cpp) |
-| 104805H | [104805H - Crawling](https://codeforces.com/gym/104805/problem/H) |  | [Solution](Codeforces/GYM/104805/H_Crawling.cpp) |
-| 104805I | [104805I - Problem on array](https://codeforces.com/gym/104805/problem/I) |  | [Solution](Codeforces/GYM/104805/I_Problem_on_array.cpp) |
-| 104805K | [104805K - Get the numbers](https://codeforces.com/gym/104805/problem/K) |  | [Solution](Codeforces/GYM/104805/K_Get_the_numbers.cpp) |
-| 104805L | [104805L - Towers](https://codeforces.com/gym/104805/problem/L) |  | [Solution](Codeforces/GYM/104805/L_Towers.cpp) |
-| 104805M | [104805M - Choosing a name](https://codeforces.com/gym/104805/problem/M) |  | [Solution](Codeforces/GYM/104805/M_Choosing_a_name.cpp) |
-| 104805N | [104805N - First words](https://codeforces.com/gym/104805/problem/N) |  | [Solution](Codeforces/GYM/104805/N_First_words.cpp) |
-| 104832A | [104832A - Yokohama Phenomena](https://codeforces.com/gym/104832/problem/A) |  | [Solution](Codeforces/GYM/104832/A_Yokohama_Phenomena.cpp) |
-| 104832B | [104832B - Rank Promotion](https://codeforces.com/gym/104832/problem/B) |  | [Solution](Codeforces/GYM/104832/B_Rank_Promotion.cpp) |
-| 104832D | [104832D - Nested Repetition Compression](https://codeforces.com/gym/104832/problem/D) |  | [Solution](Codeforces/GYM/104832/D_Nested_Repetition_Compression.cpp) |
-| 104832F | [104832F - Color Inversion on a Huge Chessboard](https://codeforces.com/gym/104832/problem/F) |  | [Solution](Codeforces/GYM/104832/F_Color_Inversion_on_a_Huge_Chessboard.cpp) |
-| 104832G | [104832G - Fortune Telling](https://codeforces.com/gym/104832/problem/G) |  | [Solution](Codeforces/GYM/104832/G_Fortune_Telling.cpp) |
-| 104842A | [104842A - Adventure in Flatland](https://codeforces.com/gym/104842/problem/A) |  | [Solution](Codeforces/GYM/104842/A_Adventure_in_Flatland.cpp) |
-| 104842B | [104842B - Basketball Plus-Minus](https://codeforces.com/gym/104842/problem/B) |  | [Solution](Codeforces/GYM/104842/B_Basketball_Plus-Minus.cpp) |
-| 104842C | [104842C - C and Pascal Strings](https://codeforces.com/gym/104842/problem/C) |  | [Solution](Codeforces/GYM/104842/C_C_and_Pascal_Strings.cpp) |
-| 104842D | [104842D - Deep Primes](https://codeforces.com/gym/104842/problem/D) |  | [Solution](Codeforces/GYM/104842/D_Deep_Primes.cpp) |
-| 104842G | [104842G - Game With Stones](https://codeforces.com/gym/104842/problem/G) |  | [Solution](Codeforces/GYM/104842/G_Game_With_Stones.cpp) |
-| 104854B | [104854B - Beautiful Contest](https://codeforces.com/gym/104854/problem/B) |  | [Solution](Codeforces/GYM/104854/B_Beautiful_Contest.cpp) |
-| 104854C | [104854C - Continued Fractions](https://codeforces.com/gym/104854/problem/C) |  | [Solution](Codeforces/GYM/104854/C_Continued_Fractions.cpp) |
-| 104854D | [104854D - District 42](https://codeforces.com/gym/104854/problem/D) |  | [Solution](Codeforces/GYM/104854/D_District_42.cpp) |
-| 104854F | [104854F - Factorial Prime](https://codeforces.com/gym/104854/problem/F) |  | [Solution](Codeforces/GYM/104854/F_Factorial_Prime.cpp) |
-| 104854G | [104854G - Guess Gauss](https://codeforces.com/gym/104854/problem/G) |  | [Solution](Codeforces/GYM/104854/G_Guess_Gauss.cpp) |
-| 104854J | [104854J - Judging Gifts](https://codeforces.com/gym/104854/problem/J) |  | [Solution](Codeforces/GYM/104854/J_Judging_Gifts.cpp) |
-| 104871B | [104871B - Ball Passing](https://codeforces.com/gym/104871/problem/B) |  | [Solution](Codeforces/GYM/104871/B_Ball_Passing.cpp) |
-| 104871D | [104871D - Drying Laundry](https://codeforces.com/gym/104871/problem/D) |  | [Solution](Codeforces/GYM/104871/D_Drying_Laundry.cpp) |
-| 104871E | [104871E - Equal Schedules](https://codeforces.com/gym/104871/problem/E) |  | [Solution](Codeforces/GYM/104871/E_Equal_Schedules.cpp) |
-| 104871G | [104871G - Going to the Moon](https://codeforces.com/gym/104871/problem/G) |  | [Solution](Codeforces/GYM/104871/G_Going_to_the_Moon.cpp) |
-| 104871K | [104871K - Keys](https://codeforces.com/gym/104871/problem/K) |  | [Solution](Codeforces/GYM/104871/K_Keys.cpp) |
-| 104872A | [104872A - Three Suitcases](https://codeforces.com/gym/104872/problem/A) |  | [Solution](Codeforces/GYM/104872/A_Three_Suitcases.cpp) |
-| 104872B | [104872B - Cooperative Game on a Tree](https://codeforces.com/gym/104872/problem/B) |  | [Solution](Codeforces/GYM/104872/B_Cooperative_Game_on_a_Tree.cpp) |
-| 104872E | [104872E - Casino](https://codeforces.com/gym/104872/problem/E) |  | [Solution](Codeforces/GYM/104872/E_Casino.cpp) |
-| 104872F | [104872F - Magic Square](https://codeforces.com/gym/104872/problem/F) |  | [Solution](Codeforces/GYM/104872/F_Magic_Square.cpp) |
-| 104872G | [104872G - Not Everything Is So Ambiguous](https://codeforces.com/gym/104872/problem/G) |  | [Solution](Codeforces/GYM/104872/G_Not_Everything_Is_So_Ambiguous.cpp) |
-| 104872H | [104872H - Scooter Numbers](https://codeforces.com/gym/104872/problem/H) |  | [Solution](Codeforces/GYM/104872/H_Scooter_Numbers.cpp) |
-| 104872L | [104872L - Count the Christmas Trees](https://codeforces.com/gym/104872/problem/L) |  | [Solution](Codeforces/GYM/104872/L_Count_the_Christmas_Trees.cpp) |
-| 104872M | [104872M - Katya and the Broken Keyboard](https://codeforces.com/gym/104872/problem/M) |  | [Solution](Codeforces/GYM/104872/M_Katya_and_the_Broken_Keyboard.cpp) |
-| 104874A | [104874A - Accurate Movement](https://codeforces.com/gym/104874/problem/A) |  | [Solution](Codeforces/GYM/104874/A_Accurate_Movement.cpp) |
-| 104874E | [104874E - Equidistant](https://codeforces.com/gym/104874/problem/E) |  | [Solution](Codeforces/GYM/104874/E_Equidistant.cpp) |
-| 104874H | [104874H - High Load Database](https://codeforces.com/gym/104874/problem/H) |  | [Solution](Codeforces/GYM/104874/H_High_Load_Database.cpp) |
-| 104874J | [104874J - Just the Last Digit](https://codeforces.com/gym/104874/problem/J) |  | [Solution](Codeforces/GYM/104874/J_Just_the_Last_Digit.cpp) |
-| 104874M | [104874M - Managing Difficulties](https://codeforces.com/gym/104874/problem/M) |  | [Solution](Codeforces/GYM/104874/M_Managing_Difficulties.cpp) |
-| 104925B | [104925B - Binary Sequence](https://codeforces.com/gym/104925/problem/B) |  | [Solution](Codeforces/GYM/104925/B_Binary_Sequence.cpp) |
-| 104925E | [104925E - Freshman's Dream](https://codeforces.com/gym/104925/problem/E) |  | [Solution](Codeforces/GYM/104925/E_Freshman's_Dream.cpp) |
-| 104925I | [104925I - Rebellious Edge](https://codeforces.com/gym/104925/problem/I) |  | [Solution](Codeforces/GYM/104925/I_Rebellious_Edge.cpp) |
-| 105020A | [105020A - Mood](https://codeforces.com/gym/105020/problem/A) |  | [Solution](Codeforces/GYM/105020/A_Mood.cpp) |
-| 105020B | [105020B - Hungry](https://codeforces.com/gym/105020/problem/B) |  | [Solution](Codeforces/GYM/105020/B_Hungry.cpp) |
-| 105020C | [105020C - Ice Coffee](https://codeforces.com/gym/105020/problem/C) |  | [Solution](Codeforces/GYM/105020/C_Ice_Coffee.cpp) |
-| 105020D | [105020D - Beautiful decrease](https://codeforces.com/gym/105020/problem/D) |  | [Solution](Codeforces/GYM/105020/D_Beautiful_decrease.cpp) |
-| 105020E | [105020E - The Detective Game](https://codeforces.com/gym/105020/problem/E) |  | [Solution](Codeforces/GYM/105020/E_The_Detective_Game.cpp) |
-| 105020F | [105020F - Distinct](https://codeforces.com/gym/105020/problem/F) |  | [Solution](Codeforces/GYM/105020/F_Distinct.cpp) |
-| 105020G | [105020G - String Rotation](https://codeforces.com/gym/105020/problem/G) |  | [Solution](Codeforces/GYM/105020/G_String_Rotation.cpp) |
-| 105020H | [105020H - Cookies](https://codeforces.com/gym/105020/problem/H) |  | [Solution](Codeforces/GYM/105020/H_Cookies.cpp) |
-| 105020I | [105020I - Omar and Trees](https://codeforces.com/gym/105020/problem/I) |  | [Solution](Codeforces/GYM/105020/I_Omar_and_Trees.cpp) |
-| 105020J | [105020J - Hide and Seek](https://codeforces.com/gym/105020/problem/J) |  | [Solution](Codeforces/GYM/105020/J_Hide_and_Seek.cpp) |
-| 105020K | [105020K - Wrong digits](https://codeforces.com/gym/105020/problem/K) |  | [Solution](Codeforces/GYM/105020/K_Wrong_digits.cpp) |
-| 105020L | [105020L - Black and White Tree](https://codeforces.com/gym/105020/problem/L) |  | [Solution](Codeforces/GYM/105020/L_Black_and_White_Tree.cpp) |
-| 105020M | [105020M - Delivery](https://codeforces.com/gym/105020/problem/M) |  | [Solution](Codeforces/GYM/105020/M_Delivery.cpp) |
-| 105020N | [105020N - How many rectangles?](https://codeforces.com/gym/105020/problem/N) |  | [Solution](Codeforces/GYM/105020/N_How_many_rectangles.cpp) |
-| 105022D | [105022D - Air Taxi Game](https://codeforces.com/gym/105022/problem/D) |  | [Solution](Codeforces/GYM/105022/D_Air_Taxi_Game.cpp) |
-| 105053D | [105053D - DiviDuelo](https://codeforces.com/gym/105053/problem/D) |  | [Solution](Codeforces/GYM/105053/D_DiviDuelo.cpp) |
-| 105053F | [105053F - Fair Distribution](https://codeforces.com/gym/105053/problem/F) |  | [Solution](Codeforces/GYM/105053/F_Fair_Distribution.cpp) |
-| 105053G | [105053G - Greek Casino](https://codeforces.com/gym/105053/problem/G) |  | [Solution](Codeforces/GYM/105053/G_Greek_Casino.cpp) |
-| 105053K | [105053K - KMOP](https://codeforces.com/gym/105053/problem/K) |  | [Solution](Codeforces/GYM/105053/K_KMOP.cpp) |
-| 105053L | [105053L - LED Matrix](https://codeforces.com/gym/105053/problem/L) |  | [Solution](Codeforces/GYM/105053/L_LED_Matrix.cpp) |
-| 105264A | [105264A - Goals, Goals! Everywhere](https://codeforces.com/gym/105264/problem/A) |  | [Solution](Codeforces/GYM/105264/A_Goals,_Goals!_Everywhere.cpp) |
-| 105264C | [105264C - Variety Hater](https://codeforces.com/gym/105264/problem/C) |  | [Solution](Codeforces/GYM/105264/C_Variety_Hater.cpp) |
-| 105264D | [105264D - Make It Minimum](https://codeforces.com/gym/105264/problem/D) |  | [Solution](Codeforces/GYM/105264/D_Make_It_Minimum.cpp) |
-| 105264F | [105264F - Tree XOR](https://codeforces.com/gym/105264/problem/F) |  | [Solution](Codeforces/GYM/105264/F_Tree_XOR.cpp) |
-| 105264H | [105264H - Good Array](https://codeforces.com/gym/105264/problem/H) |  | [Solution](Codeforces/GYM/105264/H_Good_Array.cpp) |
-| 105264I | [105264I - Homies and Not Homies](https://codeforces.com/gym/105264/problem/I) |  | [Solution](Codeforces/GYM/105264/I_Homies_and_Not_Homies.cpp) |
-| 105264J | [105264J - Game of Primes](https://codeforces.com/gym/105264/problem/J) |  | [Solution](Codeforces/GYM/105264/J_Game_of_Primes.cpp) |
-| 105264K | [105264K - Minimum Sum](https://codeforces.com/gym/105264/problem/K) |  | [Solution](Codeforces/GYM/105264/K_Minimum_Sum.cpp) |
-| 105264M | [105264M - Kaaa](https://codeforces.com/gym/105264/problem/M) |  | [Solution](Codeforces/GYM/105264/M_Kaaa.cpp) |
-| 105677H | [105677H - The king of SWERC](https://codeforces.com/gym/105677/problem/H) |  | [Solution](Codeforces/GYM/105677/H_The_king_of_SWERC.cpp) |
-| 105789A | [105789A - Ananna](https://codeforces.com/gym/105789/problem/A) |  | [Solution](Codeforces/GYM/105789/A_Ananna.cpp) |
-| 105789C | [105789C - Coatless in Yakutsk](https://codeforces.com/gym/105789/problem/C) |  | [Solution](Codeforces/GYM/105789/C_Coatless_in_Yakutsk.cpp) |
-| 105789D | [105789D - Dangerous City](https://codeforces.com/gym/105789/problem/D) |  | [Solution](Codeforces/GYM/105789/D_Dangerous_City.cpp) |
-| 105789G | [105789G - Game of Pieces](https://codeforces.com/gym/105789/problem/G) |  | [Solution](Codeforces/GYM/105789/G_Game_of_Pieces.cpp) |
-| 105789L | [105789L - LED Counter](https://codeforces.com/gym/105789/problem/L) |  | [Solution](Codeforces/GYM/105789/L_LED_Counter.cpp) |
-| 106020A | [106020A - Tree Labeling](https://codeforces.com/gym/106020/problem/A) |  | [Solution](Codeforces/GYM/106020/A_Tree_Labeling.cpp) |
-| 106020B | [106020B - Free Problems](https://codeforces.com/gym/106020/problem/B) |  | [Solution](Codeforces/GYM/106020/B_Free_Problems.cpp) |
-| 106020C | [106020C - GCD on Tree](https://codeforces.com/gym/106020/problem/C) |  | [Solution](Codeforces/GYM/106020/C_GCD_on_Tree.cpp) |
-| 106020E | [106020E - Permutation Game](https://codeforces.com/gym/106020/problem/E) |  | [Solution](Codeforces/GYM/106020/E_Permutation_Game.cpp) |
-| 106020F | [106020F - Coin Flip](https://codeforces.com/gym/106020/problem/F) |  | [Solution](Codeforces/GYM/106020/F_Coin_Flip.cpp) |
-| 106020H | [106020H - Mexican Subarrays](https://codeforces.com/gym/106020/problem/H) |  | [Solution](Codeforces/GYM/106020/H_Mexican_Subarrays.cpp) |
-| 106020M | [106020M - Hayyan and Subarray Sums](https://codeforces.com/gym/106020/problem/M) |  | [Solution](Codeforces/GYM/106020/M_Hayyan_and_Subarray_Sums.cpp) |
-| 106020N | [106020N - Colored Sticks](https://codeforces.com/gym/106020/problem/N) |  | [Solution](Codeforces/GYM/106020/N_Colored_Sticks.cpp) |
-| 106063A | [106063A - Archmage's Crystals](https://codeforces.com/gym/106063/problem/A) |  | [Solution](Codeforces/GYM/106063/A_Archmage's_Crystals.cpp) |
-| 106063B | [106063B - Bytelandia's stones](https://codeforces.com/gym/106063/problem/B) |  | [Solution](Codeforces/GYM/106063/B_Bytelandia's_stones.cpp) |
-| 106063D | [106063D - Doubled Sequence II](https://codeforces.com/gym/106063/problem/D) |  | [Solution](Codeforces/GYM/106063/D_Doubled_Sequence_II.cpp) |
-| 106063F | [106063F - Fantastic Robot](https://codeforces.com/gym/106063/problem/F) |  | [Solution](Codeforces/GYM/106063/F_Fantastic_Robot.cpp) |
-| 106063G | [106063G - Gatuno's Descent into Psychopathy](https://codeforces.com/gym/106063/problem/G) |  | [Solution](Codeforces/GYM/106063/G_Gatuno's_Descent_into_Psychopathy.cpp) |
-| 106063H | [106063H - Heritage of Acatlán](https://codeforces.com/gym/106063/problem/H) |  | [Solution](Codeforces/GYM/106063/H_Heritage_of_Acatlán.cpp) |
-| 106063J | [106063J - Juan vs Frank](https://codeforces.com/gym/106063/problem/J) |  | [Solution](Codeforces/GYM/106063/J_Juan_vs_Frank.cpp) |
-| 106063K | [106063K - Kilometric Intersection](https://codeforces.com/gym/106063/problem/K) |  | [Solution](Codeforces/GYM/106063/K_Kilometric_Intersection.cpp) |
-| 106063L | [106063L - Los Ratones III](https://codeforces.com/gym/106063/problem/L) |  | [Solution](Codeforces/GYM/106063/L_Los_Ratones_III.cpp) |
+| # | Problem | Category | Solution |
+|---|---------|----------|----------|
+| 1812A | [1812A - Are You a Robot?](https://codeforces.com/contest/1812/problem/A) | Contests | [Solution](Codeforces/Contests/1812/A_Are_You_a_Robot.cpp) |
+| 1812B | [1812B - Was it Rated?](https://codeforces.com/contest/1812/problem/B) | Contests | [Solution](Codeforces/Contests/1812/B_Was_it_Rated.cpp) |
+| 1812D | [1812D - Trivial Conjecture](https://codeforces.com/contest/1812/problem/D) | Contests | [Solution](Codeforces/Contests/1812/D_Trivial_Conjecture.cpp) |
+| 1812E | [1812E - Not a Geometry Problem](https://codeforces.com/contest/1812/problem/E) | Contests | [Solution](Codeforces/Contests/1812/E_Not_a_Geometry_Problem.cpp) |
+| 1812F | [1812F - Factorization](https://codeforces.com/contest/1812/problem/F) | Contests | [Solution](Codeforces/Contests/1812/F_Factorization.cpp) |
+| 1812J | [1812J - Unmysterious Language](https://codeforces.com/contest/1812/problem/J) | Contests | [Solution](Codeforces/Contests/1812/J_Unmysterious_Language.txt) |
+| 1952A | [1952A - Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | Contests | [Solution](Codeforces/Contests/1952/A_Are_You_a_Robot,_Again.cpp) |
+| 1952B | [1952B - Is it stated?](https://codeforces.com/contest/1952/problem/B) | Contests | [Solution](Codeforces/Contests/1952/B_Is_it_stated.cpp) |
+| 1952D | [1952D - Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D) | Contests | [Solution](Codeforces/Contests/1952/D_Are_You_a_Procrastinator.cpp) |
+| 1959A | [1959A - Spy Detected!](https://codeforces.com/contest/1959/problem/A) | Contests | [Solution](Codeforces/Contests/1959/A_Spy_Detected!.kt) |
+| 1959B | [1959B - Compare T-Shirt Sizes](https://codeforces.com/contest/1959/problem/B) | Contests | [Solution](Codeforces/Contests/1959/B_Compare_T-Shirt_Sizes.kt) |
+| 1959C | [1959C - Count the Number of Pairs](https://codeforces.com/contest/1959/problem/C) | Contests | [Solution](Codeforces/Contests/1959/C_Count_the_Number_of_Pairs.kt) |
+| 1959D | [1959D - Traffic Light](https://codeforces.com/contest/1959/problem/D) | Contests | [Solution](Codeforces/Contests/1959/D_Traffic_Light.kt) |
+| 1959E | [1959E - Jumping on Tiles](https://codeforces.com/contest/1959/problem/E) | Contests | [Solution](Codeforces/Contests/1959/E_Jumping_on_Tiles.kt) |
+| 1959F | [1959F - Sending a Sequence Over the Network](https://codeforces.com/contest/1959/problem/F) | Contests | [Solution](Codeforces/Contests/1959/F_Sending_a_Sequence_Over_the_Network.kt) |
+| 2192A | [2192A - String Rotation Game](https://codeforces.com/contest/2192/problem/A) | Contests | [Solution](Codeforces/Contests/2192/A_String_Rotation_Game.cpp) |
+| 2192B | [2192B - Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | Contests | [Solution](Codeforces/Contests/2192/B_Flipping_Binary_String.cpp) |
+| 2192C | [2192C - All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | Contests | [Solution](Codeforces/Contests/2192/C_All-in-one_Gun.cpp) |
+| 2192D | [2192D - Cost of Tree](https://codeforces.com/contest/2192/problem/D) | Contests | [Solution](Codeforces/Contests/2192/D_Cost_of_Tree.cpp) |
+| 2192E | [2192E - Swap to Rearrange](https://codeforces.com/contest/2192/problem/E) | Contests | [Solution](Codeforces/Contests/2192/E_Swap_to_Rearrange.cpp) |
+| 2194A | [2194A - Lawn Mower](https://codeforces.com/contest/2194/problem/A) | Contests | [Solution](Codeforces/Contests/2194/A_Lawn_Mower.cpp) |
+| 2194B | [2194B - Offshores](https://codeforces.com/contest/2194/problem/B) | Contests | [Solution](Codeforces/Contests/2194/B_Offshores.cpp) |
+| 2194C | [2194C - Secret message](https://codeforces.com/contest/2194/problem/C) | Contests | [Solution](Codeforces/Contests/2194/C_Secret_message.cpp) |
+| 2194D | [2194D - Table Cut](https://codeforces.com/contest/2194/problem/D) | Contests | [Solution](Codeforces/Contests/2194/D_Table_Cut.cpp) |
+| 2194E | [2194E - The Turtle Strikes Back](https://codeforces.com/contest/2194/problem/E) | Contests | [Solution](Codeforces/Contests/2194/E_The_Turtle_Strikes_Back.cpp) |
+| 2194F1 | [2194F1 - Again Trees... (Easy Version)](https://codeforces.com/contest/2194/problem/F1) | Contests | [Solution](Codeforces/Contests/2194/F1_Again_Trees..._(Easy_Version).cpp) |
+| 2195A | [2195A - Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | Contests | [Solution](Codeforces/Contests/2195/A_Sieve_of_Erato67henes.cpp) |
+| 2195B | [2195B - Heapify 1](https://codeforces.com/contest/2195/problem/B) | Contests | [Solution](Codeforces/Contests/2195/B_Heapify_1.cpp) |
+| 2195C | [2195C - Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | Contests | [Solution](Codeforces/Contests/2195/C_Dice_Roll_Sequence.cpp) |
+| 2195D | [2195D - Absolute Cinema](https://codeforces.com/contest/2195/problem/D) | Contests | [Solution](Codeforces/Contests/2195/D_Absolute_Cinema.cpp) |
+| 2195E | [2195E - Idiot First Search](https://codeforces.com/contest/2195/problem/E) | Contests | [Solution](Codeforces/Contests/2195/E_Idiot_First_Search.cpp) |
+| 2195F | [2195F - Parabola Independence](https://codeforces.com/contest/2195/problem/F) | Contests | [Solution](Codeforces/Contests/2195/F_Parabola_Independence.cpp) |
+| 2195G | [2195G - Idiot First Search and Queries](https://codeforces.com/contest/2195/problem/G) | Contests | [Solution](Codeforces/Contests/2195/G_Idiot_First_Search_and_Queries.cpp) |
+| 2197A | [2197A - Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | Contests | [Solution](Codeforces/Contests/2197/A_Friendly_Numbers.cpp) |
+| 2197B | [2197B - Array and Permutation](https://codeforces.com/contest/2197/problem/B) | Contests | [Solution](Codeforces/Contests/2197/B_Array_and_Permutation.cpp) |
+| 2197C | [2197C - Game with a Fraction](https://codeforces.com/contest/2197/problem/C) | Contests | [Solution](Codeforces/Contests/2197/C_Game_with_a_Fraction.cpp) |
+| 2197D | [2197D - Another Problem about Beautiful Pairs](https://codeforces.com/contest/2197/problem/D) | Contests | [Solution](Codeforces/Contests/2197/D_Another_Problem_about_Beautiful_Pairs.cpp) |
+| 2197E1 | [2197E1 - Interactive Graph (Simple Version)](https://codeforces.com/contest/2197/problem/E1) | Contests | [Solution](Codeforces/Contests/2197/E1_Interactive_Graph_(Simple_Version).cpp) |
+| 2203A | [2203A - Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | Contests | [Solution](Codeforces/Contests/2203/A_Towers_of_Boxes.cpp) |
+| 2203B | [2203B - Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | Contests | [Solution](Codeforces/Contests/2203/B_Beautiful_Numbers.cpp) |
+| 2203C | [2203C - Test Generator](https://codeforces.com/contest/2203/problem/C) | Contests | [Solution](Codeforces/Contests/2203/C_Test_Generator.cpp) |
+| 2203D | [2203D - Divisibility Game](https://codeforces.com/contest/2203/problem/D) | Contests | [Solution](Codeforces/Contests/2203/D_Divisibility_Game.cpp) |
+| 2205A | [2205A - Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | Contests | [Solution](Codeforces/Contests/2205/A_Simons_and_Making_It_Beautiful.cpp) |
+| 2205B | [2205B - Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | Contests | [Solution](Codeforces/Contests/2205/B_Simons_and_Cakes_for_Success.cpp) |
+| 2205C | [2205C - Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C) | Contests | [Solution](Codeforces/Contests/2205/C_Simons_and_Posting_Blogs.cpp) |
+| 2205D | [2205D - Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | Contests | [Solution](Codeforces/Contests/2205/D_Simons_and_Beating_Peaks.cpp) |
+| 2205E | [2205E - Simons and Dividing the Rhythm](https://codeforces.com/contest/2205/problem/E) | Contests | [Solution](Codeforces/Contests/2205/E_Simons_and_Dividing_the_Rhythm.cpp) |
+| 2207A | [2207A - 1-1](https://codeforces.com/contest/2207/problem/A) | Contests | [Solution](Codeforces/Contests/2207/A_1-1.cpp) |
+| 2207B | [2207B - One Night At Freddy's](https://codeforces.com/contest/2207/problem/B) | Contests | [Solution](Codeforces/Contests/2207/B_One_Night_At_Freddy's.cpp) |
+| 2207C | [2207C - Where's My Water?](https://codeforces.com/contest/2207/problem/C) | Contests | [Solution](Codeforces/Contests/2207/C_Where's_My_Water.cpp) |
+| 2207D | [2207D - Boxed Like a Fish](https://codeforces.com/contest/2207/problem/D) | Contests | [Solution](Codeforces/Contests/2207/D_Boxed_Like_a_Fish.cpp) |
+| 2207E1 | [2207E1 - N-MEX (Constructive Version)](https://codeforces.com/contest/2207/problem/E1) | Contests | [Solution](Codeforces/Contests/2207/E1_N-MEX_(Constructive_Version).cpp) |
+| 100712A | [100712A - Who Is The Winner](https://codeforces.com/gym/100712/problem/A) | GYM | [Solution](Codeforces/GYM/100712/A_Who_Is_The_Winner.cpp) |
+| 100712B | [100712B - Rock-Paper-Scissors](https://codeforces.com/gym/100712/problem/B) | GYM | [Solution](Codeforces/GYM/100712/B_Rock-Paper-Scissors.cpp) |
+| 100712C | [100712C - Street Lamps](https://codeforces.com/gym/100712/problem/C) | GYM | [Solution](Codeforces/GYM/100712/C_Street_Lamps.cpp) |
+| 100712E | [100712E - Epic Professor](https://codeforces.com/gym/100712/problem/E) | GYM | [Solution](Codeforces/GYM/100712/E_Epic_Professor.cpp) |
+| 100712G | [100712G - Heavy Coins](https://codeforces.com/gym/100712/problem/G) | GYM | [Solution](Codeforces/GYM/100712/G_Heavy_Coins.cpp) |
+| 100712J | [100712J - Candy](https://codeforces.com/gym/100712/problem/J) | GYM | [Solution](Codeforces/GYM/100712/J_Candy.cpp) |
+| 100712K | [100712K - Runtime Error](https://codeforces.com/gym/100712/problem/K) | GYM | [Solution](Codeforces/GYM/100712/K_Runtime_Error.cpp) |
+| 100814A | [100814A - Arcade Game](https://codeforces.com/gym/100814/problem/A) | GYM | [Solution](Codeforces/GYM/100814/A_Arcade_Game.cpp) |
+| 100814B | [100814B - Unlucky Teacher](https://codeforces.com/gym/100814/problem/B) | GYM | [Solution](Codeforces/GYM/100814/B_Unlucky_Teacher.cpp) |
+| 100814C | [100814C - Connecting Graph](https://codeforces.com/gym/100814/problem/C) | GYM | [Solution](Codeforces/GYM/100814/C_Connecting_Graph.cpp) |
+| 100814D | [100814D - Frozen Rivers](https://codeforces.com/gym/100814/problem/D) | GYM | [Solution](Codeforces/GYM/100814/D_Frozen_Rivers.cpp) |
+| 100814E | [100814E - Palmyra](https://codeforces.com/gym/100814/problem/E) | GYM | [Solution](Codeforces/GYM/100814/E_Palmyra.cpp) |
+| 100814F | [100814F - Geometry](https://codeforces.com/gym/100814/problem/F) | GYM | [Solution](Codeforces/GYM/100814/F_Geometry.cpp) |
+| 100814G | [100814G - It is all about wisdom](https://codeforces.com/gym/100814/problem/G) | GYM | [Solution](Codeforces/GYM/100814/G_It_is_all_about_wisdom.cpp) |
+| 100814I | [100814I - Salem](https://codeforces.com/gym/100814/problem/I) | GYM | [Solution](Codeforces/GYM/100814/I_Salem.cpp) |
+| 100814J | [100814J - Game](https://codeforces.com/gym/100814/problem/J) | GYM | [Solution](Codeforces/GYM/100814/J_Game.cpp) |
+| 100814L | [100814L - Candy Jars](https://codeforces.com/gym/100814/problem/L) | GYM | [Solution](Codeforces/GYM/100814/L_Candy_Jars.cpp) |
+| 101061B | [101061B - RGB plants](https://codeforces.com/gym/101061/problem/B) | GYM | [Solution](Codeforces/GYM/101061/B_RGB_plants.cpp) |
+| 101086A | [101086A - My Friend of Misery](https://codeforces.com/gym/101086/problem/A) | GYM | [Solution](Codeforces/GYM/101086/A_My_Friend_of_Misery.cpp) |
+| 101086F | [101086F - Hey JUDgE](https://codeforces.com/gym/101086/problem/F) | GYM | [Solution](Codeforces/GYM/101086/F_Hey_JUDgE.cpp) |
+| 101086G | [101086G - Paradise City](https://codeforces.com/gym/101086/problem/G) | GYM | [Solution](Codeforces/GYM/101086/G_Paradise_City.cpp) |
+| 101086H | [101086H - Another Square in the Floor](https://codeforces.com/gym/101086/problem/H) | GYM | [Solution](Codeforces/GYM/101086/H_Another_Square_in_the_Floor.cpp) |
+| 101086J | [101086J - Smooth Developer](https://codeforces.com/gym/101086/problem/J) | GYM | [Solution](Codeforces/GYM/101086/J_Smooth_Developer.cpp) |
+| 101086L | [101086L - Chance](https://codeforces.com/gym/101086/problem/L) | GYM | [Solution](Codeforces/GYM/101086/L_Chance.cpp) |
+| 101086M | [101086M - ACPC Headquarters : AASTMT (Stairway to Heaven)](https://codeforces.com/gym/101086/problem/M) | GYM | [Solution](Codeforces/GYM/101086/M_ACPC_Headquarters_AASTMT_(Stairway_to_Heaven).cpp) |
+| 101102A | [101102A - Coins](https://codeforces.com/gym/101102/problem/A) | GYM | [Solution](Codeforces/GYM/101102/A_Coins.cpp) |
+| 101102B | [101102B - The Little Match Girl](https://codeforces.com/gym/101102/problem/B) | GYM | [Solution](Codeforces/GYM/101102/B_The_Little_Match_Girl.cpp) |
+| 101102C | [101102C - Bored Judge](https://codeforces.com/gym/101102/problem/C) | GYM | [Solution](Codeforces/GYM/101102/C_Bored_Judge.cpp) |
+| 101102D | [101102D - Rectangles](https://codeforces.com/gym/101102/problem/D) | GYM | [Solution](Codeforces/GYM/101102/D_Rectangles.cpp) |
+| 101102E | [101102E - Ya Rajaie and Books](https://codeforces.com/gym/101102/problem/E) | GYM | [Solution](Codeforces/GYM/101102/E_Ya_Rajaie_and_Books.cpp) |
+| 101102F | [101102F - Exchange](https://codeforces.com/gym/101102/problem/F) | GYM | [Solution](Codeforces/GYM/101102/F_Exchange.cpp) |
+| 101102H | [101102H - Cinema](https://codeforces.com/gym/101102/problem/H) | GYM | [Solution](Codeforces/GYM/101102/H_Cinema.cpp) |
+| 101102I | [101102I - Simple Robot](https://codeforces.com/gym/101102/problem/I) | GYM | [Solution](Codeforces/GYM/101102/I_Simple_Robot.cpp) |
+| 101102J | [101102J - Divisible Numbers](https://codeforces.com/gym/101102/problem/J) | GYM | [Solution](Codeforces/GYM/101102/J_Divisible_Numbers.cpp) |
+| 101149A | [101149A - Balls in Urn](https://codeforces.com/gym/101149/problem/A) | GYM | [Solution](Codeforces/GYM/101149/A_Balls_in_Urn.cpp) |
+| 101149B | [101149B - No Time for Dragons](https://codeforces.com/gym/101149/problem/B) | GYM | [Solution](Codeforces/GYM/101149/B_No_Time_for_Dragons.cpp) |
+| 101149C | [101149C - Mathematical Field of Experiments](https://codeforces.com/gym/101149/problem/C) | GYM | [Solution](Codeforces/GYM/101149/C_Mathematical_Field_of_Experiments.cpp) |
+| 101149E | [101149E - The Best among Equals](https://codeforces.com/gym/101149/problem/E) | GYM | [Solution](Codeforces/GYM/101149/E_The_Best_among_Equals.cpp) |
+| 101149F | [101149F - The Weakest Sith](https://codeforces.com/gym/101149/problem/F) | GYM | [Solution](Codeforces/GYM/101149/F_The_Weakest_Sith.cpp) |
+| 101149H | [101149H - Streets of Working Lanterns](https://codeforces.com/gym/101149/problem/H) | GYM | [Solution](Codeforces/GYM/101149/H_Streets_of_Working_Lanterns.cpp) |
+| 101149I | [101149I - It's the Police](https://codeforces.com/gym/101149/problem/I) | GYM | [Solution](Codeforces/GYM/101149/I_It's_the_Police.cpp) |
+| 101149J | [101149J - Panoramic Photography](https://codeforces.com/gym/101149/problem/J) | GYM | [Solution](Codeforces/GYM/101149/J_Panoramic_Photography.cpp) |
+| 101149L | [101149L - Right Build](https://codeforces.com/gym/101149/problem/L) | GYM | [Solution](Codeforces/GYM/101149/L_Right_Build.cpp) |
+| 101174C | [101174C - Candle Box](https://codeforces.com/gym/101174/problem/C) | GYM | [Solution](Codeforces/GYM/101174/C_Candle_Box.cpp) |
+| 101174F | [101174F - Performance Review](https://codeforces.com/gym/101174/problem/F) | GYM | [Solution](Codeforces/GYM/101174/F_Performance_Review.cpp) |
+| 101174H | [101174H - Pascal's Hyper-Pyramids](https://codeforces.com/gym/101174/problem/H) | GYM | [Solution](Codeforces/GYM/101174/H_Pascal's_Hyper-Pyramids.cpp) |
+| 101174K | [101174K - Balls and Needles](https://codeforces.com/gym/101174/problem/K) | GYM | [Solution](Codeforces/GYM/101174/K_Balls_and_Needles.cpp) |
+| 101291A | [101291A - Alphabet](https://codeforces.com/gym/101291/problem/A) | GYM | [Solution](Codeforces/GYM/101291/A_Alphabet.cpp) |
+| 101291B | [101291B - Barbells](https://codeforces.com/gym/101291/problem/B) | GYM | [Solution](Codeforces/GYM/101291/B_Barbells.cpp) |
+| 101291D | [101291D - Cameras](https://codeforces.com/gym/101291/problem/D) | GYM | [Solution](Codeforces/GYM/101291/D_Cameras.cpp) |
+| 101291E | [101291E - Contest Score](https://codeforces.com/gym/101291/problem/E) | GYM | [Solution](Codeforces/GYM/101291/E_Contest_Score.cpp) |
+| 101291F | [101291F - Equality](https://codeforces.com/gym/101291/problem/F) | GYM | [Solution](Codeforces/GYM/101291/F_Equality.cpp) |
+| 101291G | [101291G - Gravity](https://codeforces.com/gym/101291/problem/G) | GYM | [Solution](Codeforces/GYM/101291/G_Gravity.cpp) |
+| 101291H | [101291H - Islands](https://codeforces.com/gym/101291/problem/H) | GYM | [Solution](Codeforces/GYM/101291/H_Islands.cpp) |
+| 101291I | [101291I - Mismatched Socks](https://codeforces.com/gym/101291/problem/I) | GYM | [Solution](Codeforces/GYM/101291/I_Mismatched_Socks.cpp) |
+| 101291J | [101291J - Postman](https://codeforces.com/gym/101291/problem/J) | GYM | [Solution](Codeforces/GYM/101291/J_Postman.cpp) |
+| 101291K | [101291K - Six Sides](https://codeforces.com/gym/101291/problem/K) | GYM | [Solution](Codeforces/GYM/101291/K_Six_Sides.cpp) |
+| 101291L | [101291L - Three Square](https://codeforces.com/gym/101291/problem/L) | GYM | [Solution](Codeforces/GYM/101291/L_Three_Square.cpp) |
+| 101291M | [101291M - Zigzag](https://codeforces.com/gym/101291/problem/M) | GYM | [Solution](Codeforces/GYM/101291/M_Zigzag.cpp) |
+| 101350B | [101350B - Unusual Team](https://codeforces.com/gym/101350/problem/B) | GYM | [Solution](Codeforces/GYM/101350/B_Unusual_Team.cpp) |
+| 101350C | [101350C - Cheap Kangaroo](https://codeforces.com/gym/101350/problem/C) | GYM | [Solution](Codeforces/GYM/101350/C_Cheap_Kangaroo.cpp) |
+| 101350D | [101350D - Magical Bamboos](https://codeforces.com/gym/101350/problem/D) | GYM | [Solution](Codeforces/GYM/101350/D_Magical_Bamboos.cpp) |
+| 101350E | [101350E - Competitive Seagulls](https://codeforces.com/gym/101350/problem/E) | GYM | [Solution](Codeforces/GYM/101350/E_Competitive_Seagulls.cpp) |
+| 101350F | [101350F - Monkeying Around](https://codeforces.com/gym/101350/problem/F) | GYM | [Solution](Codeforces/GYM/101350/F_Monkeying_Around.cpp) |
+| 101350G | [101350G - Snake Rana](https://codeforces.com/gym/101350/problem/G) | GYM | [Solution](Codeforces/GYM/101350/G_Snake_Rana.cpp) |
+| 101350H | [101350H - Mirrored String I](https://codeforces.com/gym/101350/problem/H) | GYM | [Solution](Codeforces/GYM/101350/H_Mirrored_String_I.cpp) |
+| 101350I | [101350I - Mirrored String II](https://codeforces.com/gym/101350/problem/I) | GYM | [Solution](Codeforces/GYM/101350/I_Mirrored_String_II.cpp) |
+| 101350J | [101350J - Lazy Physics Cat](https://codeforces.com/gym/101350/problem/J) | GYM | [Solution](Codeforces/GYM/101350/J_Lazy_Physics_Cat.cpp) |
+| 101350K | [101350K - Owl Geeks](https://codeforces.com/gym/101350/problem/K) | GYM | [Solution](Codeforces/GYM/101350/K_Owl_Geeks.cpp) |
+| 101350M | [101350M - Make Cents?](https://codeforces.com/gym/101350/problem/M) | GYM | [Solution](Codeforces/GYM/101350/M_Make_Cents.cpp) |
+| 101608A | [101608A - Chrome Tabs](https://codeforces.com/gym/101608/problem/A) | GYM | [Solution](Codeforces/GYM/101608/A_Chrome_Tabs.cpp) |
+| 101608B | [101608B - OverCode](https://codeforces.com/gym/101608/problem/B) | GYM | [Solution](Codeforces/GYM/101608/B_OverCode.cpp) |
+| 101608C | [101608C - A message for you!](https://codeforces.com/gym/101608/problem/C) | GYM | [Solution](Codeforces/GYM/101608/C_A_message_for_you!.cpp) |
+| 101608D | [101608D - Test Cases](https://codeforces.com/gym/101608/problem/D) | GYM | [Solution](Codeforces/GYM/101608/D_Test_Cases.cpp) |
+| 101608E | [101608E - Robot I - Instruction Reduction](https://codeforces.com/gym/101608/problem/E) | GYM | [Solution](Codeforces/GYM/101608/E_Robot_I_-_Instruction_Reduction.cpp) |
+| 101608G | [101608G - WiFi Password](https://codeforces.com/gym/101608/problem/G) | GYM | [Solution](Codeforces/GYM/101608/G_WiFi_Password.cpp) |
+| 101608H | [101608H - Gas Stations](https://codeforces.com/gym/101608/problem/H) | GYM | [Solution](Codeforces/GYM/101608/H_Gas_Stations.cpp) |
+| 101608M | [101608M - Winning Cells](https://codeforces.com/gym/101608/problem/M) | GYM | [Solution](Codeforces/GYM/101608/M_Winning_Cells.cpp) |
+| 101611A | [101611A - Advertising Strategy](https://codeforces.com/gym/101611/problem/A) | GYM | [Solution](Codeforces/GYM/101611/A_Advertising_Strategy.cpp) |
+| 101611D | [101611D - Decoding of Varints](https://codeforces.com/gym/101611/problem/D) | GYM | [Solution](Codeforces/GYM/101611/D_Decoding_of_Varints.cpp) |
+| 101611F | [101611F - Fake or Leak?](https://codeforces.com/gym/101611/problem/F) | GYM | [Solution](Codeforces/GYM/101611/F_Fake_or_Leak.cpp) |
+| 101611G | [101611G - God of Winds](https://codeforces.com/gym/101611/problem/G) | GYM | [Solution](Codeforces/GYM/101611/G_God_of_Winds.cpp) |
+| 101635A | [101635A - Cakey McCakeFace](https://codeforces.com/gym/101635/problem/A) | GYM | [Solution](Codeforces/GYM/101635/A_Cakey_McCakeFace.cpp) |
+| 101635J | [101635J - Frosting on the Cake](https://codeforces.com/gym/101635/problem/J) | GYM | [Solution](Codeforces/GYM/101635/J_Frosting_on_the_Cake.cpp) |
+| 101652N | [101652N - Odd Palindrome](https://codeforces.com/gym/101652/problem/N) | GYM | [Solution](Codeforces/GYM/101652/N_Odd_Palindrome.cpp) |
+| 101652O | [101652O - Latin Squares](https://codeforces.com/gym/101652/problem/O) | GYM | [Solution](Codeforces/GYM/101652/O_Latin_Squares.cpp) |
+| 101652P | [101652P - Fear Factoring](https://codeforces.com/gym/101652/problem/P) | GYM | [Solution](Codeforces/GYM/101652/P_Fear_Factoring.cpp) |
+| 101652Q | [101652Q - Halfway](https://codeforces.com/gym/101652/problem/Q) | GYM | [Solution](Codeforces/GYM/101652/Q_Halfway.cpp) |
+| 101652S | [101652S - Purple Rain](https://codeforces.com/gym/101652/problem/S) | GYM | [Solution](Codeforces/GYM/101652/S_Purple_Rain.cpp) |
+| 101652U | [101652U - Unloaded Die](https://codeforces.com/gym/101652/problem/U) | GYM | [Solution](Codeforces/GYM/101652/U_Unloaded_Die.cpp) |
+| 101652W | [101652W - Grid Coloring](https://codeforces.com/gym/101652/problem/W) | GYM | [Solution](Codeforces/GYM/101652/W_Grid_Coloring.cpp) |
+| 101652X | [101652X - Star Arrangements](https://codeforces.com/gym/101652/problem/X) | GYM | [Solution](Codeforces/GYM/101652/X_Star_Arrangements.cpp) |
+| 101652Y | [101652Y - Delayed Work](https://codeforces.com/gym/101652/problem/Y) | GYM | [Solution](Codeforces/GYM/101652/Y_Delayed_Work.cpp) |
+| 101652Z | [101652Z - Forbidden Zero](https://codeforces.com/gym/101652/problem/Z) | GYM | [Solution](Codeforces/GYM/101652/Z_Forbidden_Zero.cpp) |
+| 101801A | [101801A - A. Can Shahhoud Solve it?](https://codeforces.com/gym/101801/problem/A) | GYM | [Solution](Codeforces/GYM/101801/A_A._Can_Shahhoud_Solve_it.cpp) |
+| 101801B | [101801B - B. Defeat the Monsters](https://codeforces.com/gym/101801/problem/B) | GYM | [Solution](Codeforces/GYM/101801/B_B._Defeat_the_Monsters.cpp) |
+| 101801C | [101801C - C. UCL Game Night](https://codeforces.com/gym/101801/problem/C) | GYM | [Solution](Codeforces/GYM/101801/C_C._UCL_Game_Night.cpp) |
+| 101801E | [101801E - E. Create Your Own Nim Game](https://codeforces.com/gym/101801/problem/E) | GYM | [Solution](Codeforces/GYM/101801/E_E._Create_Your_Own_Nim_Game.cpp) |
+| 101801F | [101801F - F. Nim Cheater](https://codeforces.com/gym/101801/problem/F) | GYM | [Solution](Codeforces/GYM/101801/F_F._Nim_Cheater.cpp) |
+| 101801I | [101801I - I. Odd and Even Queries](https://codeforces.com/gym/101801/problem/I) | GYM | [Solution](Codeforces/GYM/101801/I_I._Odd_and_Even_Queries.cpp) |
+| 101801K | [101801K - K. Quantum Stones](https://codeforces.com/gym/101801/problem/K) | GYM | [Solution](Codeforces/GYM/101801/K_K._Quantum_Stones.cpp) |
+| 101801L | [101801L - L. Odd and Even Count](https://codeforces.com/gym/101801/problem/L) | GYM | [Solution](Codeforces/GYM/101801/L_L._Odd_and_Even_Count.cpp) |
+| 101810B | [101810B - Friends and Cookies](https://codeforces.com/gym/101810/problem/B) | GYM | [Solution](Codeforces/GYM/101810/B_Friends_and_Cookies.cpp) |
+| 101810C | [101810C - Flip the Bits](https://codeforces.com/gym/101810/problem/C) | GYM | [Solution](Codeforces/GYM/101810/C_Flip_the_Bits.cpp) |
+| 101810D | [101810D - Magic Sticks](https://codeforces.com/gym/101810/problem/D) | GYM | [Solution](Codeforces/GYM/101810/D_Magic_Sticks.cpp) |
+| 101810E | [101810E - N-Dimensional Grid](https://codeforces.com/gym/101810/problem/E) | GYM | [Solution](Codeforces/GYM/101810/E_N-Dimensional_Grid.cpp) |
+| 101810F | [101810F - Minimum Sum of Array](https://codeforces.com/gym/101810/problem/F) | GYM | [Solution](Codeforces/GYM/101810/F_Minimum_Sum_of_Array.cpp) |
+| 101810H | [101810H - Making Friends](https://codeforces.com/gym/101810/problem/H) | GYM | [Solution](Codeforces/GYM/101810/H_Making_Friends.cpp) |
+| 101810I | [101810I - Split the Number](https://codeforces.com/gym/101810/problem/I) | GYM | [Solution](Codeforces/GYM/101810/I_Split_the_Number.cpp) |
+| 101810M | [101810M - Greedy Pirate](https://codeforces.com/gym/101810/problem/M) | GYM | [Solution](Codeforces/GYM/101810/M_Greedy_Pirate.cpp) |
+| 101853A | [101853A - Zero Array](https://codeforces.com/gym/101853/problem/A) | GYM | [Solution](Codeforces/GYM/101853/A_Zero_Array.cpp) |
+| 101853B | [101853B - New Assignment](https://codeforces.com/gym/101853/problem/B) | GYM | [Solution](Codeforces/GYM/101853/B_New_Assignment.cpp) |
+| 101853C | [101853C - Intersections](https://codeforces.com/gym/101853/problem/C) | GYM | [Solution](Codeforces/GYM/101853/C_Intersections.cpp) |
+| 101853D | [101853D - Balloons](https://codeforces.com/gym/101853/problem/D) | GYM | [Solution](Codeforces/GYM/101853/D_Balloons.cpp) |
+| 101853E | [101853E - Maximum Sum](https://codeforces.com/gym/101853/problem/E) | GYM | [Solution](Codeforces/GYM/101853/E_Maximum_Sum.cpp) |
+| 101853F | [101853F - Working Time](https://codeforces.com/gym/101853/problem/F) | GYM | [Solution](Codeforces/GYM/101853/F_Working_Time.cpp) |
+| 101853G | [101853G - Hard Equation](https://codeforces.com/gym/101853/problem/G) | GYM | [Solution](Codeforces/GYM/101853/G_Hard_Equation.cpp) |
+| 101853H | [101853H - Cube](https://codeforces.com/gym/101853/problem/H) | GYM | [Solution](Codeforces/GYM/101853/H_Cube.cpp) |
+| 101853I | [101853I - Circles](https://codeforces.com/gym/101853/problem/I) | GYM | [Solution](Codeforces/GYM/101853/I_Circles.cpp) |
+| 101853J | [101853J - Smallest Difference](https://codeforces.com/gym/101853/problem/J) | GYM | [Solution](Codeforces/GYM/101853/J_Smallest_Difference.cpp) |
+| 101856K | [101856K - Katryoshka](https://codeforces.com/gym/101856/problem/K) | GYM | [Solution](Codeforces/GYM/101856/K_Katryoshka.cpp) |
+| 101856L | [101856L - Lazy ERCD](https://codeforces.com/gym/101856/problem/L) | GYM | [Solution](Codeforces/GYM/101856/L_Lazy_ERCD.cpp) |
+| 101873B | [101873B - Buildings](https://codeforces.com/gym/101873/problem/B) | GYM | [Solution](Codeforces/GYM/101873/B_Buildings.cpp) |
+| 101873C | [101873C - Joyride](https://codeforces.com/gym/101873/problem/C) | GYM | [Solution](Codeforces/GYM/101873/C_Joyride.cpp) |
+| 101873D | [101873D - Pants On Fire](https://codeforces.com/gym/101873/problem/D) | GYM | [Solution](Codeforces/GYM/101873/D_Pants_On_Fire.cpp) |
+| 101873F | [101873F - Plug It In](https://codeforces.com/gym/101873/problem/F) | GYM | [Solution](Codeforces/GYM/101873/F_Plug_It_In.cpp) |
+| 101873G | [101873G - Water Testing](https://codeforces.com/gym/101873/problem/G) | GYM | [Solution](Codeforces/GYM/101873/G_Water_Testing.cpp) |
+| 101873I | [101873I - Uberwatch](https://codeforces.com/gym/101873/problem/I) | GYM | [Solution](Codeforces/GYM/101873/I_Uberwatch.cpp) |
+| 101873K | [101873K - You Are Fired](https://codeforces.com/gym/101873/problem/K) | GYM | [Solution](Codeforces/GYM/101873/K_You_Are_Fired.cpp) |
+| 101908B | [101908B - Marbles](https://codeforces.com/gym/101908/problem/B) | GYM | [Solution](Codeforces/GYM/101908/B_Marbles.cpp) |
+| 101908C | [101908C - Pizza Cutter](https://codeforces.com/gym/101908/problem/C) | GYM | [Solution](Codeforces/GYM/101908/C_Pizza_Cutter.cpp) |
+| 101908D | [101908D - Unraveling Monty Hall](https://codeforces.com/gym/101908/problem/D) | GYM | [Solution](Codeforces/GYM/101908/D_Unraveling_Monty_Hall.cpp) |
+| 101908E | [101908E - Enigma](https://codeforces.com/gym/101908/problem/E) | GYM | [Solution](Codeforces/GYM/101908/E_Enigma.cpp) |
+| 101908F | [101908F - Music Festival](https://codeforces.com/gym/101908/problem/F) | GYM | [Solution](Codeforces/GYM/101908/F_Music_Festival.cpp) |
+| 101908I | [101908I - Switches](https://codeforces.com/gym/101908/problem/I) | GYM | [Solution](Codeforces/GYM/101908/I_Switches.cpp) |
+| 101911C | [101911C - Bacteria](https://codeforces.com/gym/101911/problem/C) | GYM | [Solution](Codeforces/GYM/101911/C_Bacteria.cpp) |
+| 101911D | [101911D - Masquerade strikes back](https://codeforces.com/gym/101911/problem/D) | GYM | [Solution](Codeforces/GYM/101911/D_Masquerade_strikes_back.cpp) |
+| 101911E | [101911E - Painting the Fence](https://codeforces.com/gym/101911/problem/E) | GYM | [Solution](Codeforces/GYM/101911/E_Painting_the_Fence.cpp) |
+| 101911F | [101911F - Tickets](https://codeforces.com/gym/101911/problem/F) | GYM | [Solution](Codeforces/GYM/101911/F_Tickets.cpp) |
+| 101911H | [101911H - Theater Square](https://codeforces.com/gym/101911/problem/H) | GYM | [Solution](Codeforces/GYM/101911/H_Theater_Square.cpp) |
+| 101911K | [101911K - Medians and Partition](https://codeforces.com/gym/101911/problem/K) | GYM | [Solution](Codeforces/GYM/101911/K_Medians_and_Partition.cpp) |
+| 101972A | [101972A - Multiplication Dilemma](https://codeforces.com/gym/101972/problem/A) | GYM | [Solution](Codeforces/GYM/101972/A_Multiplication_Dilemma.cpp) |
+| 101972C | [101972C - Shortest Path!](https://codeforces.com/gym/101972/problem/C) | GYM | [Solution](Codeforces/GYM/101972/C_Shortest_Path!.cpp) |
+| 101972D | [101972D - Wooden Fence](https://codeforces.com/gym/101972/problem/D) | GYM | [Solution](Codeforces/GYM/101972/D_Wooden_Fence.cpp) |
+| 101972E | [101972E - Stupid Submissions](https://codeforces.com/gym/101972/problem/E) | GYM | [Solution](Codeforces/GYM/101972/E_Stupid_Submissions.cpp) |
+| 101972F | [101972F - I'm Bored!](https://codeforces.com/gym/101972/problem/F) | GYM | [Solution](Codeforces/GYM/101972/F_I'm_Bored!.cpp) |
+| 101972G | [101972G - Minimax](https://codeforces.com/gym/101972/problem/G) | GYM | [Solution](Codeforces/GYM/101972/G_Minimax.cpp) |
+| 101972H | [101972H - Beautiful Substrings](https://codeforces.com/gym/101972/problem/H) | GYM | [Solution](Codeforces/GYM/101972/H_Beautiful_Substrings.cpp) |
+| 101972K | [101972K - Cyclic Shift](https://codeforces.com/gym/101972/problem/K) | GYM | [Solution](Codeforces/GYM/101972/K_Cyclic_Shift.cpp) |
+| 101982A | [101982A - Exam](https://codeforces.com/gym/101982/problem/A) | GYM | [Solution](Codeforces/GYM/101982/A_Exam.cpp) |
+| 101982C | [101982C - Contest Setting](https://codeforces.com/gym/101982/problem/C) | GYM | [Solution](Codeforces/GYM/101982/C_Contest_Setting.cpp) |
+| 101982G | [101982G - Goat on a Rope](https://codeforces.com/gym/101982/problem/G) | GYM | [Solution](Codeforces/GYM/101982/G_Goat_on_a_Rope.cpp) |
+| 101982H | [101982H - Repeating Goldbachs](https://codeforces.com/gym/101982/problem/H) | GYM | [Solution](Codeforces/GYM/101982/H_Repeating_Goldbachs.cpp) |
+| 101982J | [101982J - Time Limits](https://codeforces.com/gym/101982/problem/J) | GYM | [Solution](Codeforces/GYM/101982/J_Time_Limits.cpp) |
+| 101982L | [101982L - Liars](https://codeforces.com/gym/101982/problem/L) | GYM | [Solution](Codeforces/GYM/101982/L_Liars.cpp) |
+| 101992B | [101992B - The first task](https://codeforces.com/gym/101992/problem/B) | GYM | [Solution](Codeforces/GYM/101992/B_The_first_task.cpp) |
+| 101992D | [101992D - The Millennium Prize Problems](https://codeforces.com/gym/101992/problem/D) | GYM | [Solution](Codeforces/GYM/101992/D_The_Millennium_Prize_Problems.cpp) |
+| 101992F | [101992F - MO Salah running down the wing](https://codeforces.com/gym/101992/problem/F) | GYM | [Solution](Codeforces/GYM/101992/F_MO_Salah_running_down_the_wing.cpp) |
+| 101992H | [101992H - Find the path](https://codeforces.com/gym/101992/problem/H) | GYM | [Solution](Codeforces/GYM/101992/H_Find_the_path.cpp) |
+| 101992L | [101992L - Reflection](https://codeforces.com/gym/101992/problem/L) | GYM | [Solution](Codeforces/GYM/101992/L_Reflection.cpp) |
+| 101992M | [101992M - The business man](https://codeforces.com/gym/101992/problem/M) | GYM | [Solution](Codeforces/GYM/101992/M_The_business_man.cpp) |
+| 102267A | [102267A - Picky Eater](https://codeforces.com/gym/102267/problem/A) | GYM | [Solution](Codeforces/GYM/102267/A_Picky_Eater.cpp) |
+| 102267B | [102267B - Primes](https://codeforces.com/gym/102267/problem/B) | GYM | [Solution](Codeforces/GYM/102267/B_Primes.cpp) |
+| 102267C | [102267C - Matryoshka Dolls](https://codeforces.com/gym/102267/problem/C) | GYM | [Solution](Codeforces/GYM/102267/C_Matryoshka_Dolls.cpp) |
+| 102267D | [102267D - Robots Easy](https://codeforces.com/gym/102267/problem/D) | GYM | [Solution](Codeforces/GYM/102267/D_Robots_Easy.cpp) |
+| 102267H | [102267H - Circle of Polygon](https://codeforces.com/gym/102267/problem/H) | GYM | [Solution](Codeforces/GYM/102267/H_Circle_of_Polygon.cpp) |
+| 102267I | [102267I - Ultimate Army](https://codeforces.com/gym/102267/problem/I) | GYM | [Solution](Codeforces/GYM/102267/I_Ultimate_Army.cpp) |
+| 102267K | [102267K - Birthday Puzzle](https://codeforces.com/gym/102267/problem/K) | GYM | [Solution](Codeforces/GYM/102267/K_Birthday_Puzzle.cpp) |
+| 102348A | [102348A - Yellow Cards](https://codeforces.com/gym/102348/problem/A) | GYM | [Solution](Codeforces/GYM/102348/A_Yellow_Cards.cpp) |
+| 102348B | [102348B - Interesting Vertices](https://codeforces.com/gym/102348/problem/B) | GYM | [Solution](Codeforces/GYM/102348/B_Interesting_Vertices.cpp) |
+| 102348F | [102348F - The Number of Products](https://codeforces.com/gym/102348/problem/F) | GYM | [Solution](Codeforces/GYM/102348/F_The_Number_of_Products.cpp) |
+| 102348L | [102348L - Printer](https://codeforces.com/gym/102348/problem/L) | GYM | [Solution](Codeforces/GYM/102348/L_Printer.cpp) |
+| 102569A | [102569A - Array's Hash](https://codeforces.com/gym/102569/problem/A) | GYM | [Solution](Codeforces/GYM/102569/A_Array's_Hash.cpp) |
+| 102569B | [102569B - Bonuses on a Line](https://codeforces.com/gym/102569/problem/B) | GYM | [Solution](Codeforces/GYM/102569/B_Bonuses_on_a_Line.cpp) |
+| 102569E | [102569E - Fluctuations of Mana](https://codeforces.com/gym/102569/problem/E) | GYM | [Solution](Codeforces/GYM/102569/E_Fluctuations_of_Mana.cpp) |
+| 102569F | [102569F - Moving Target](https://codeforces.com/gym/102569/problem/F) | GYM | [Solution](Codeforces/GYM/102569/F_Moving_Target.cpp) |
+| 102569H | [102569H - Tree Painting](https://codeforces.com/gym/102569/problem/H) | GYM | [Solution](Codeforces/GYM/102569/H_Tree_Painting.cpp) |
+| 102569I | [102569I - Sorting Colored Array](https://codeforces.com/gym/102569/problem/I) | GYM | [Solution](Codeforces/GYM/102569/I_Sorting_Colored_Array.cpp) |
+| 102569J | [102569J - The Battle of Mages](https://codeforces.com/gym/102569/problem/J) | GYM | [Solution](Codeforces/GYM/102569/J_The_Battle_of_Mages.cpp) |
+| 102569K | [102569K - Table](https://codeforces.com/gym/102569/problem/K) | GYM | [Solution](Codeforces/GYM/102569/K_Table.cpp) |
+| 102569L | [102569L - The Dragon Land](https://codeforces.com/gym/102569/problem/L) | GYM | [Solution](Codeforces/GYM/102569/L_The_Dragon_Land.cpp) |
+| 102569M | [102569M - Notifications](https://codeforces.com/gym/102569/problem/M) | GYM | [Solution](Codeforces/GYM/102569/M_Notifications.cpp) |
+| 102644C | [102644C - Fibonacci](https://codeforces.com/gym/102644/problem/C) | GYM | [Solution](Codeforces/GYM/102644/C_Fibonacci.cpp) |
+| 102644E | [102644E - Knight Paths](https://codeforces.com/gym/102644/problem/E) | GYM | [Solution](Codeforces/GYM/102644/E_Knight_Paths.cpp) |
+| 102694C | [102694C - Sloth Naptime](https://codeforces.com/gym/102694/problem/C) | GYM | [Solution](Codeforces/GYM/102694/C_Sloth_Naptime.cpp) |
+| 102791A | [102791A - Christmas Ornaments](https://codeforces.com/gym/102791/problem/A) | GYM | [Solution](Codeforces/GYM/102791/A_Christmas_Ornaments.cpp) |
+| 102791B | [102791B - Look At The Same One](https://codeforces.com/gym/102791/problem/B) | GYM | [Solution](Codeforces/GYM/102791/B_Look_At_The_Same_One.cpp) |
+| 102791C | [102791C - Number of Apartments](https://codeforces.com/gym/102791/problem/C) | GYM | [Solution](Codeforces/GYM/102791/C_Number_of_Apartments.cpp) |
+| 102791D | [102791D - Barrels](https://codeforces.com/gym/102791/problem/D) | GYM | [Solution](Codeforces/GYM/102791/D_Barrels.cpp) |
+| 102791E | [102791E - Numbers on Whiteboard](https://codeforces.com/gym/102791/problem/E) | GYM | [Solution](Codeforces/GYM/102791/E_Numbers_on_Whiteboard.cpp) |
+| 102791F | [102791F - Deposit](https://codeforces.com/gym/102791/problem/F) | GYM | [Solution](Codeforces/GYM/102791/F_Deposit.cpp) |
+| 102791G | [102791G - Parking Spaces](https://codeforces.com/gym/102791/problem/G) | GYM | [Solution](Codeforces/GYM/102791/G_Parking_Spaces.cpp) |
+| 102791H | [102791H - String Deletion](https://codeforces.com/gym/102791/problem/H) | GYM | [Solution](Codeforces/GYM/102791/H_String_Deletion.cpp) |
+| 102791I | [102791I - String Reversal](https://codeforces.com/gym/102791/problem/I) | GYM | [Solution](Codeforces/GYM/102791/I_String_Reversal.cpp) |
+| 102791J | [102791J - Divide The String](https://codeforces.com/gym/102791/problem/J) | GYM | [Solution](Codeforces/GYM/102791/J_Divide_The_String.cpp) |
+| 102861B | [102861B - Battleship](https://codeforces.com/gym/102861/problem/B) | GYM | [Solution](Codeforces/GYM/102861/B_Battleship.cpp) |
+| 102861F | [102861F - Fastminton](https://codeforces.com/gym/102861/problem/F) | GYM | [Solution](Codeforces/GYM/102861/F_Fastminton.cpp) |
+| 102861G | [102861G - Game Show!](https://codeforces.com/gym/102861/problem/G) | GYM | [Solution](Codeforces/GYM/102861/G_Game_Show!.cpp) |
+| 102861L | [102861L - Lavaspar](https://codeforces.com/gym/102861/problem/L) | GYM | [Solution](Codeforces/GYM/102861/L_Lavaspar.cpp) |
+| 102861N | [102861N - Number Multiplication](https://codeforces.com/gym/102861/problem/N) | GYM | [Solution](Codeforces/GYM/102861/N_Number_Multiplication.cpp) |
+| 102890A | [102890A - Acing the contest](https://codeforces.com/gym/102890/problem/A) | GYM | [Solution](Codeforces/GYM/102890/A_Acing_the_contest.cpp) |
+| 102890C | [102890C - Counting triangles](https://codeforces.com/gym/102890/problem/C) | GYM | [Solution](Codeforces/GYM/102890/C_Counting_triangles.cpp) |
+| 102890D | [102890D - Debugging the network](https://codeforces.com/gym/102890/problem/D) | GYM | [Solution](Codeforces/GYM/102890/D_Debugging_the_network.cpp) |
+| 102890E | [102890E - End of the year bonus](https://codeforces.com/gym/102890/problem/E) | GYM | [Solution](Codeforces/GYM/102890/E_End_of_the_year_bonus.cpp) |
+| 102890G | [102890G - Gold Fever](https://codeforces.com/gym/102890/problem/G) | GYM | [Solution](Codeforces/GYM/102890/G_Gold_Fever.cpp) |
+| 102890H | [102890H - How to Work Less to Pass a Programming Course in Planet E-13](https://codeforces.com/gym/102890/problem/H) | GYM | [Solution](Codeforces/GYM/102890/H_How_to_Work_Less_to_Pass_a_Programming_Course_in_Planet_E-13.cpp) |
+| 102890I | [102890I - Is this the best deal?](https://codeforces.com/gym/102890/problem/I) | GYM | [Solution](Codeforces/GYM/102890/I_Is_this_the_best_deal.cpp) |
+| 102890K | [102890K - K contestants](https://codeforces.com/gym/102890/problem/K) | GYM | [Solution](Codeforces/GYM/102890/K_K_contestants.cpp) |
+| 102890L | [102890L - Let's count words](https://codeforces.com/gym/102890/problem/L) | GYM | [Solution](Codeforces/GYM/102890/L_Let's_count_words.cpp) |
+| 102951A | [102951A - Maximum Distance](https://codeforces.com/gym/102951/problem/A) | GYM | [Solution](Codeforces/GYM/102951/A_Maximum_Distance.cpp) |
+| 102951B | [102951B - Studying Algorithms](https://codeforces.com/gym/102951/problem/B) | GYM | [Solution](Codeforces/GYM/102951/B_Studying_Algorithms.cpp) |
+| 102951C | [102951C - LCS on Permutations](https://codeforces.com/gym/102951/problem/C) | GYM | [Solution](Codeforces/GYM/102951/C_LCS_on_Permutations.cpp) |
+| 103061D | [103061D - andelion Knight](https://codeforces.com/gym/103061/problem/D) | GYM | [Solution](Codeforces/GYM/103061/D_andelion_Knight.cpp) |
+| 103061F | [103061F - leeing Sunlight](https://codeforces.com/gym/103061/problem/F) | GYM | [Solution](Codeforces/GYM/103061/F_leeing_Sunlight.cpp) |
+| 103102B | [103102B - Reverse Game](https://codeforces.com/gym/103102/problem/B) | GYM | [Solution](Codeforces/GYM/103102/B_Reverse_Game.cpp) |
+| 103102E | [103102E - Divisible by 3](https://codeforces.com/gym/103102/problem/E) | GYM | [Solution](Codeforces/GYM/103102/E_Divisible_by_3.cpp) |
+| 103102L | [103102L - Neo-Robin Hood](https://codeforces.com/gym/103102/problem/L) | GYM | [Solution](Codeforces/GYM/103102/L_Neo-Robin_Hood.cpp) |
+| 103102M | [103102M - Mistake](https://codeforces.com/gym/103102/problem/M) | GYM | [Solution](Codeforces/GYM/103102/M_Mistake.cpp) |
+| 103274C | [103274C - Cypher Decypher](https://codeforces.com/gym/103274/problem/C) | GYM | [Solution](Codeforces/GYM/103274/C_Cypher_Decypher.cpp) |
+| 103274E | [103274E - Escape Room](https://codeforces.com/gym/103274/problem/E) | GYM | [Solution](Codeforces/GYM/103274/E_Escape_Room.cpp) |
+| 103274F | [103274F - Fixing Subtitles](https://codeforces.com/gym/103274/problem/F) | GYM | [Solution](Codeforces/GYM/103274/F_Fixing_Subtitles.cpp) |
+| 103274G | [103274G - Game of Baker](https://codeforces.com/gym/103274/problem/G) | GYM | [Solution](Codeforces/GYM/103274/G_Game_of_Baker.cpp) |
+| 103274I | [103274I - Introducing Teleporting Machine](https://codeforces.com/gym/103274/problem/I) | GYM | [Solution](Codeforces/GYM/103274/I_Introducing_Teleporting_Machine.cpp) |
+| 103274J | [103274J - Just Send the Email](https://codeforces.com/gym/103274/problem/J) | GYM | [Solution](Codeforces/GYM/103274/J_Just_Send_the_Email.cpp) |
+| 103274K | [103274K - Kids at the Party](https://codeforces.com/gym/103274/problem/K) | GYM | [Solution](Codeforces/GYM/103274/K_Kids_at_the_Party.cpp) |
+| 103274L | [103274L - Leonel and the powers of two](https://codeforces.com/gym/103274/problem/L) | GYM | [Solution](Codeforces/GYM/103274/L_Leonel_and_the_powers_of_two.cpp) |
+| 103274M | [103274M - Moon Dancers](https://codeforces.com/gym/103274/problem/M) | GYM | [Solution](Codeforces/GYM/103274/M_Moon_Dancers.cpp) |
+| 103373A | [103373A - Olympic Ranking](https://codeforces.com/gym/103373/problem/A) | GYM | [Solution](Codeforces/GYM/103373/A_Olympic_Ranking.cpp) |
+| 103373B | [103373B - Aliquot Sum](https://codeforces.com/gym/103373/problem/B) | GYM | [Solution](Codeforces/GYM/103373/B_Aliquot_Sum.cpp) |
+| 103373C | [103373C - A Sorting Problem](https://codeforces.com/gym/103373/problem/C) | GYM | [Solution](Codeforces/GYM/103373/C_A_Sorting_Problem.cpp) |
+| 103373D | [103373D - Drunk Passenger](https://codeforces.com/gym/103373/problem/D) | GYM | [Solution](Codeforces/GYM/103373/D_Drunk_Passenger.cpp) |
+| 103373J | [103373J - JavaScript](https://codeforces.com/gym/103373/problem/J) | GYM | [Solution](Codeforces/GYM/103373/J_JavaScript.cpp) |
+| 103388C | [103388C - Creating Multiples](https://codeforces.com/gym/103388/problem/C) | GYM | [Solution](Codeforces/GYM/103388/C_Creating_Multiples.cpp) |
+| 103388E | [103388E - Escalator](https://codeforces.com/gym/103388/problem/E) | GYM | [Solution](Codeforces/GYM/103388/E_Escalator.cpp) |
+| 103388G | [103388G - Getting in Shape](https://codeforces.com/gym/103388/problem/G) | GYM | [Solution](Codeforces/GYM/103388/G_Getting_in_Shape.cpp) |
+| 103388H | [103388H - Handling the Blocks](https://codeforces.com/gym/103388/problem/H) | GYM | [Solution](Codeforces/GYM/103388/H_Handling_the_Blocks.cpp) |
+| 103388K | [103388K - Kathmandu](https://codeforces.com/gym/103388/problem/K) | GYM | [Solution](Codeforces/GYM/103388/K_Kathmandu.cpp) |
+| 103388M | [103388M - Monarchy in Vertigo](https://codeforces.com/gym/103388/problem/M) | GYM | [Solution](Codeforces/GYM/103388/M_Monarchy_in_Vertigo.cpp) |
+| 103388N | [103388N - No Luck](https://codeforces.com/gym/103388/problem/N) | GYM | [Solution](Codeforces/GYM/103388/N_No_Luck.cpp) |
+| 103414A | [103414A - Friendly Rooks](https://codeforces.com/gym/103414/problem/A) | GYM | [Solution](Codeforces/GYM/103414/A_Friendly_Rooks.cpp) |
+| 103414B | [103414B - Guess the Array](https://codeforces.com/gym/103414/problem/B) | GYM | [Solution](Codeforces/GYM/103414/B_Guess_the_Array.cpp) |
+| 103414C | [103414C - Moving Cells](https://codeforces.com/gym/103414/problem/C) | GYM | [Solution](Codeforces/GYM/103414/C_Moving_Cells.cpp) |
+| 103414D | [103414D - Army of Clones](https://codeforces.com/gym/103414/problem/D) | GYM | [Solution](Codeforces/GYM/103414/D_Army_of_Clones.cpp) |
+| 103414E | [103414E - Haiku](https://codeforces.com/gym/103414/problem/E) | GYM | [Solution](Codeforces/GYM/103414/E_Haiku.cpp) |
+| 103414I | [103414I - Third Group Exam](https://codeforces.com/gym/103414/problem/I) | GYM | [Solution](Codeforces/GYM/103414/I_Third_Group_Exam.cpp) |
+| 103414J | [103414J - Computational ethnography](https://codeforces.com/gym/103414/problem/J) | GYM | [Solution](Codeforces/GYM/103414/J_Computational_ethnography.cpp) |
+| 103414K | [103414K - Work or Sleep!](https://codeforces.com/gym/103414/problem/K) | GYM | [Solution](Codeforces/GYM/103414/K_Work_or_Sleep!.cpp) |
+| 103430B | [103430B - Special Permutation](https://codeforces.com/gym/103430/problem/B) | GYM | [Solution](Codeforces/GYM/103430/B_Special_Permutation.cpp) |
+| 103430C | [103430C - Athletes](https://codeforces.com/gym/103430/problem/C) | GYM | [Solution](Codeforces/GYM/103430/C_Athletes.cpp) |
+| 103430F | [103430F - X-Magic Pair](https://codeforces.com/gym/103430/problem/F) | GYM | [Solution](Codeforces/GYM/103430/F_X-Magic_Pair.cpp) |
+| 103430G | [103430G - Chat Ban](https://codeforces.com/gym/103430/problem/G) | GYM | [Solution](Codeforces/GYM/103430/G_Chat_Ban.cpp) |
+| 103430J | [103430J - Bongcloud Opening](https://codeforces.com/gym/103430/problem/J) | GYM | [Solution](Codeforces/GYM/103430/J_Bongcloud_Opening.cpp) |
+| 103430L | [103430L - Smash the Trash](https://codeforces.com/gym/103430/problem/L) | GYM | [Solution](Codeforces/GYM/103430/L_Smash_the_Trash.cpp) |
+| 103430M | [103430M - Distance](https://codeforces.com/gym/103430/problem/M) | GYM | [Solution](Codeforces/GYM/103430/M_Distance.cpp) |
+| 103430N | [103430N - Haiku](https://codeforces.com/gym/103430/problem/N) | GYM | [Solution](Codeforces/GYM/103430/N_Haiku.cpp) |
+| 103438A | [103438A - King of String Comparison](https://codeforces.com/gym/103438/problem/A) | GYM | [Solution](Codeforces/GYM/103438/A_King_of_String_Comparison.cpp) |
+| 103438F | [103438F - to Pay Respects](https://codeforces.com/gym/103438/problem/F) | GYM | [Solution](Codeforces/GYM/103438/F_to_Pay_Respects.cpp) |
+| 103438G | [103438G - Max Pair Matching](https://codeforces.com/gym/103438/problem/G) | GYM | [Solution](Codeforces/GYM/103438/G_Max_Pair_Matching.cpp) |
+| 103438L | [103438L - Jason ABC](https://codeforces.com/gym/103438/problem/L) | GYM | [Solution](Codeforces/GYM/103438/L_Jason_ABC.cpp) |
+| 103438N | [103438N - A-series](https://codeforces.com/gym/103438/problem/N) | GYM | [Solution](Codeforces/GYM/103438/N_A-series.cpp) |
+| 103443A | [103443A - Ice Cream](https://codeforces.com/gym/103443/problem/A) | GYM | [Solution](Codeforces/GYM/103443/A_Ice_Cream.cpp) |
+| 103443B | [103443B - Maximum Sub-Reverse Matching](https://codeforces.com/gym/103443/problem/B) | GYM | [Solution](Codeforces/GYM/103443/B_Maximum_Sub-Reverse_Matching.cpp) |
+| 103443J | [103443J - Transportation Network](https://codeforces.com/gym/103443/problem/J) | GYM | [Solution](Codeforces/GYM/103443/J_Transportation_Network.cpp) |
+| 103443M | [103443M - Escaping the Foggy Forest](https://codeforces.com/gym/103443/problem/M) | GYM | [Solution](Codeforces/GYM/103443/M_Escaping_the_Foggy_Forest.cpp) |
+| 103708B | [103708B - Building 5G antennas](https://codeforces.com/gym/103708/problem/B) | GYM | [Solution](Codeforces/GYM/103708/B_Building_5G_antennas.cpp) |
+| 103708D | [103708D - Different Pass a Ports](https://codeforces.com/gym/103708/problem/D) | GYM | [Solution](Codeforces/GYM/103708/D_Different_Pass_a_Ports.cpp) |
+| 103708E | [103708E - Erudite of words](https://codeforces.com/gym/103708/problem/E) | GYM | [Solution](Codeforces/GYM/103708/E_Erudite_of_words.cpp) |
+| 103708F | [103708F - Froginald the frog](https://codeforces.com/gym/103708/problem/F) | GYM | [Solution](Codeforces/GYM/103708/F_Froginald_the_frog.cpp) |
+| 103708H | [103708H - Hog Fencing](https://codeforces.com/gym/103708/problem/H) | GYM | [Solution](Codeforces/GYM/103708/H_Hog_Fencing.cpp) |
+| 103708I | [103708I - Isabel's Divisions](https://codeforces.com/gym/103708/problem/I) | GYM | [Solution](Codeforces/GYM/103708/I_Isabel's_Divisions.cpp) |
+| 103708K | [103708K - Kilo Waste](https://codeforces.com/gym/103708/problem/K) | GYM | [Solution](Codeforces/GYM/103708/K_Kilo_Waste.cpp) |
+| 103708L | [103708L - The last problem](https://codeforces.com/gym/103708/problem/L) | GYM | [Solution](Codeforces/GYM/103708/L_The_last_problem.cpp) |
+| 103821C | [103821C - Perfect Seating](https://codeforces.com/gym/103821/problem/C) | GYM | [Solution](Codeforces/GYM/103821/C_Perfect_Seating.cpp) |
+| 103821D | [103821D - Fairplay](https://codeforces.com/gym/103821/problem/D) | GYM | [Solution](Codeforces/GYM/103821/D_Fairplay.cpp) |
+| 103821E | [103821E - Robovac](https://codeforces.com/gym/103821/problem/E) | GYM | [Solution](Codeforces/GYM/103821/E_Robovac.cpp) |
+| 103821F | [103821F - A + B (Harder version)](https://codeforces.com/gym/103821/problem/F) | GYM | [Solution](Codeforces/GYM/103821/F_A_+_B_(Harder_version).cpp) |
+| 103821H | [103821H - FAT Sequences](https://codeforces.com/gym/103821/problem/H) | GYM | [Solution](Codeforces/GYM/103821/H_FAT_Sequences.cpp) |
+| 103821L | [103821L - ResliPhobia](https://codeforces.com/gym/103821/problem/L) | GYM | [Solution](Codeforces/GYM/103821/L_ResliPhobia.cpp) |
+| 103828A | [103828A - 2 Arrays Problem](https://codeforces.com/gym/103828/problem/A) | GYM | [Solution](Codeforces/GYM/103828/A_2_Arrays_Problem.cpp) |
+| 103828D | [103828D - Ctrl+A+C+V](https://codeforces.com/gym/103828/problem/D) | GYM | [Solution](Codeforces/GYM/103828/D_Ctrl+A+C+V.cpp) |
+| 103828E | [103828E - Do you where is Naseem?](https://codeforces.com/gym/103828/problem/E) | GYM | [Solution](Codeforces/GYM/103828/E_Do_you_where_is_Naseem.cpp) |
+| 103828H | [103828H - Kite](https://codeforces.com/gym/103828/problem/H) | GYM | [Solution](Codeforces/GYM/103828/H_Kite.cpp) |
+| 103828J | [103828J - Even Adjacent Product](https://codeforces.com/gym/103828/problem/J) | GYM | [Solution](Codeforces/GYM/103828/J_Even_Adjacent_Product.cpp) |
+| 103828M | [103828M - Mobile Game](https://codeforces.com/gym/103828/problem/M) | GYM | [Solution](Codeforces/GYM/103828/M_Mobile_Game.cpp) |
+| 103828N | [103828N - Moving grid](https://codeforces.com/gym/103828/problem/N) | GYM | [Solution](Codeforces/GYM/103828/N_Moving_grid.cpp) |
+| 103960A | [103960A - Finding Maximal Non-Trivial Monotones](https://codeforces.com/gym/103960/problem/A) | GYM | [Solution](Codeforces/GYM/103960/A_Finding_Maximal_Non-Trivial_Monotones.cpp) |
+| 103960D | [103960D - Displacing Particles](https://codeforces.com/gym/103960/problem/D) | GYM | [Solution](Codeforces/GYM/103960/D_Displacing_Particles.cpp) |
+| 103960E | [103960E - Eliminating Ballons](https://codeforces.com/gym/103960/problem/E) | GYM | [Solution](Codeforces/GYM/103960/E_Eliminating_Ballons.cpp) |
+| 103960F | [103960F - Multidimensional Hangman](https://codeforces.com/gym/103960/problem/F) | GYM | [Solution](Codeforces/GYM/103960/F_Multidimensional_Hangman.cpp) |
+| 103960I | [103960I - Intercepting Information](https://codeforces.com/gym/103960/problem/I) | GYM | [Solution](Codeforces/GYM/103960/I_Intercepting_Information.cpp) |
+| 103960J | [103960J - Playing 23](https://codeforces.com/gym/103960/problem/J) | GYM | [Solution](Codeforces/GYM/103960/J_Playing_23.cpp) |
+| 103960N | [103960N - Numbers on both Sides](https://codeforces.com/gym/103960/problem/N) | GYM | [Solution](Codeforces/GYM/103960/N_Numbers_on_both_Sides.cpp) |
+| 103993A | [103993A - As Fast As Possible](https://codeforces.com/gym/103993/problem/A) | GYM | [Solution](Codeforces/GYM/103993/A_As_Fast_As_Possible.cpp) |
+| 103993B | [103993B - Permutation Value](https://codeforces.com/gym/103993/problem/B) | GYM | [Solution](Codeforces/GYM/103993/B_Permutation_Value.cpp) |
+| 103993C | [103993C - Reverse and Remove](https://codeforces.com/gym/103993/problem/C) | GYM | [Solution](Codeforces/GYM/103993/C_Reverse_and_Remove.cpp) |
+| 103993D | [103993D - Password](https://codeforces.com/gym/103993/problem/D) | GYM | [Solution](Codeforces/GYM/103993/D_Password.cpp) |
+| 103993E | [103993E - d-Sort](https://codeforces.com/gym/103993/problem/E) | GYM | [Solution](Codeforces/GYM/103993/E_d-Sort.cpp) |
+| 103993G | [103993G - Scoring](https://codeforces.com/gym/103993/problem/G) | GYM | [Solution](Codeforces/GYM/103993/G_Scoring.cpp) |
+| 104015A | [104015A - Candies](https://codeforces.com/gym/104015/problem/A) | GYM | [Solution](Codeforces/GYM/104015/A_Candies.cpp) |
+| 104015B | [104015B - Computer Game](https://codeforces.com/gym/104015/problem/B) | GYM | [Solution](Codeforces/GYM/104015/B_Computer_Game.cpp) |
+| 104015C | [104015C - Groups](https://codeforces.com/gym/104015/problem/C) | GYM | [Solution](Codeforces/GYM/104015/C_Groups.cpp) |
+| 104015D | [104015D - Rectangle Restoration](https://codeforces.com/gym/104015/problem/D) | GYM | [Solution](Codeforces/GYM/104015/D_Rectangle_Restoration.cpp) |
+| 104015E | [104015E - Delete Two Elements](https://codeforces.com/gym/104015/problem/E) | GYM | [Solution](Codeforces/GYM/104015/E_Delete_Two_Elements.cpp) |
+| 104015F | [104015F - Coconuts](https://codeforces.com/gym/104015/problem/F) | GYM | [Solution](Codeforces/GYM/104015/F_Coconuts.cpp) |
+| 104015H | [104015H - Colored Balls](https://codeforces.com/gym/104015/problem/H) | GYM | [Solution](Codeforces/GYM/104015/H_Colored_Balls.cpp) |
+| 104015I | [104015I - Tree Painting](https://codeforces.com/gym/104015/problem/I) | GYM | [Solution](Codeforces/GYM/104015/I_Tree_Painting.cpp) |
+| 104030A | [104030A - Ace Arbiter](https://codeforces.com/gym/104030/problem/A) | GYM | [Solution](Codeforces/GYM/104030/A_Ace_Arbiter.cpp) |
+| 104030C | [104030C - Coffee Cup Combo](https://codeforces.com/gym/104030/problem/C) | GYM | [Solution](Codeforces/GYM/104030/C_Coffee_Cup_Combo.cpp) |
+| 104030D | [104030D - Disc District](https://codeforces.com/gym/104030/problem/D) | GYM | [Solution](Codeforces/GYM/104030/D_Disc_District.cpp) |
+| 104030F | [104030F - Foreign Football](https://codeforces.com/gym/104030/problem/F) | GYM | [Solution](Codeforces/GYM/104030/F_Foreign_Football.cpp) |
+| 104030H | [104030H - Highest Hill](https://codeforces.com/gym/104030/problem/H) | GYM | [Solution](Codeforces/GYM/104030/H_Highest_Hill.cpp) |
+| 104059C | [104059C - Chaotic Construction](https://codeforces.com/gym/104059/problem/C) | GYM | [Solution](Codeforces/GYM/104059/C_Chaotic_Construction.cpp) |
+| 104059E | [104059E - Enjoyable Entree](https://codeforces.com/gym/104059/problem/E) | GYM | [Solution](Codeforces/GYM/104059/E_Enjoyable_Entree.cpp) |
+| 104059K | [104059K - K.O. Kids](https://codeforces.com/gym/104059/problem/K) | GYM | [Solution](Codeforces/GYM/104059/K_K.O._Kids.cpp) |
+| 104059L | [104059L - Lots of Land](https://codeforces.com/gym/104059/problem/L) | GYM | [Solution](Codeforces/GYM/104059/L_Lots_of_Land.cpp) |
+| 104064A | [104064A - Access Denied](https://codeforces.com/gym/104064/problem/A) | GYM | [Solution](Codeforces/GYM/104064/A_Access_Denied.cpp) |
+| 104064G | [104064G - Glossary Arrangement](https://codeforces.com/gym/104064/problem/G) | GYM | [Solution](Codeforces/GYM/104064/G_Glossary_Arrangement.cpp) |
+| 104064H | [104064H - Heating Up](https://codeforces.com/gym/104064/problem/H) | GYM | [Solution](Codeforces/GYM/104064/H_Heating_Up.cpp) |
+| 104064K | [104064K - Knitpicking](https://codeforces.com/gym/104064/problem/K) | GYM | [Solution](Codeforces/GYM/104064/K_Knitpicking.cpp) |
+| 104114A | [104114A - AppendAppendAppend](https://codeforces.com/gym/104114/problem/A) | GYM | [Solution](Codeforces/GYM/104114/A_AppendAppendAppend.cpp) |
+| 104114F | [104114F - Fortune over Sportsmanship](https://codeforces.com/gym/104114/problem/F) | GYM | [Solution](Codeforces/GYM/104114/F_Fortune_over_Sportsmanship.cpp) |
+| 104114G | [104114G - Gears](https://codeforces.com/gym/104114/problem/G) | GYM | [Solution](Codeforces/GYM/104114/G_Gears.cpp) |
+| 104114H | [104114H - Hanoi](https://codeforces.com/gym/104114/problem/H) | GYM | [Solution](Codeforces/GYM/104114/H_Hanoi.cpp) |
+| 104114N | [104114N - Nusret Gökçe](https://codeforces.com/gym/104114/problem/N) | GYM | [Solution](Codeforces/GYM/104114/N_Nusret_Gökçe.cpp) |
+| 104120A | [104120A - Average Walk](https://codeforces.com/gym/104120/problem/A) | GYM | [Solution](Codeforces/GYM/104120/A_Average_Walk.cpp) |
+| 104120B | [104120B - Business Stamps](https://codeforces.com/gym/104120/problem/B) | GYM | [Solution](Codeforces/GYM/104120/B_Business_Stamps.cpp) |
+| 104120C | [104120C - Company Layoffs](https://codeforces.com/gym/104120/problem/C) | GYM | [Solution](Codeforces/GYM/104120/C_Company_Layoffs.cpp) |
+| 104120D | [104120D - Denji1](https://codeforces.com/gym/104120/problem/D) | GYM | [Solution](Codeforces/GYM/104120/D_Denji1.cpp) |
+| 104120G | [104120G - Hola](https://codeforces.com/gym/104120/problem/G) | GYM | [Solution](Codeforces/GYM/104120/G_Hola.cpp) |
+| 104120I | [104120I - Ivan And Mega Queries](https://codeforces.com/gym/104120/problem/I) | GYM | [Solution](Codeforces/GYM/104120/I_Ivan_And_Mega_Queries.cpp) |
+| 104120J | [104120J - Joyful City](https://codeforces.com/gym/104120/problem/J) | GYM | [Solution](Codeforces/GYM/104120/J_Joyful_City.cpp) |
+| 104120K | [104120K - Keypad Repetitions](https://codeforces.com/gym/104120/problem/K) | GYM | [Solution](Codeforces/GYM/104120/K_Keypad_Repetitions.cpp) |
+| 104120L | [104120L - Ladybug And The Bullet Train](https://codeforces.com/gym/104120/problem/L) | GYM | [Solution](Codeforces/GYM/104120/L_Ladybug_And_The_Bullet_Train.cpp) |
+| 104128D | [104128D - Chat Program](https://codeforces.com/gym/104128/problem/D) | GYM | [Solution](Codeforces/GYM/104128/D_Chat_Program.cpp) |
+| 104128G | [104128G - Inscryption](https://codeforces.com/gym/104128/problem/G) | GYM | [Solution](Codeforces/GYM/104128/G_Inscryption.cpp) |
+| 104128I | [104128I - Perfect Palindrome](https://codeforces.com/gym/104128/problem/I) | GYM | [Solution](Codeforces/GYM/104128/I_Perfect_Palindrome.cpp) |
+| 104147A | [104147A - Round 1](https://codeforces.com/gym/104147/problem/A) | GYM | [Solution](Codeforces/GYM/104147/A_Round_1.cpp) |
+| 104147B | [104147B - I'll call him Hanya](https://codeforces.com/gym/104147/problem/B) | GYM | [Solution](Codeforces/GYM/104147/B_I'll_call_him_Hanya.cpp) |
+| 104147D | [104147D - Do and Tak Game](https://codeforces.com/gym/104147/problem/D) | GYM | [Solution](Codeforces/GYM/104147/D_Do_and_Tak_Game.cpp) |
+| 104147F | [104147F - Nesr El Sieve](https://codeforces.com/gym/104147/problem/F) | GYM | [Solution](Codeforces/GYM/104147/F_Nesr_El_Sieve.cpp) |
+| 104147K | [104147K - Hobz is a good guy](https://codeforces.com/gym/104147/problem/K) | GYM | [Solution](Codeforces/GYM/104147/K_Hobz_is_a_good_guy.cpp) |
+| 104196A | [104196A - 1s For All](https://codeforces.com/gym/104196/problem/A) | GYM | [Solution](Codeforces/GYM/104196/A_1s_For_All.cpp) |
+| 104196B | [104196B - Abridged Reading](https://codeforces.com/gym/104196/problem/B) | GYM | [Solution](Codeforces/GYM/104196/B_Abridged_Reading.cpp) |
+| 104196G | [104196G - Noonerized Spumbers](https://codeforces.com/gym/104196/problem/G) | GYM | [Solution](Codeforces/GYM/104196/G_Noonerized_Spumbers.cpp) |
+| 104196I | [104196I - Pinned Files](https://codeforces.com/gym/104196/problem/I) | GYM | [Solution](Codeforces/GYM/104196/I_Pinned_Files.cpp) |
+| 104196J | [104196J - Recycling](https://codeforces.com/gym/104196/problem/J) | GYM | [Solution](Codeforces/GYM/104196/J_Recycling.cpp) |
+| 104196L | [104196L - Statues](https://codeforces.com/gym/104196/problem/L) | GYM | [Solution](Codeforces/GYM/104196/L_Statues.cpp) |
+| 104252D | [104252D - Daily Trips](https://codeforces.com/gym/104252/problem/D) | GYM | [Solution](Codeforces/GYM/104252/D_Daily_Trips.cpp) |
+| 104252E | [104252E - Empty Squares](https://codeforces.com/gym/104252/problem/E) | GYM | [Solution](Codeforces/GYM/104252/E_Empty_Squares.cpp) |
+| 104252H | [104252H - Horse Race](https://codeforces.com/gym/104252/problem/H) | GYM | [Solution](Codeforces/GYM/104252/H_Horse_Race.cpp) |
+| 104252I | [104252I - Italian Calzone & Pasta Corner](https://codeforces.com/gym/104252/problem/I) | GYM | [Solution](Codeforces/GYM/104252/I_Italian_Calzone_&_Pasta_Corner.cpp) |
+| 104252M | [104252M - Maze in Bolt](https://codeforces.com/gym/104252/problem/M) | GYM | [Solution](Codeforces/GYM/104252/M_Maze_in_Bolt.cpp) |
+| 104393A | [104393A - Acrobatic Jumping](https://codeforces.com/gym/104393/problem/A) | GYM | [Solution](Codeforces/GYM/104393/A_Acrobatic_Jumping.cpp) |
+| 104393C | [104393C - Counting Risk Factors](https://codeforces.com/gym/104393/problem/C) | GYM | [Solution](Codeforces/GYM/104393/C_Counting_Risk_Factors.cpp) |
+| 104393D | [104393D - Destroying Asteriods](https://codeforces.com/gym/104393/problem/D) | GYM | [Solution](Codeforces/GYM/104393/D_Destroying_Asteriods.cpp) |
+| 104393F | [104393F - Funny Numbers](https://codeforces.com/gym/104393/problem/F) | GYM | [Solution](Codeforces/GYM/104393/F_Funny_Numbers.cpp) |
+| 104393G | [104393G - Getting the Real Weight](https://codeforces.com/gym/104393/problem/G) | GYM | [Solution](Codeforces/GYM/104393/G_Getting_the_Real_Weight.cpp) |
+| 104393H | [104393H - Harvesting Apples](https://codeforces.com/gym/104393/problem/H) | GYM | [Solution](Codeforces/GYM/104393/H_Harvesting_Apples.cpp) |
+| 104393J | [104393J - Jane's Party Salad](https://codeforces.com/gym/104393/problem/J) | GYM | [Solution](Codeforces/GYM/104393/J_Jane's_Party_Salad.cpp) |
+| 104426A | [104426A - G Game](https://codeforces.com/gym/104426/problem/A) | GYM | [Solution](Codeforces/GYM/104426/A_G_Game.cpp) |
+| 104426B | [104426B - Permutation Tree](https://codeforces.com/gym/104426/problem/B) | GYM | [Solution](Codeforces/GYM/104426/B_Permutation_Tree.cpp) |
+| 104426C | [104426C - SYPUCPC Problemsetting](https://codeforces.com/gym/104426/problem/C) | GYM | [Solution](Codeforces/GYM/104426/C_SYPUCPC_Problemsetting.cpp) |
+| 104426E | [104426E - Stacked Pearls](https://codeforces.com/gym/104426/problem/E) | GYM | [Solution](Codeforces/GYM/104426/E_Stacked_Pearls.cpp) |
+| 104426F | [104426F - The Lazy Author](https://codeforces.com/gym/104426/problem/F) | GYM | [Solution](Codeforces/GYM/104426/F_The_Lazy_Author.cpp) |
+| 104426H | [104426H - Abo Abdo Smoothies](https://codeforces.com/gym/104426/problem/H) | GYM | [Solution](Codeforces/GYM/104426/H_Abo_Abdo_Smoothies.cpp) |
+| 104426I | [104426I - Yazan's game](https://codeforces.com/gym/104426/problem/I) | GYM | [Solution](Codeforces/GYM/104426/I_Yazan's_game.cpp) |
+| 104426L | [104426L - Protecting The Earth](https://codeforces.com/gym/104426/problem/L) | GYM | [Solution](Codeforces/GYM/104426/L_Protecting_The_Earth.cpp) |
+| 104426M | [104426M - Kubernetes](https://codeforces.com/gym/104426/problem/M) | GYM | [Solution](Codeforces/GYM/104426/M_Kubernetes.cpp) |
+| 104426N | [104426N - Ichthyophobia](https://codeforces.com/gym/104426/problem/N) | GYM | [Solution](Codeforces/GYM/104426/N_Ichthyophobia.cpp) |
+| 104447A | [104447A - Is It A Math Problem?](https://codeforces.com/gym/104447/problem/A) | GYM | [Solution](Codeforces/GYM/104447/A_Is_It_A_Math_Problem.cpp) |
+| 104447B | [104447B - How Aswad Use Telegram?](https://codeforces.com/gym/104447/problem/B) | GYM | [Solution](Codeforces/GYM/104447/B_How_Aswad_Use_Telegram.cpp) |
+| 104447D | [104447D - Could you help the judges?](https://codeforces.com/gym/104447/problem/D) | GYM | [Solution](Codeforces/GYM/104447/D_Could_you_help_the_judges.cpp) |
+| 104447F | [104447F - Isn't it a hard problem?](https://codeforces.com/gym/104447/problem/F) | GYM | [Solution](Codeforces/GYM/104447/F_Isn't_it_a_hard_problem.cpp) |
+| 104447G | [104447G - What is Kaito's delimma?](https://codeforces.com/gym/104447/problem/G) | GYM | [Solution](Codeforces/GYM/104447/G_What_is_Kaito's_delimma.cpp) |
+| 104447J | [104447J - How Kifah sees Extreme?](https://codeforces.com/gym/104447/problem/J) | GYM | [Solution](Codeforces/GYM/104447/J_How_Kifah_sees_Extreme.cpp) |
+| 104447K | [104447K - Do you believe that this is a real story?](https://codeforces.com/gym/104447/problem/K) | GYM | [Solution](Codeforces/GYM/104447/K_Do_you_believe_that_this_is_a_real_story.cpp) |
+| 104447L | [104447L - Amazing Teacher](https://codeforces.com/gym/104447/problem/L) | GYM | [Solution](Codeforces/GYM/104447/L_Amazing_Teacher.cpp) |
+| 104447M | [104447M - Is it possible?](https://codeforces.com/gym/104447/problem/M) | GYM | [Solution](Codeforces/GYM/104447/M_Is_it_possible.cpp) |
+| 104452A | [104452A - Motivation problems](https://codeforces.com/gym/104452/problem/A) | GYM | [Solution](Codeforces/GYM/104452/A_Motivation_problems.cpp) |
+| 104452B | [104452B - Time to reap the harvest](https://codeforces.com/gym/104452/problem/B) | GYM | [Solution](Codeforces/GYM/104452/B_Time_to_reap_the_harvest.cpp) |
+| 104452C | [104452C - Lucky or not?](https://codeforces.com/gym/104452/problem/C) | GYM | [Solution](Codeforces/GYM/104452/C_Lucky_or_not.cpp) |
+| 104452D | [104452D - Professor R's. Median](https://codeforces.com/gym/104452/problem/D) | GYM | [Solution](Codeforces/GYM/104452/D_Professor_R's._Median.cpp) |
+| 104452E | [104452E - The Highlanders' Tournament](https://codeforces.com/gym/104452/problem/E) | GYM | [Solution](Codeforces/GYM/104452/E_The_Highlanders'_Tournament.cpp) |
+| 104452G | [104452G - Progress bar](https://codeforces.com/gym/104452/problem/G) | GYM | [Solution](Codeforces/GYM/104452/G_Progress_bar.cpp) |
+| 104452I | [104452I - Pharaoh hEx](https://codeforces.com/gym/104452/problem/I) | GYM | [Solution](Codeforces/GYM/104452/I_Pharaoh_hEx.cpp) |
+| 104452L | [104452L - Cipher](https://codeforces.com/gym/104452/problem/L) | GYM | [Solution](Codeforces/GYM/104452/L_Cipher.cpp) |
+| 104452N | [104452N - Contest with bug](https://codeforces.com/gym/104452/problem/N) | GYM | [Solution](Codeforces/GYM/104452/N_Contest_with_bug.cpp) |
+| 104466D | [104466D - DnD Dice](https://codeforces.com/gym/104466/problem/D) | GYM | [Solution](Codeforces/GYM/104466/D_DnD_Dice.cpp) |
+| 104466E | [104466E - Eszett](https://codeforces.com/gym/104466/problem/E) | GYM | [Solution](Codeforces/GYM/104466/E_Eszett.cpp) |
+| 104466G | [104466G - German Conference for Public Counting](https://codeforces.com/gym/104466/problem/G) | GYM | [Solution](Codeforces/GYM/104466/G_German_Conference_for_Public_Counting.cpp) |
+| 104466I | [104466I - Investigating Frog Behaviour on Lily Pad Patterns](https://codeforces.com/gym/104466/problem/I) | GYM | [Solution](Codeforces/GYM/104466/I_Investigating_Frog_Behaviour_on_Lily_Pad_Patterns.cpp) |
+| 104466L | [104466L - Loop Invariant](https://codeforces.com/gym/104466/problem/L) | GYM | [Solution](Codeforces/GYM/104466/L_Loop_Invariant.cpp) |
+| 104466M | [104466M - Mischievous Math](https://codeforces.com/gym/104466/problem/M) | GYM | [Solution](Codeforces/GYM/104466/M_Mischievous_Math.cpp) |
+| 104468C | [104468C - Ammar-utiful Permutations](https://codeforces.com/gym/104468/problem/C) | GYM | [Solution](Codeforces/GYM/104468/C_Ammar-utiful_Permutations.cpp) |
+| 104468D | [104468D - DBSucks-ugly Array](https://codeforces.com/gym/104468/problem/D) | GYM | [Solution](Codeforces/GYM/104468/D_DBSucks-ugly_Array.cpp) |
+| 104468E | [104468E - Tareq-utiful Tree](https://codeforces.com/gym/104468/problem/E) | GYM | [Solution](Codeforces/GYM/104468/E_Tareq-utiful_Tree.cpp) |
+| 104468F | [104468F - Resli-utiful Pair](https://codeforces.com/gym/104468/problem/F) | GYM | [Solution](Codeforces/GYM/104468/F_Resli-utiful_Pair.cpp) |
+| 104468G | [104468G - Wael-utiful Array](https://codeforces.com/gym/104468/problem/G) | GYM | [Solution](Codeforces/GYM/104468/G_Wael-utiful_Array.cpp) |
+| 104468H | [104468H - Ammar-utiful Array](https://codeforces.com/gym/104468/problem/H) | GYM | [Solution](Codeforces/GYM/104468/H_Ammar-utiful_Array.cpp) |
+| 104468J | [104468J - Elias-utiful Array](https://codeforces.com/gym/104468/problem/J) | GYM | [Solution](Codeforces/GYM/104468/J_Elias-utiful_Array.cpp) |
+| 104468K | [104468K - Damas-utiful vs Aleppo-utiful](https://codeforces.com/gym/104468/problem/K) | GYM | [Solution](Codeforces/GYM/104468/K_Damas-utiful_vs_Aleppo-utiful.cpp) |
+| 104468M | [104468M - Resli-utiful Indices](https://codeforces.com/gym/104468/problem/M) | GYM | [Solution](Codeforces/GYM/104468/M_Resli-utiful_Indices.cpp) |
+| 104487A | [104487A - CBS Bracket Sequence](https://codeforces.com/gym/104487/problem/A) | GYM | [Solution](Codeforces/GYM/104487/A_CBS_Bracket_Sequence.cpp) |
+| 104487B | [104487B - GCN](https://codeforces.com/gym/104487/problem/B) | GYM | [Solution](Codeforces/GYM/104487/B_GCN.cpp) |
+| 104487D | [104487D - Similarity](https://codeforces.com/gym/104487/problem/D) | GYM | [Solution](Codeforces/GYM/104487/D_Similarity.cpp) |
+| 104487E | [104487E - Interesting Ratios](https://codeforces.com/gym/104487/problem/E) | GYM | [Solution](Codeforces/GYM/104487/E_Interesting_Ratios.cpp) |
+| 104487F | [104487F - Temporary Array](https://codeforces.com/gym/104487/problem/F) | GYM | [Solution](Codeforces/GYM/104487/F_Temporary_Array.cpp) |
+| 104487G | [104487G - Charging Power](https://codeforces.com/gym/104487/problem/G) | GYM | [Solution](Codeforces/GYM/104487/G_Charging_Power.cpp) |
+| 104487J | [104487J - Lazy Abdo](https://codeforces.com/gym/104487/problem/J) | GYM | [Solution](Codeforces/GYM/104487/J_Lazy_Abdo.cpp) |
+| 104487M | [104487M - Captain Haddock And The Counting Problem](https://codeforces.com/gym/104487/problem/M) | GYM | [Solution](Codeforces/GYM/104487/M_Captain_Haddock_And_The_Counting_Problem.cpp) |
+| 104487N | [104487N - Fixing The Servers](https://codeforces.com/gym/104487/problem/N) | GYM | [Solution](Codeforces/GYM/104487/N_Fixing_The_Servers.cpp) |
+| 104493B | [104493B - Convarge To 1](https://codeforces.com/gym/104493/problem/B) | GYM | [Solution](Codeforces/GYM/104493/B_Convarge_To_1.cpp) |
+| 104493E | [104493E - Sad Teacher](https://codeforces.com/gym/104493/problem/E) | GYM | [Solution](Codeforces/GYM/104493/E_Sad_Teacher.cpp) |
+| 104493F | [104493F - New Board Game](https://codeforces.com/gym/104493/problem/F) | GYM | [Solution](Codeforces/GYM/104493/F_New_Board_Game.cpp) |
+| 104493G | [104493G - Don't Make It 2](https://codeforces.com/gym/104493/problem/G) | GYM | [Solution](Codeforces/GYM/104493/G_Don't_Make_It_2.cpp) |
+| 104493H | [104493H - Yaser In Baradah](https://codeforces.com/gym/104493/problem/H) | GYM | [Solution](Codeforces/GYM/104493/H_Yaser_In_Baradah.cpp) |
+| 104493K | [104493K - Sam-Oh, the funny coach](https://codeforces.com/gym/104493/problem/K) | GYM | [Solution](Codeforces/GYM/104493/K_Sam-Oh,_the_funny_coach.cpp) |
+| 104505B | [104505B - Maracas](https://codeforces.com/gym/104505/problem/B) | GYM | [Solution](Codeforces/GYM/104505/B_Maracas.cpp) |
+| 104505D | [104505D - Supermarket queue](https://codeforces.com/gym/104505/problem/D) | GYM | [Solution](Codeforces/GYM/104505/D_Supermarket_queue.cpp) |
+| 104505E | [104505E - Long Live Mexico](https://codeforces.com/gym/104505/problem/E) | GYM | [Solution](Codeforces/GYM/104505/E_Long_Live_Mexico.cpp) |
+| 104505F | [104505F - Goalkeeper of 7 games (or less)](https://codeforces.com/gym/104505/problem/F) | GYM | [Solution](Codeforces/GYM/104505/F_Goalkeeper_of_7_games_(or_less).cpp) |
+| 104505G | [104505G - Choice hero](https://codeforces.com/gym/104505/problem/G) | GYM | [Solution](Codeforces/GYM/104505/G_Choice_hero.cpp) |
+| 104505K | [104505K - Missing Cyan](https://codeforces.com/gym/104505/problem/K) | GYM | [Solution](Codeforces/GYM/104505/K_Missing_Cyan.cpp) |
+| 104544B | [104544B - The Good Judge](https://codeforces.com/gym/104544/problem/B) | GYM | [Solution](Codeforces/GYM/104544/B_The_Good_Judge.cpp) |
+| 104544C | [104544C - K-th LNCA](https://codeforces.com/gym/104544/problem/C) | GYM | [Solution](Codeforces/GYM/104544/C_K-th_LNCA.cpp) |
+| 104544D | [104544D - For A Few Dollars More](https://codeforces.com/gym/104544/problem/D) | GYM | [Solution](Codeforces/GYM/104544/D_For_A_Few_Dollars_More.cpp) |
+| 104544G | [104544G - Now I Know You Are Blind Man, But You Gotta See This](https://codeforces.com/gym/104544/problem/G) | GYM | [Solution](Codeforces/GYM/104544/G_Now_I_Know_You_Are_Blind_Man,_But_You_Gotta_See_This.cpp) |
+| 104544L | [104544L - The Washing Machine Monster](https://codeforces.com/gym/104544/problem/L) | GYM | [Solution](Codeforces/GYM/104544/L_The_Washing_Machine_Monster.cpp) |
+| 104544M | [104544M - Be Aware of Your Profile Picture](https://codeforces.com/gym/104544/problem/M) | GYM | [Solution](Codeforces/GYM/104544/M_Be_Aware_of_Your_Profile_Picture.cpp) |
+| 104555A | [104555A - Amusement Park Adventure](https://codeforces.com/gym/104555/problem/A) | GYM | [Solution](Codeforces/GYM/104555/A_Amusement_Park_Adventure.cpp) |
+| 104555C | [104555C - Challenging Hike](https://codeforces.com/gym/104555/problem/C) | GYM | [Solution](Codeforces/GYM/104555/C_Challenging_Hike.cpp) |
+| 104555E | [104555E - Extracting Pollen](https://codeforces.com/gym/104555/problem/E) | GYM | [Solution](Codeforces/GYM/104555/E_Extracting_Pollen.cpp) |
+| 104555F | [104555F - Fatigue-Fighting Vacation](https://codeforces.com/gym/104555/problem/F) | GYM | [Solution](Codeforces/GYM/104555/F_Fatigue-Fighting_Vacation.cpp) |
+| 104555G | [104555G - Great Treaty of Byteland](https://codeforces.com/gym/104555/problem/G) | GYM | [Solution](Codeforces/GYM/104555/G_Great_Treaty_of_Byteland.cpp) |
+| 104555I | [104555I - Investigating Zeroes and Ones](https://codeforces.com/gym/104555/problem/I) | GYM | [Solution](Codeforces/GYM/104555/I_Investigating_Zeroes_and_Ones.cpp) |
+| 104555L | [104555L - Lexicographical Challenge](https://codeforces.com/gym/104555/problem/L) | GYM | [Solution](Codeforces/GYM/104555/L_Lexicographical_Challenge.cpp) |
+| 104555M | [104555M - Maximizing Flight Efficiency](https://codeforces.com/gym/104555/problem/M) | GYM | [Solution](Codeforces/GYM/104555/M_Maximizing_Flight_Efficiency.cpp) |
+| 104566A | [104566A - Live Love](https://codeforces.com/gym/104566/problem/A) | GYM | [Solution](Codeforces/GYM/104566/A_Live_Love.cpp) |
+| 104566B | [104566B - Red Black Tree](https://codeforces.com/gym/104566/problem/B) | GYM | [Solution](Codeforces/GYM/104566/B_Red_Black_Tree.cpp) |
+| 104566C | [104566C - Halting Problem](https://codeforces.com/gym/104566/problem/C) | GYM | [Solution](Codeforces/GYM/104566/C_Halting_Problem.cpp) |
+| 104566G | [104566G - Couleur](https://codeforces.com/gym/104566/problem/G) | GYM | [Solution](Codeforces/GYM/104566/G_Couleur.cpp) |
+| 104566H | [104566H - Traveling on the Axis](https://codeforces.com/gym/104566/problem/H) | GYM | [Solution](Codeforces/GYM/104566/H_Traveling_on_the_Axis.cpp) |
+| 104566J | [104566J - Press the Button](https://codeforces.com/gym/104566/problem/J) | GYM | [Solution](Codeforces/GYM/104566/J_Press_the_Button.cpp) |
+| 104566K | [104566K - XOR Clique](https://codeforces.com/gym/104566/problem/K) | GYM | [Solution](Codeforces/GYM/104566/K_XOR_Clique.cpp) |
+| 104603A | [104603A - Alfajores](https://codeforces.com/gym/104603/problem/A) | GYM | [Solution](Codeforces/GYM/104603/A_Alfajores.cpp) |
+| 104603B | [104603B - Black and white](https://codeforces.com/gym/104603/problem/B) | GYM | [Solution](Codeforces/GYM/104603/B_Black_and_white.cpp) |
+| 104603C | [104603C - Chromatic](https://codeforces.com/gym/104603/problem/C) | GYM | [Solution](Codeforces/GYM/104603/C_Chromatic.cpp) |
+| 104603D | [104603D - Assigning problems](https://codeforces.com/gym/104603/problem/D) | GYM | [Solution](Codeforces/GYM/104603/D_Assigning_problems.cpp) |
+| 104603E | [104603E - Finding progressions](https://codeforces.com/gym/104603/problem/E) | GYM | [Solution](Codeforces/GYM/104603/E_Finding_progressions.cpp) |
+| 104603F | [104603F - Cold day at the beach](https://codeforces.com/gym/104603/problem/F) | GYM | [Solution](Codeforces/GYM/104603/F_Cold_day_at_the_beach.cpp) |
+| 104603H | [104603H - Robotic Skills](https://codeforces.com/gym/104603/problem/H) | GYM | [Solution](Codeforces/GYM/104603/H_Robotic_Skills.cpp) |
+| 104603L | [104603L - Game series](https://codeforces.com/gym/104603/problem/L) | GYM | [Solution](Codeforces/GYM/104603/L_Game_series.cpp) |
+| 104603M | [104603M - Multiple Downloads](https://codeforces.com/gym/104603/problem/M) | GYM | [Solution](Codeforces/GYM/104603/M_Multiple_Downloads.cpp) |
+| 104603N | [104603N - Lucky Number](https://codeforces.com/gym/104603/problem/N) | GYM | [Solution](Codeforces/GYM/104603/N_Lucky_Number.cpp) |
+| 104736B | [104736B - Blackboard Game](https://codeforces.com/gym/104736/problem/B) | GYM | [Solution](Codeforces/GYM/104736/B_Blackboard_Game.cpp) |
+| 104736D | [104736D - Deciphering WordWhiz](https://codeforces.com/gym/104736/problem/D) | GYM | [Solution](Codeforces/GYM/104736/D_Deciphering_WordWhiz.cpp) |
+| 104736F | [104736F - Forward and Backward](https://codeforces.com/gym/104736/problem/F) | GYM | [Solution](Codeforces/GYM/104736/F_Forward_and_Backward.cpp) |
+| 104736I | [104736I - Inversions](https://codeforces.com/gym/104736/problem/I) | GYM | [Solution](Codeforces/GYM/104736/I_Inversions.cpp) |
+| 104736M | [104736M - Meeting Point](https://codeforces.com/gym/104736/problem/M) | GYM | [Solution](Codeforces/GYM/104736/M_Meeting_Point.cpp) |
+| 104757A | [104757A - A Pivotal Question](https://codeforces.com/gym/104757/problem/A) | GYM | [Solution](Codeforces/GYM/104757/A_A_Pivotal_Question.cpp) |
+| 104757B | [104757B - B Road Band](https://codeforces.com/gym/104757/problem/B) | GYM | [Solution](Codeforces/GYM/104757/B_B_Road_Band.cpp) |
+| 104757D | [104757D - Cornhusker](https://codeforces.com/gym/104757/problem/D) | GYM | [Solution](Codeforces/GYM/104757/D_Cornhusker.cpp) |
+| 104757E | [104757E - Prof.~Fumblemore and the Collatz Conjecture](https://codeforces.com/gym/104757/problem/E) | GYM | [Solution](Codeforces/GYM/104757/E_Prof.~Fumblemore_and_the_Collatz_Conjecture.cpp) |
+| 104757F | [104757F - Double Up](https://codeforces.com/gym/104757/problem/F) | GYM | [Solution](Codeforces/GYM/104757/F_Double_Up.cpp) |
+| 104757I | [104757I - ISBN Conversion](https://codeforces.com/gym/104757/problem/I) | GYM | [Solution](Codeforces/GYM/104757/I_ISBN_Conversion.cpp) |
+| 104757K | [104757K - Split Decisions](https://codeforces.com/gym/104757/problem/K) | GYM | [Solution](Codeforces/GYM/104757/K_Split_Decisions.cpp) |
+| 104767E | [104767E - Fragmentation](https://codeforces.com/gym/104767/problem/E) | GYM | [Solution](Codeforces/GYM/104767/E_Fragmentation.cpp) |
+| 104767K | [104767K - Screamers in the Storm](https://codeforces.com/gym/104767/problem/K) | GYM | [Solution](Codeforces/GYM/104767/K_Screamers_in_the_Storm.cpp) |
+| 104772A | [104772A - Axis-Aligned Area](https://codeforces.com/gym/104772/problem/A) | GYM | [Solution](Codeforces/GYM/104772/A_Axis-Aligned_Area.cpp) |
+| 104772D | [104772D - Divisibility Trick](https://codeforces.com/gym/104772/problem/D) | GYM | [Solution](Codeforces/GYM/104772/D_Divisibility_Trick.cpp) |
+| 104772E | [104772E - Every Queen](https://codeforces.com/gym/104772/problem/E) | GYM | [Solution](Codeforces/GYM/104772/E_Every_Queen.cpp) |
+| 104772G | [104772G - Game of Nim](https://codeforces.com/gym/104772/problem/G) | GYM | [Solution](Codeforces/GYM/104772/G_Game_of_Nim.cpp) |
+| 104772I | [104772I - Intersegment Activation](https://codeforces.com/gym/104772/problem/I) | GYM | [Solution](Codeforces/GYM/104772/I_Intersegment_Activation.cpp) |
+| 104772J | [104772J - Jumping Frogs](https://codeforces.com/gym/104772/problem/J) | GYM | [Solution](Codeforces/GYM/104772/J_Jumping_Frogs.cpp) |
+| 104772K | [104772K - Kitchen Timer](https://codeforces.com/gym/104772/problem/K) | GYM | [Solution](Codeforces/GYM/104772/K_Kitchen_Timer.cpp) |
+| 104772M | [104772M - Missing Vowels](https://codeforces.com/gym/104772/problem/M) | GYM | [Solution](Codeforces/GYM/104772/M_Missing_Vowels.cpp) |
+| 104782A | [104782A - Maximum Distance](https://codeforces.com/gym/104782/problem/A) | GYM | [Solution](Codeforces/GYM/104782/A_Maximum_Distance.cpp) |
+| 104782C | [104782C - Basketball](https://codeforces.com/gym/104782/problem/C) | GYM | [Solution](Codeforces/GYM/104782/C_Basketball.cpp) |
+| 104782D | [104782D - Edenland](https://codeforces.com/gym/104782/problem/D) | GYM | [Solution](Codeforces/GYM/104782/D_Edenland.cpp) |
+| 104782E | [104782E - Fiboxor](https://codeforces.com/gym/104782/problem/E) | GYM | [Solution](Codeforces/GYM/104782/E_Fiboxor.cpp) |
+| 104782G | [104782G - Minimize Sum](https://codeforces.com/gym/104782/problem/G) | GYM | [Solution](Codeforces/GYM/104782/G_Minimize_Sum.cpp) |
+| 104782I | [104782I - KSumT](https://codeforces.com/gym/104782/problem/I) | GYM | [Solution](Codeforces/GYM/104782/I_KSumT.cpp) |
+| 104782J | [104782J - Parallelogram](https://codeforces.com/gym/104782/problem/J) | GYM | [Solution](Codeforces/GYM/104782/J_Parallelogram.cpp) |
+| 104782L | [104782L - Dush](https://codeforces.com/gym/104782/problem/L) | GYM | [Solution](Codeforces/GYM/104782/L_Dush.cpp) |
+| 104785B | [104785B - Boat Commuter](https://codeforces.com/gym/104785/problem/B) | GYM | [Solution](Codeforces/GYM/104785/B_Boat_Commuter.cpp) |
+| 104785C | [104785C - Clearing Space](https://codeforces.com/gym/104785/problem/C) | GYM | [Solution](Codeforces/GYM/104785/C_Clearing_Space.cpp) |
+| 104785D | [104785D - Delivery Forces](https://codeforces.com/gym/104785/problem/D) | GYM | [Solution](Codeforces/GYM/104785/D_Delivery_Forces.cpp) |
+| 104785F | [104785F - Fast Forward](https://codeforces.com/gym/104785/problem/F) | GYM | [Solution](Codeforces/GYM/104785/F_Fast_Forward.cpp) |
+| 104785K | [104785K - Kernel Scheduler](https://codeforces.com/gym/104785/problem/K) | GYM | [Solution](Codeforces/GYM/104785/K_Kernel_Scheduler.cpp) |
+| 104785L | [104785L - Last One Standing](https://codeforces.com/gym/104785/problem/L) | GYM | [Solution](Codeforces/GYM/104785/L_Last_One_Standing.cpp) |
+| 104785M | [104785M - Mini-Tetris 3023](https://codeforces.com/gym/104785/problem/M) | GYM | [Solution](Codeforces/GYM/104785/M_Mini-Tetris_3023.cpp) |
+| 104785N | [104785N - Naming Wine Bottles](https://codeforces.com/gym/104785/problem/N) | GYM | [Solution](Codeforces/GYM/104785/N_Naming_Wine_Bottles.cpp) |
+| 104790A | [104790A - \texttt{apt upgrade}](https://codeforces.com/gym/104790/problem/A) | GYM | [Solution](Codeforces/GYM/104790/A_texttt{apt_upgrade}.cpp) |
+| 104790B | [104790B - Battle Bots](https://codeforces.com/gym/104790/problem/B) | GYM | [Solution](Codeforces/GYM/104790/B_Battle_Bots.cpp) |
+| 104790C | [104790C - Compressing Commands](https://codeforces.com/gym/104790/problem/C) | GYM | [Solution](Codeforces/GYM/104790/C_Compressing_Commands.cpp) |
+| 104790D | [104790D - Democratic Naming](https://codeforces.com/gym/104790/problem/D) | GYM | [Solution](Codeforces/GYM/104790/D_Democratic_Naming.cpp) |
+| 104790E | [104790E - Exam Study Planning](https://codeforces.com/gym/104790/problem/E) | GYM | [Solution](Codeforces/GYM/104790/E_Exam_Study_Planning.cpp) |
+| 104790F | [104790F - Funicular Frenzy](https://codeforces.com/gym/104790/problem/F) | GYM | [Solution](Codeforces/GYM/104790/F_Funicular_Frenzy.cpp) |
+| 104790G | [104790G - Geometry Game](https://codeforces.com/gym/104790/problem/G) | GYM | [Solution](Codeforces/GYM/104790/G_Geometry_Game.cpp) |
+| 104790L | [104790L - Locking Doors](https://codeforces.com/gym/104790/problem/L) | GYM | [Solution](Codeforces/GYM/104790/L_Locking_Doors.cpp) |
+| 104805A | [104805A - Number System](https://codeforces.com/gym/104805/problem/A) | GYM | [Solution](Codeforces/GYM/104805/A_Number_System.cpp) |
+| 104805B | [104805B - The Moon golf](https://codeforces.com/gym/104805/problem/B) | GYM | [Solution](Codeforces/GYM/104805/B_The_Moon_golf.cpp) |
+| 104805C | [104805C - Fare](https://codeforces.com/gym/104805/problem/C) | GYM | [Solution](Codeforces/GYM/104805/C_Fare.cpp) |
+| 104805E | [104805E - Alley](https://codeforces.com/gym/104805/problem/E) | GYM | [Solution](Codeforces/GYM/104805/E_Alley.cpp) |
+| 104805G | [104805G - Sleep](https://codeforces.com/gym/104805/problem/G) | GYM | [Solution](Codeforces/GYM/104805/G_Sleep.cpp) |
+| 104805H | [104805H - Crawling](https://codeforces.com/gym/104805/problem/H) | GYM | [Solution](Codeforces/GYM/104805/H_Crawling.cpp) |
+| 104805I | [104805I - Problem on array](https://codeforces.com/gym/104805/problem/I) | GYM | [Solution](Codeforces/GYM/104805/I_Problem_on_array.cpp) |
+| 104805K | [104805K - Get the numbers](https://codeforces.com/gym/104805/problem/K) | GYM | [Solution](Codeforces/GYM/104805/K_Get_the_numbers.cpp) |
+| 104805L | [104805L - Towers](https://codeforces.com/gym/104805/problem/L) | GYM | [Solution](Codeforces/GYM/104805/L_Towers.cpp) |
+| 104805M | [104805M - Choosing a name](https://codeforces.com/gym/104805/problem/M) | GYM | [Solution](Codeforces/GYM/104805/M_Choosing_a_name.cpp) |
+| 104805N | [104805N - First words](https://codeforces.com/gym/104805/problem/N) | GYM | [Solution](Codeforces/GYM/104805/N_First_words.cpp) |
+| 104832A | [104832A - Yokohama Phenomena](https://codeforces.com/gym/104832/problem/A) | GYM | [Solution](Codeforces/GYM/104832/A_Yokohama_Phenomena.cpp) |
+| 104832B | [104832B - Rank Promotion](https://codeforces.com/gym/104832/problem/B) | GYM | [Solution](Codeforces/GYM/104832/B_Rank_Promotion.cpp) |
+| 104832D | [104832D - Nested Repetition Compression](https://codeforces.com/gym/104832/problem/D) | GYM | [Solution](Codeforces/GYM/104832/D_Nested_Repetition_Compression.cpp) |
+| 104832F | [104832F - Color Inversion on a Huge Chessboard](https://codeforces.com/gym/104832/problem/F) | GYM | [Solution](Codeforces/GYM/104832/F_Color_Inversion_on_a_Huge_Chessboard.cpp) |
+| 104832G | [104832G - Fortune Telling](https://codeforces.com/gym/104832/problem/G) | GYM | [Solution](Codeforces/GYM/104832/G_Fortune_Telling.cpp) |
+| 104842A | [104842A - Adventure in Flatland](https://codeforces.com/gym/104842/problem/A) | GYM | [Solution](Codeforces/GYM/104842/A_Adventure_in_Flatland.cpp) |
+| 104842B | [104842B - Basketball Plus-Minus](https://codeforces.com/gym/104842/problem/B) | GYM | [Solution](Codeforces/GYM/104842/B_Basketball_Plus-Minus.cpp) |
+| 104842C | [104842C - C and Pascal Strings](https://codeforces.com/gym/104842/problem/C) | GYM | [Solution](Codeforces/GYM/104842/C_C_and_Pascal_Strings.cpp) |
+| 104842D | [104842D - Deep Primes](https://codeforces.com/gym/104842/problem/D) | GYM | [Solution](Codeforces/GYM/104842/D_Deep_Primes.cpp) |
+| 104842G | [104842G - Game With Stones](https://codeforces.com/gym/104842/problem/G) | GYM | [Solution](Codeforces/GYM/104842/G_Game_With_Stones.cpp) |
+| 104854B | [104854B - Beautiful Contest](https://codeforces.com/gym/104854/problem/B) | GYM | [Solution](Codeforces/GYM/104854/B_Beautiful_Contest.cpp) |
+| 104854C | [104854C - Continued Fractions](https://codeforces.com/gym/104854/problem/C) | GYM | [Solution](Codeforces/GYM/104854/C_Continued_Fractions.cpp) |
+| 104854D | [104854D - District 42](https://codeforces.com/gym/104854/problem/D) | GYM | [Solution](Codeforces/GYM/104854/D_District_42.cpp) |
+| 104854F | [104854F - Factorial Prime](https://codeforces.com/gym/104854/problem/F) | GYM | [Solution](Codeforces/GYM/104854/F_Factorial_Prime.cpp) |
+| 104854G | [104854G - Guess Gauss](https://codeforces.com/gym/104854/problem/G) | GYM | [Solution](Codeforces/GYM/104854/G_Guess_Gauss.cpp) |
+| 104854J | [104854J - Judging Gifts](https://codeforces.com/gym/104854/problem/J) | GYM | [Solution](Codeforces/GYM/104854/J_Judging_Gifts.cpp) |
+| 104871B | [104871B - Ball Passing](https://codeforces.com/gym/104871/problem/B) | GYM | [Solution](Codeforces/GYM/104871/B_Ball_Passing.cpp) |
+| 104871D | [104871D - Drying Laundry](https://codeforces.com/gym/104871/problem/D) | GYM | [Solution](Codeforces/GYM/104871/D_Drying_Laundry.cpp) |
+| 104871E | [104871E - Equal Schedules](https://codeforces.com/gym/104871/problem/E) | GYM | [Solution](Codeforces/GYM/104871/E_Equal_Schedules.cpp) |
+| 104871G | [104871G - Going to the Moon](https://codeforces.com/gym/104871/problem/G) | GYM | [Solution](Codeforces/GYM/104871/G_Going_to_the_Moon.cpp) |
+| 104871K | [104871K - Keys](https://codeforces.com/gym/104871/problem/K) | GYM | [Solution](Codeforces/GYM/104871/K_Keys.cpp) |
+| 104872A | [104872A - Three Suitcases](https://codeforces.com/gym/104872/problem/A) | GYM | [Solution](Codeforces/GYM/104872/A_Three_Suitcases.cpp) |
+| 104872B | [104872B - Cooperative Game on a Tree](https://codeforces.com/gym/104872/problem/B) | GYM | [Solution](Codeforces/GYM/104872/B_Cooperative_Game_on_a_Tree.cpp) |
+| 104872E | [104872E - Casino](https://codeforces.com/gym/104872/problem/E) | GYM | [Solution](Codeforces/GYM/104872/E_Casino.cpp) |
+| 104872F | [104872F - Magic Square](https://codeforces.com/gym/104872/problem/F) | GYM | [Solution](Codeforces/GYM/104872/F_Magic_Square.cpp) |
+| 104872G | [104872G - Not Everything Is So Ambiguous](https://codeforces.com/gym/104872/problem/G) | GYM | [Solution](Codeforces/GYM/104872/G_Not_Everything_Is_So_Ambiguous.cpp) |
+| 104872H | [104872H - Scooter Numbers](https://codeforces.com/gym/104872/problem/H) | GYM | [Solution](Codeforces/GYM/104872/H_Scooter_Numbers.cpp) |
+| 104872L | [104872L - Count the Christmas Trees](https://codeforces.com/gym/104872/problem/L) | GYM | [Solution](Codeforces/GYM/104872/L_Count_the_Christmas_Trees.cpp) |
+| 104872M | [104872M - Katya and the Broken Keyboard](https://codeforces.com/gym/104872/problem/M) | GYM | [Solution](Codeforces/GYM/104872/M_Katya_and_the_Broken_Keyboard.cpp) |
+| 104874A | [104874A - Accurate Movement](https://codeforces.com/gym/104874/problem/A) | GYM | [Solution](Codeforces/GYM/104874/A_Accurate_Movement.cpp) |
+| 104874E | [104874E - Equidistant](https://codeforces.com/gym/104874/problem/E) | GYM | [Solution](Codeforces/GYM/104874/E_Equidistant.cpp) |
+| 104874H | [104874H - High Load Database](https://codeforces.com/gym/104874/problem/H) | GYM | [Solution](Codeforces/GYM/104874/H_High_Load_Database.cpp) |
+| 104874J | [104874J - Just the Last Digit](https://codeforces.com/gym/104874/problem/J) | GYM | [Solution](Codeforces/GYM/104874/J_Just_the_Last_Digit.cpp) |
+| 104874M | [104874M - Managing Difficulties](https://codeforces.com/gym/104874/problem/M) | GYM | [Solution](Codeforces/GYM/104874/M_Managing_Difficulties.cpp) |
+| 104925B | [104925B - Binary Sequence](https://codeforces.com/gym/104925/problem/B) | GYM | [Solution](Codeforces/GYM/104925/B_Binary_Sequence.cpp) |
+| 104925E | [104925E - Freshman's Dream](https://codeforces.com/gym/104925/problem/E) | GYM | [Solution](Codeforces/GYM/104925/E_Freshman's_Dream.cpp) |
+| 104925I | [104925I - Rebellious Edge](https://codeforces.com/gym/104925/problem/I) | GYM | [Solution](Codeforces/GYM/104925/I_Rebellious_Edge.cpp) |
+| 105020A | [105020A - Mood](https://codeforces.com/gym/105020/problem/A) | GYM | [Solution](Codeforces/GYM/105020/A_Mood.cpp) |
+| 105020B | [105020B - Hungry](https://codeforces.com/gym/105020/problem/B) | GYM | [Solution](Codeforces/GYM/105020/B_Hungry.cpp) |
+| 105020C | [105020C - Ice Coffee](https://codeforces.com/gym/105020/problem/C) | GYM | [Solution](Codeforces/GYM/105020/C_Ice_Coffee.cpp) |
+| 105020D | [105020D - Beautiful decrease](https://codeforces.com/gym/105020/problem/D) | GYM | [Solution](Codeforces/GYM/105020/D_Beautiful_decrease.cpp) |
+| 105020E | [105020E - The Detective Game](https://codeforces.com/gym/105020/problem/E) | GYM | [Solution](Codeforces/GYM/105020/E_The_Detective_Game.cpp) |
+| 105020F | [105020F - Distinct](https://codeforces.com/gym/105020/problem/F) | GYM | [Solution](Codeforces/GYM/105020/F_Distinct.cpp) |
+| 105020G | [105020G - String Rotation](https://codeforces.com/gym/105020/problem/G) | GYM | [Solution](Codeforces/GYM/105020/G_String_Rotation.cpp) |
+| 105020H | [105020H - Cookies](https://codeforces.com/gym/105020/problem/H) | GYM | [Solution](Codeforces/GYM/105020/H_Cookies.cpp) |
+| 105020I | [105020I - Omar and Trees](https://codeforces.com/gym/105020/problem/I) | GYM | [Solution](Codeforces/GYM/105020/I_Omar_and_Trees.cpp) |
+| 105020J | [105020J - Hide and Seek](https://codeforces.com/gym/105020/problem/J) | GYM | [Solution](Codeforces/GYM/105020/J_Hide_and_Seek.cpp) |
+| 105020K | [105020K - Wrong digits](https://codeforces.com/gym/105020/problem/K) | GYM | [Solution](Codeforces/GYM/105020/K_Wrong_digits.cpp) |
+| 105020L | [105020L - Black and White Tree](https://codeforces.com/gym/105020/problem/L) | GYM | [Solution](Codeforces/GYM/105020/L_Black_and_White_Tree.cpp) |
+| 105020M | [105020M - Delivery](https://codeforces.com/gym/105020/problem/M) | GYM | [Solution](Codeforces/GYM/105020/M_Delivery.cpp) |
+| 105020N | [105020N - How many rectangles?](https://codeforces.com/gym/105020/problem/N) | GYM | [Solution](Codeforces/GYM/105020/N_How_many_rectangles.cpp) |
+| 105022D | [105022D - Air Taxi Game](https://codeforces.com/gym/105022/problem/D) | GYM | [Solution](Codeforces/GYM/105022/D_Air_Taxi_Game.cpp) |
+| 105053D | [105053D - DiviDuelo](https://codeforces.com/gym/105053/problem/D) | GYM | [Solution](Codeforces/GYM/105053/D_DiviDuelo.cpp) |
+| 105053F | [105053F - Fair Distribution](https://codeforces.com/gym/105053/problem/F) | GYM | [Solution](Codeforces/GYM/105053/F_Fair_Distribution.cpp) |
+| 105053G | [105053G - Greek Casino](https://codeforces.com/gym/105053/problem/G) | GYM | [Solution](Codeforces/GYM/105053/G_Greek_Casino.cpp) |
+| 105053K | [105053K - KMOP](https://codeforces.com/gym/105053/problem/K) | GYM | [Solution](Codeforces/GYM/105053/K_KMOP.cpp) |
+| 105053L | [105053L - LED Matrix](https://codeforces.com/gym/105053/problem/L) | GYM | [Solution](Codeforces/GYM/105053/L_LED_Matrix.cpp) |
+| 105264A | [105264A - Goals, Goals! Everywhere](https://codeforces.com/gym/105264/problem/A) | GYM | [Solution](Codeforces/GYM/105264/A_Goals,_Goals!_Everywhere.cpp) |
+| 105264C | [105264C - Variety Hater](https://codeforces.com/gym/105264/problem/C) | GYM | [Solution](Codeforces/GYM/105264/C_Variety_Hater.cpp) |
+| 105264D | [105264D - Make It Minimum](https://codeforces.com/gym/105264/problem/D) | GYM | [Solution](Codeforces/GYM/105264/D_Make_It_Minimum.cpp) |
+| 105264F | [105264F - Tree XOR](https://codeforces.com/gym/105264/problem/F) | GYM | [Solution](Codeforces/GYM/105264/F_Tree_XOR.cpp) |
+| 105264H | [105264H - Good Array](https://codeforces.com/gym/105264/problem/H) | GYM | [Solution](Codeforces/GYM/105264/H_Good_Array.cpp) |
+| 105264I | [105264I - Homies and Not Homies](https://codeforces.com/gym/105264/problem/I) | GYM | [Solution](Codeforces/GYM/105264/I_Homies_and_Not_Homies.cpp) |
+| 105264J | [105264J - Game of Primes](https://codeforces.com/gym/105264/problem/J) | GYM | [Solution](Codeforces/GYM/105264/J_Game_of_Primes.cpp) |
+| 105264K | [105264K - Minimum Sum](https://codeforces.com/gym/105264/problem/K) | GYM | [Solution](Codeforces/GYM/105264/K_Minimum_Sum.cpp) |
+| 105264M | [105264M - Kaaa](https://codeforces.com/gym/105264/problem/M) | GYM | [Solution](Codeforces/GYM/105264/M_Kaaa.cpp) |
+| 105677H | [105677H - The king of SWERC](https://codeforces.com/gym/105677/problem/H) | GYM | [Solution](Codeforces/GYM/105677/H_The_king_of_SWERC.cpp) |
+| 105789A | [105789A - Ananna](https://codeforces.com/gym/105789/problem/A) | GYM | [Solution](Codeforces/GYM/105789/A_Ananna.cpp) |
+| 105789C | [105789C - Coatless in Yakutsk](https://codeforces.com/gym/105789/problem/C) | GYM | [Solution](Codeforces/GYM/105789/C_Coatless_in_Yakutsk.cpp) |
+| 105789D | [105789D - Dangerous City](https://codeforces.com/gym/105789/problem/D) | GYM | [Solution](Codeforces/GYM/105789/D_Dangerous_City.cpp) |
+| 105789G | [105789G - Game of Pieces](https://codeforces.com/gym/105789/problem/G) | GYM | [Solution](Codeforces/GYM/105789/G_Game_of_Pieces.cpp) |
+| 105789L | [105789L - LED Counter](https://codeforces.com/gym/105789/problem/L) | GYM | [Solution](Codeforces/GYM/105789/L_LED_Counter.cpp) |
+| 106020A | [106020A - Tree Labeling](https://codeforces.com/gym/106020/problem/A) | GYM | [Solution](Codeforces/GYM/106020/A_Tree_Labeling.cpp) |
+| 106020B | [106020B - Free Problems](https://codeforces.com/gym/106020/problem/B) | GYM | [Solution](Codeforces/GYM/106020/B_Free_Problems.cpp) |
+| 106020C | [106020C - GCD on Tree](https://codeforces.com/gym/106020/problem/C) | GYM | [Solution](Codeforces/GYM/106020/C_GCD_on_Tree.cpp) |
+| 106020E | [106020E - Permutation Game](https://codeforces.com/gym/106020/problem/E) | GYM | [Solution](Codeforces/GYM/106020/E_Permutation_Game.cpp) |
+| 106020F | [106020F - Coin Flip](https://codeforces.com/gym/106020/problem/F) | GYM | [Solution](Codeforces/GYM/106020/F_Coin_Flip.cpp) |
+| 106020H | [106020H - Mexican Subarrays](https://codeforces.com/gym/106020/problem/H) | GYM | [Solution](Codeforces/GYM/106020/H_Mexican_Subarrays.cpp) |
+| 106020M | [106020M - Hayyan and Subarray Sums](https://codeforces.com/gym/106020/problem/M) | GYM | [Solution](Codeforces/GYM/106020/M_Hayyan_and_Subarray_Sums.cpp) |
+| 106020N | [106020N - Colored Sticks](https://codeforces.com/gym/106020/problem/N) | GYM | [Solution](Codeforces/GYM/106020/N_Colored_Sticks.cpp) |
+| 106063A | [106063A - Archmage's Crystals](https://codeforces.com/gym/106063/problem/A) | GYM | [Solution](Codeforces/GYM/106063/A_Archmage's_Crystals.cpp) |
+| 106063B | [106063B - Bytelandia's stones](https://codeforces.com/gym/106063/problem/B) | GYM | [Solution](Codeforces/GYM/106063/B_Bytelandia's_stones.cpp) |
+| 106063D | [106063D - Doubled Sequence II](https://codeforces.com/gym/106063/problem/D) | GYM | [Solution](Codeforces/GYM/106063/D_Doubled_Sequence_II.cpp) |
+| 106063F | [106063F - Fantastic Robot](https://codeforces.com/gym/106063/problem/F) | GYM | [Solution](Codeforces/GYM/106063/F_Fantastic_Robot.cpp) |
+| 106063G | [106063G - Gatuno's Descent into Psychopathy](https://codeforces.com/gym/106063/problem/G) | GYM | [Solution](Codeforces/GYM/106063/G_Gatuno's_Descent_into_Psychopathy.cpp) |
+| 106063H | [106063H - Heritage of Acatlán](https://codeforces.com/gym/106063/problem/H) | GYM | [Solution](Codeforces/GYM/106063/H_Heritage_of_Acatlán.cpp) |
+| 106063J | [106063J - Juan vs Frank](https://codeforces.com/gym/106063/problem/J) | GYM | [Solution](Codeforces/GYM/106063/J_Juan_vs_Frank.cpp) |
+| 106063K | [106063K - Kilometric Intersection](https://codeforces.com/gym/106063/problem/K) | GYM | [Solution](Codeforces/GYM/106063/K_Kilometric_Intersection.cpp) |
+| 106063L | [106063L - Los Ratones III](https://codeforces.com/gym/106063/problem/L) | GYM | [Solution](Codeforces/GYM/106063/L_Los_Ratones_III.cpp) |
+| 1864D | [D - Matrix Cascade](https://codeforces.com/group/XrvsTsJWMb/contest/1864/problem/D) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)/D - D - Matrix Cascade.cpp) |
+| 1912B | [B - Blueprint for Seating](https://codeforces.com/group/YTYmnVxV00/contest/1912/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)/B - B - Blueprint for Seating.cpp) |
+| 1937A | [A - Shuffle Party](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/A) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/A - A - Shuffle Party.cpp) |
+| 1937B | [B - Binary Path](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/B) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/B - B - Binary Path.cpp) |
+| 1937C | [C - Bitwise Operation Wizard](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/C) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/C - C - Bitwise Operation Wizard.cpp) |
+| 1937D | [D - Pinball](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/D) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/D - D - Pinball.cpp) |
+| 2063D | [D - Game With Triangles](https://codeforces.com/group/XrvsTsJWMb/contest/2063/problem/D) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 1000 (Div. 2)/D - D - Game With Triangles.cpp) |
+| 2063E | [E - Triangle Tree](https://codeforces.com/group/XrvsTsJWMb/contest/2063/problem/E) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 1000 (Div. 2)/E - E - Triangle Tree.cpp) |
+| 2063F1 | [F1 - Counting Is Not Fun (Easy Version)](https://codeforces.com/group/XrvsTsJWMb/contest/2063/problem/F1) | Groups | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 1000 (Div. 2)/F1 - F1 - Counting Is Not Fun (Easy Version).cpp) |
+| 101608B | [B - OverCode](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/B - B - OverCode.cpp) |
+| 101608D | [D - Test Cases](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/D - D - Test Cases.cpp) |
+| 101608E | [E - Robot I - Instruction Reduction](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/E - E - Robot I - Instruction Reduction.cpp) |
+| 101608M | [M - Winning Cells](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/M) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/M - M - Winning Cells.cpp) |
+| 101611A | [A - Advertising Strategy](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/A - A - Advertising Strategy.cpp) |
+| 101611D | [D - Decoding of Varints](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/D - D - Decoding of Varints.cpp) |
+| 101611F | [F - Fake or Leak?](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/F - F - Fake or Leak_.cpp) |
+| 101611G | [G - God of Winds](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/G - G - God of Winds.cpp) |
+| 101801K | [K - K. Quantum Stones](https://codeforces.com/group/YTYmnVxV00/contest/101801/problem/K) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Tishreen-CPC 2018/K - K - K. Quantum Stones.cpp) |
+| 102644A | [A - Random Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/A - A - Random Mood.cpp) |
+| 102644B | [B - String Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/B - B - String Mood.cpp) |
+| 102644C | [C - Fibonacci](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/C - C - Fibonacci.cpp) |
+| 102644D | [D - Count Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/D - D - Count Paths.cpp) |
+| 102644E | [E - Knight Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/E - E - Knight Paths.cpp) |
+| 103388G | [G - Getting in Shape](https://codeforces.com/group/qrPTLc7Ho4/contest/103388/problem/G) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/2021-2022 ACM-ICPC Brazil Subregional Programming Contest/G - G - Getting in Shape.cpp) |
+| 103821E | [E - Robovac](https://codeforces.com/group/YTYmnVxV00/contest/103821/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(Aleppo + HAIST + SVU + Private) CPC 2022/E - E - Robovac.cpp) |
+| 103821H | [H - FAT Sequences](https://codeforces.com/group/YTYmnVxV00/contest/103821/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(Aleppo + HAIST + SVU + Private) CPC 2022/H - H - FAT Sequences.cpp) |
+| 103828A | [A - 2 Arrays Problem](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/A - A - 2 Arrays Problem.cpp) |
+| 103828D | [D - Ctrl+A+C+V](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/D - D - Ctrl+A+C+V.cpp) |
+| 103828E | [E - Do you where is Naseem?](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/E - E - Do you where is Naseem_.cpp) |
+| 103828H | [H - Kite](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/H - H - Kite.cpp) |
+| 103828J | [J - Even Adjacent Product](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/J - J - Even Adjacent Product.cpp) |
+| 103828N | [N - Moving grid](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/N) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/N - N - Moving grid.cpp) |
+| 104447A | [A - Is It A Math Problem?](https://codeforces.com/group/YTYmnVxV00/contest/104447/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Al-Baath Collegiate Programming Contest 2023/A - A - Is It A Math Problem_.cpp) |
+| 104447J | [J - How Kifah sees Extreme?](https://codeforces.com/group/YTYmnVxV00/contest/104447/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Al-Baath Collegiate Programming Contest 2023/J - J - How Kifah sees Extreme_.cpp) |
+| 104468G | [G - Wael-utiful Array](https://codeforces.com/group/YTYmnVxV00/contest/104468/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2023 Damascus University Collegiate Programming Contest/G - G - Wael-utiful Array.cpp) |
+| 104468M | [M - Resli-utiful Indices](https://codeforces.com/group/YTYmnVxV00/contest/104468/problem/M) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2023 Damascus University Collegiate Programming Contest/M - M - Resli-utiful Indices.cpp) |
+| 104487G | [G - Charging Power](https://codeforces.com/group/YTYmnVxV00/contest/104487/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Tishreen + SVU CPC 2023/G - G - Charging Power.cpp) |
+| 104493B | [B - Convarge To 1](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/B - B - Convarge To 1.cpp) |
+| 104493E | [E - Sad Teacher](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/E - E - Sad Teacher.cpp) |
+| 104493F | [F - New Board Game](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/F - F - New Board Game.cpp) |
+| 104493G | [G - Don't Make It 2](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/G - G - Don't Make It 2.cpp) |
+| 104493H | [H - Yaser In Baradah](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/H - H - Yaser In Baradah.cpp) |
+| 104493K | [K - Sam-Oh, the funny coach](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/K) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/K - K - Sam-Oh, the funny coach.cpp) |
+| 104736B | [B - Blackboard Game](https://codeforces.com/group/YTYmnVxV00/contest/104736/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ACM-ICPC Latin American Regional Programming Contest/B - B - Blackboard Game.cpp) |
+| 104782I | [I - KSumT](https://codeforces.com/group/qrPTLc7Ho4/contest/104782/problem/I) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/2023 Romanian Collegiate Programming Contest (RCPC)/I - I - KSumT.cpp) |
+| 104805E | [E - Alley](https://codeforces.com/group/YTYmnVxV00/contest/104805/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Central Russia Regional Contest, 2022/E - E - Alley.cpp) |
+| 104832A | [A - Yokohama Phenomena](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/A - A - Yokohama Phenomena.cpp) |
+| 104832B | [B - Rank Promotion](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/B - B - Rank Promotion.cpp) |
+| 104832D | [D - Nested Repetition Compression](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/D - D - Nested Repetition Compression.cpp) |
+| 104832F | [F - Color Inversion on a Huge Chessboard](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/F - F - Color Inversion on a Huge Chessboard.cpp) |
+| 104832G | [G - Fortune Telling](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/G - G - Fortune Telling.cpp) |
+| 104842B | [B - Basketball Plus-Minus](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/B - B - Basketball Plus-Minus.cpp) |
+| 104842C | [C - C and Pascal Strings](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/C) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/C - C - C and Pascal Strings.cpp) |
+| 104842D | [D - Deep Primes](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/D - D - Deep Primes.cpp) |
+| 104842G | [G - Game With Stones](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/G - G - Game With Stones.cpp) |
+| 104854C | [C - Continued Fractions](https://codeforces.com/group/YTYmnVxV00/contest/104854/problem/C) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Swiss Subregional/C - C - Continued Fractions.cpp) |
+| 104871B | [B - Ball Passing](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/B - B - Ball Passing.cpp) |
+| 104871D | [D - Drying Laundry](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/D - D - Drying Laundry.cpp) |
+| 104871G | [G - Going to the Moon](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/G - G - Going to the Moon.cpp) |
+| 104871K | [K - Keys](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/K) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/K - K - Keys.cpp) |
+| 104872B | [B - Cooperative Game on a Tree](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/B - B - Cooperative Game on a Tree.cpp) |
+| 104872E | [E - Casino](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/E - E - Casino.cpp) |
+| 104872G | [G - Not Everything Is So Ambiguous](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/G - G - Not Everything Is So Ambiguous.cpp) |
+| 104872H | [H - Scooter Numbers](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/H - H - Scooter Numbers.cpp) |
+| 104874E | [E - Equidistant](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/E - E - Equidistant.cpp) |
+| 104874H | [H - High Load Database](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/H - H - High Load Database.cpp) |
+| 104874J | [J - Just the Last Digit](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/J - J - Just the Last Digit.cpp) |
+| 104874M | [M - Managing Difficulties](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/M) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/M - M - Managing Difficulties.cpp) |
+| 104925E | [E - Freshman's Dream](https://codeforces.com/group/YTYmnVxV00/contest/104925/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Osijek Competitive Programming Camp, Fall 2023. Day 6_ Estonian Contest (The 2nd Universal Cup. Stage 19_ Estonia)/E - E - Freshman's Dream.cpp) |
+| 105019A | [A - Fibionacci Sequence](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/A - A - Fibionacci Sequence.cpp) |
+| 105019C | [C - Divisibility](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/C) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/C - C - Divisibility.cpp) |
+| 105019D | [D - Game of Permutations](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/D - D - Game of Permutations.cpp) |
+| 105019E | [E - Ultra Palindrome Sequence](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/E - E - Ultra Palindrome Sequence.cpp) |
+| 105019G | [G - Help the Judges](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/G - G - Help the Judges.cpp) |
+| 105019H | [H - Palindrome Builder](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/H - H - Palindrome Builder.cpp) |
+| 105019J | [J - Is it a Helal Sequence?](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/J - J - Is it a Helal Sequence_.cpp) |
+| 105019K | [K - Btunis Beek](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/K) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/K - K - Btunis Beek.cpp) |
+| 105019L | [L - Lucky Letters](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/L) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/L - L - Lucky Letters.cpp) |
+| 105020A | [A - Mood](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/A - A - Mood.cpp) |
+| 105020B | [B - Hungry](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/B - B - Hungry.cpp) |
+| 105020C | [C - Ice Coffee](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/C) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/C - C - Ice Coffee.cpp) |
+| 105020D | [D - Beautiful decrease](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/D - D - Beautiful decrease.cpp) |
+| 105020E | [E - The Detective Game](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/E - E - The Detective Game.cpp) |
+| 105020F | [F - Distinct](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/F - F - Distinct.cpp) |
+| 105020G | [G - String Rotation](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/G - G - String Rotation.cpp) |
+| 105020H | [H - Cookies](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/H - H - Cookies.cpp) |
+| 105020I | [I - Omar and Trees](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/I) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/I - I - Omar and Trees.cpp) |
+| 105020J | [J - Hide and Seek](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/J - J - Hide and Seek.cpp) |
+| 105020K | [K - Wrong digits](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/K) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/K - K - Wrong digits.cpp) |
+| 105020L | [L - Black and White Tree](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/L) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/L - L - Black and White Tree.cpp) |
+| 105020M | [M - Delivery](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/M) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/M - M - Delivery.cpp) |
+| 105020N | [N - How many rectangles?](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/N) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/N - N - How many rectangles_.cpp) |
+| 105053D | [D - DiviDuelo](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/D - D - DiviDuelo.cpp) |
+| 105053F | [F - Fair Distribution](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/F - F - Fair Distribution.cpp) |
+| 105053G | [G - Greek Casino](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/G - G - Greek Casino.cpp) |
+| 105053K | [K - KMOP](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/K) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/K - K - KMOP.cpp) |
+| 105053L | [L - LED Matrix](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/L) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/L - L - LED Matrix.cpp) |
+| 105156H | [H - Dividing the Domain: The Shibuya Incident](https://codeforces.com/group/hq1EVTndkl/contest/105156/problem/H) | Groups | [Solution](Codeforces/Groups/Genesis 1.0 Mirror Contest/Genesis 1.0 Mirror Contest/H - H - Dividing the Domain_ The Shibuya Incident.cpp) |
+| 105156L | [L - Reverse Cursed Technique](https://codeforces.com/group/hq1EVTndkl/contest/105156/problem/L) | Groups | [Solution](Codeforces/Groups/Genesis 1.0 Mirror Contest/Genesis 1.0 Mirror Contest/L - L - Reverse Cursed Technique.cpp) |
+| 368038F | [F - 800](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/F) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/F - F - 800.cpp) |
+| 368038G | [G - Game of Cards](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/G) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/G - G - Game of Cards.cpp) |
+| 368038K | [K - Count the squares](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/K) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/K - K - Count the squares.cpp) |
+| 368038L | [L - Two Shortest Paths](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/L) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/L - L - Two Shortest Paths.cpp) |
+| 368318G | [G - Omkar and Last Class of Math](https://codeforces.com/group/awQQf9GJa8/contest/368318/problem/G) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/1200 ~ 1300/G - G - Omkar and Last Class of Math.cpp) |
+| 379337A | [A - Cashback](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/A) | Groups | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/A - A - Cashback.cpp) |
+| 379337B | [B - Encryption (medium)](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/B) | Groups | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/B - B - Encryption (medium).cpp) |
+| 379337F | [F - Mars rover](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/F) | Groups | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/F - F - Mars rover.cpp) |
+| 379337I | [I - Divisors](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/I) | Groups | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/I - I - Divisors.cpp) |
+| 408618A | [A - Lucky?](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/A) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/A - A - Lucky_.cpp) |
+| 408618B | [B - Triple](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/B) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/B - B - Triple.cpp) |
+| 408618C | [C - Palindromic Indices](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/C) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/C - C - Palindromic Indices.cpp) |
+| 408618D | [D - Equal Candies](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/D) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/D - D - Equal Candies.cpp) |
+| 408618E | [E - Filling Diamonds](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/E) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/E - E - Filling Diamonds.cpp) |
+| 408618F | [F - K-th Largest Value](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/F) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/F - F - K-th Largest Value.cpp) |
+| 408618G | [G - Where's the Bishop?](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/G) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/G - G - Where's the Bishop_.cpp) |
+| 417826A | [A - NIT orz!](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/A) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/A - A - NIT orz!.cpp) |
+| 417826B | [B - Absolute Maximization](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/B) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/B - B - Absolute Maximization.cpp) |
+| 417826E | [E - XOR Mixup](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/E) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/E - E - XOR Mixup.cpp) |
+| 417826H | [H - AND Sorting](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/H) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/H - H - AND Sorting.cpp) |
+| 417826J | [J - XOR = Average](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/J) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/J - J - XOR = Average.cpp) |
+| 424083A | [A - Saif and Algorithms](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/A) | Groups | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/A - A - Saif and Algorithms.cpp) |
+| 424083C | [C - Ping-Pong](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/C) | Groups | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/C - C - Ping-Pong.cpp) |
+| 424083D | [D - Saif and clothes](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/D) | Groups | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/D - D - Saif and clothes.cpp) |
+| 424083E | [E - Good Paths](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/E) | Groups | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/E - E - Good Paths.cpp) |
+| 424083K | [K - THE VIRTUOSO](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/K) | Groups | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/K - K - THE VIRTUOSO.cpp) |
+| 424083L | [L - Saif and Algostreet !](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/L) | Groups | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/L - L - Saif and Algostreet !.cpp) |
+| 424123B | [B - Beautiful Number](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/B) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/B - B - Beautiful Number.cpp) |
+| 424123F | [F - Mehdi and his friends](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/F) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/F - F - Mehdi and his friends.cpp) |
+| 424123H | [H - Silent Killer](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/H) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/H - H - Silent Killer.cpp) |
+| 424123J | [J - Valentine's day](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/J) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/J - J - Valentine's day.cpp) |
+| 426194B | [B - GCD LCM SUM](https://codeforces.com/group/Osuk2cmEQr/contest/426194/problem/B) | Groups | [Solution](Codeforces/Groups/Winter Cup 5.0/Winter Cup 5.0 Online Mirror Contest/B - B - GCD LCM SUM.cpp) |
+| 426194B | [B - GCD LCM SUM](https://codeforces.com/group/MAbng8L9pC/contest/426194/problem/B) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 Online Mirror Contest/B - B - GCD LCM SUM.cpp) |
+| 426194C | [C - Rooks](https://codeforces.com/group/Osuk2cmEQr/contest/426194/problem/C) | Groups | [Solution](Codeforces/Groups/Winter Cup 5.0/Winter Cup 5.0 Online Mirror Contest/C - C - Rooks.cpp) |
+| 426194C | [C - Rooks](https://codeforces.com/group/MAbng8L9pC/contest/426194/problem/C) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 Online Mirror Contest/C - C - Rooks.cpp) |
+| 426194I | [I - Hall of Faces](https://codeforces.com/group/Osuk2cmEQr/contest/426194/problem/I) | Groups | [Solution](Codeforces/Groups/Winter Cup 5.0/Winter Cup 5.0 Online Mirror Contest/I - I - Hall of Faces.cpp) |
+| 426194I | [I - Hall of Faces](https://codeforces.com/group/MAbng8L9pC/contest/426194/problem/I) | Groups | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 Online Mirror Contest/I - I - Hall of Faces.cpp) |
+| 430498B | [B - Prefix-Suffix Palindrome (Easy version)](https://codeforces.com/group/qrPTLc7Ho4/contest/430498/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 1/B - B - Prefix-Suffix Palindrome (Easy version).cpp) |
+| 430498D | [D - Queue](https://codeforces.com/group/qrPTLc7Ho4/contest/430498/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 1/D - D - Queue.cpp) |
+| 430498H | [H - Yet Another Meme Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/430498/problem/H) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 1/H - H - Yet Another Meme Problem.cpp) |
+| 432412E | [E - Afouene's Show Off-Hard Version](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/E) | Groups | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/E - E - Afouene's Show Off-Hard Version.cpp) |
+| 432412K | [K - The permutation prison](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/K) | Groups | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/K - K - The permutation prison.cpp) |
+| 432412L | [L - Too sensitive](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/L) | Groups | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/L - L - Too sensitive.cpp) |
+| 432412N | [N - Desperate solution](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/N) | Groups | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/N - N - Desperate solution.cpp) |
+| 434280A | [A - Implementation](https://codeforces.com/group/gJUF8wSmpT/contest/434280/problem/A) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/Training Contest #3 2022-2023/A - A - Implementation.cpp) |
+| 434668C | [C - Odd Sum Segments](https://codeforces.com/group/qrPTLc7Ho4/contest/434668/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 2/C - C - Odd Sum Segments.cpp) |
+| 434668D | [D - Add and Divide](https://codeforces.com/group/qrPTLc7Ho4/contest/434668/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 2/D - D - Add and Divide.cpp) |
+| 434668E | [E - Sum of Substrings](https://codeforces.com/group/qrPTLc7Ho4/contest/434668/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 2/E - E - Sum of Substrings.cpp) |
+| 435006A | [A - New Year and Old Property](https://codeforces.com/group/qrPTLc7Ho4/contest/435006/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/BORDGEN L3EZ/A - A - New Year and Old Property.cpp) |
+| 435006D | [D - Mashmokh and Lights](https://codeforces.com/group/qrPTLc7Ho4/contest/435006/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/BORDGEN L3EZ/D - D - Mashmokh and Lights.cpp) |
+| 435006H | [H - Counting Kangaroos is Fun](https://codeforces.com/group/qrPTLc7Ho4/contest/435006/problem/H) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/BORDGEN L3EZ/H - H - Counting Kangaroos is Fun.cpp) |
+| 435687A | [A - Indivisibility](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/A - A - Indivisibility.cpp) |
+| 435687C | [C - Palindrome Basis](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/C - C - Palindrome Basis.cpp) |
+| 435687E | [E - Paprika and Permutation](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/E - E - Paprika and Permutation.cpp) |
+| 435687G | [G - MAX-MEX Cut](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/G) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/G - G - MAX-MEX Cut.cpp) |
+| 435981A | [A - Magical Calendar](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/A - A - Magical Calendar.cpp) |
+| 435981B | [B - Cat Cycle](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/B - B - Cat Cycle.cpp) |
+| 435981D | [D - The Wall](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/D - D - The Wall.cpp) |
+| 435981E | [E - Buying Shovels](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/E - E - Buying Shovels.cpp) |
+| 435981F | [F - Pluses and Minuses](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/F) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/F - F - Pluses and Minuses.cpp) |
+| 435981G | [G - Duff in Love](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/G) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/G - G - Duff in Love.cpp) |
+| 435981H | [H - National Project](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/H) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/H - H - National Project.cpp) |
+| 435981I | [I - Chilly Willy](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/I) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/math/I - I - Chilly Willy.cpp) |
+| 436057A | [A - Odd sum](https://codeforces.com/group/qrPTLc7Ho4/contest/436057/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/dppp/A - A - Odd sum.cpp) |
+| 436057E | [E - Good Subarrays (Easy Version)](https://codeforces.com/group/qrPTLc7Ho4/contest/436057/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/dppp/E - E - Good Subarrays (Easy Version).cpp) |
+| 436057F | [F - Fortune Telling](https://codeforces.com/group/qrPTLc7Ho4/contest/436057/problem/F) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/dppp/F - F - Fortune Telling.cpp) |
+| 436218A | [A - Mo Ibrahem (easy version)](https://codeforces.com/group/LMIRE2bFzH/contest/436218/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 8/A - A - Mo Ibrahem (easy version).cpp) |
+| 436218B | [B - Mo Ibrahem (easy version also)](https://codeforces.com/group/LMIRE2bFzH/contest/436218/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 8/B - B - Mo Ibrahem (easy version also).cpp) |
+| 436556A | [A - The Domino Heist](https://codeforces.com/group/LMIRE2bFzH/contest/436556/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 10/A - A - The Domino Heist.cpp) |
+| 436556B | [B - Make It Palindrome](https://codeforces.com/group/LMIRE2bFzH/contest/436556/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 10/B - B - Make It Palindrome.cpp) |
+| 436692A | [A - 國際雞蛋日](https://codeforces.com/group/LMIRE2bFzH/contest/436692/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/競賽11/A - A - 國際雞蛋日.cpp) |
+| 436692B | [B - 剪切和粘貼](https://codeforces.com/group/LMIRE2bFzH/contest/436692/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/競賽11/B - B - 剪切和粘貼.cpp) |
+| 436692C | [C - 無敵英雄](https://codeforces.com/group/LMIRE2bFzH/contest/436692/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/競賽11/C - C - 無敵英雄.cpp) |
+| 436847A | [A - Prime Workers](https://codeforces.com/group/LMIRE2bFzH/contest/436847/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 12/A - A - Prime Workers.cpp) |
+| 436847B | [B - Power of 9](https://codeforces.com/group/LMIRE2bFzH/contest/436847/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 12/B - B - Power of 9.cpp) |
+| 436847C | [C - Great sequence](https://codeforces.com/group/LMIRE2bFzH/contest/436847/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 12/C - C - Great sequence.cpp) |
+| 436993A | [A - It's twenty ??!](https://codeforces.com/group/LMIRE2bFzH/contest/436993/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 13/A - A - It's twenty __!.cpp) |
+| 436993B | [B - Mod 20](https://codeforces.com/group/LMIRE2bFzH/contest/436993/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 13/B - B - Mod 20.cpp) |
+| 436993C | [C - Form Triangles](https://codeforces.com/group/LMIRE2bFzH/contest/436993/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 13/C - C - Form Triangles.cpp) |
+| 437192A | [A - Max score](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/A - A - Max score.cpp) |
+| 437192B | [B - simple](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/B - B - simple.cpp) |
+| 437192C | [C - push_back(x)](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/C - C - push_back(x).cpp) |
+| 437192D | [D - 2tayeef](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/D) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/D - D - 2tayeef.cpp) |
+| 437327A | [A - LIS or Reverse LIS?](https://codeforces.com/group/qrPTLc7Ho4/contest/437327/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Hard Contest wsattar rabbi/A - A - LIS or Reverse LIS_.cpp) |
+| 437333A | [A - Odd Divisor Count](https://codeforces.com/group/LMIRE2bFzH/contest/437333/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 15/A - A - Odd Divisor Count.cpp) |
+| 437504B | [B - Permutation](https://codeforces.com/group/LMIRE2bFzH/contest/437504/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 16/B - B - Permutation.cpp) |
+| 437504C | [C - Hany dilemma](https://codeforces.com/group/LMIRE2bFzH/contest/437504/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 16/C - C - Hany dilemma.cpp) |
+| 437714A | [A - Convert Number](https://codeforces.com/group/LMIRE2bFzH/contest/437714/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 17/A - A - Convert Number.cpp) |
+| 437714B | [B - Last Digit](https://codeforces.com/group/LMIRE2bFzH/contest/437714/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 17/B - B - Last Digit.cpp) |
+| 437714C | [C - Equal Digits](https://codeforces.com/group/LMIRE2bFzH/contest/437714/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 17/C - C - Equal Digits.cpp) |
+| 437884A | [A - Simple Problem](https://codeforces.com/group/LMIRE2bFzH/contest/437884/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 18/A - A - Simple Problem.cpp) |
+| 437884B | [B - String Removal](https://codeforces.com/group/LMIRE2bFzH/contest/437884/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 18/B - B - String Removal.cpp) |
+| 438075A | [A - Is Divisible ?](https://codeforces.com/group/LMIRE2bFzH/contest/438075/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 19/A - A - Is Divisible _.cpp) |
+| 438075C | [C - Fight II](https://codeforces.com/group/LMIRE2bFzH/contest/438075/problem/C) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 19/C - C - Fight II.cpp) |
+| 438075D | [D - Hill](https://codeforces.com/group/LMIRE2bFzH/contest/438075/problem/D) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 19/D - D - Hill.cpp) |
+| 438132A | [A - Is it factorial?](https://codeforces.com/group/LMIRE2bFzH/contest/438132/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 20/A - A - Is it factorial_.cpp) |
+| 438132B | [B - Mirror Image](https://codeforces.com/group/LMIRE2bFzH/contest/438132/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 20/B - B - Mirror Image.cpp) |
+| 438482A | [A - Missing Digit](https://codeforces.com/group/LMIRE2bFzH/contest/438482/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 21/A - A - Missing Digit.cpp) |
+| 438482B | [B - Equations](https://codeforces.com/group/LMIRE2bFzH/contest/438482/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 21/B - B - Equations.cpp) |
+| 439180A | [A - PCD](https://codeforces.com/group/LMIRE2bFzH/contest/439180/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 24/A - A - PCD.cpp) |
+| 439180B | [B - Shift Operations](https://codeforces.com/group/LMIRE2bFzH/contest/439180/problem/B) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 24/B - B - Shift Operations.cpp) |
+| 439191A | [A - Make Even](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/A) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/A - A - Make Even.cpp) |
+| 439191B | [B - Remove Smallest](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/B) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/B - B - Remove Smallest.cpp) |
+| 439191C | [C - Team Composition: Programmers and Mathematicians](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/C) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/C - C - Team Composition_ Programmers and Mathematicians.cpp) |
+| 439191D | [D - GCD Problem](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/D) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/D - D - GCD Problem.cpp) |
+| 439191E | [E - Z mod X = C](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/E) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/E - E - Z mod X = C.cpp) |
+| 439191F | [F - PolandBall and Forest](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/F) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/F - F - PolandBall and Forest.cpp) |
+| 439191G | [G - Bear and Poker](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/G) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/G - G - Bear and Poker.cpp) |
+| 439191H | [H - Orac and LCM](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/H) | Groups | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/H - H - Orac and LCM.cpp) |
+| 439310A | [A - Distinct Numbers](https://codeforces.com/group/LMIRE2bFzH/contest/439310/problem/A) | Groups | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 25/A - A - Distinct Numbers.cpp) |
+| 439499A | [A - Remove One Element](https://codeforces.com/group/qrPTLc7Ho4/contest/439499/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Quiiick/A - A - Remove One Element.cpp) |
+| 439499B | [B - Array](https://codeforces.com/group/qrPTLc7Ho4/contest/439499/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Quiiick/B - B - Array.cpp) |
+| 439499C | [C - Distinct Characters Queries](https://codeforces.com/group/qrPTLc7Ho4/contest/439499/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Quiiick/C - C - Distinct Characters Queries.cpp) |
+| 439638A | [A - The number of positions](https://codeforces.com/group/qrPTLc7Ho4/contest/439638/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/sussy baka/A - A - The number of positions.cpp) |
+| 439638B | [B - Nested Segments](https://codeforces.com/group/qrPTLc7Ho4/contest/439638/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/sussy baka/B - B - Nested Segments.cpp) |
+| 439638D | [D - MEX maximizing](https://codeforces.com/group/qrPTLc7Ho4/contest/439638/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/sussy baka/D - D - MEX maximizing.cpp) |
+| 439765A | [A - A pile of stones](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/A - A - A pile of stones.cpp) |
+| 439765B | [B - Ayoub and Lost Array](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/B - B - Ayoub and Lost Array.cpp) |
+| 439765C | [C - Guessing the Greatest (easy version)](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/C - C - Guessing the Greatest (easy version).cpp) |
+| 439765D | [D - Restaurant](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/D - D - Restaurant.cpp) |
+| 441014A | [A - Subset Mex](https://codeforces.com/group/qrPTLc7Ho4/contest/441014/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EZZ V2/A - A - Subset Mex.cpp) |
+| 441314A | [A - Prison Break](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/A - A - Prison Break.cpp) |
+| 441314B | [B - Fedor and New Game](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/B - B - Fedor and New Game.cpp) |
+| 441314C | [C - Two Tables](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/C - C - Two Tables.cpp) |
+| 441314E | [E - Powered Addition](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/E - E - Powered Addition.cpp) |
+| 441479A | [A - AGAGA XOOORRR](https://codeforces.com/group/qrPTLc7Ho4/contest/441479/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/no_name/A - A - AGAGA XOOORRR.cpp) |
+| 441479B | [B - Zmei Gorynich](https://codeforces.com/group/qrPTLc7Ho4/contest/441479/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/no_name/B - B - Zmei Gorynich.cpp) |
+| 441479D | [D - Vova and Trophies](https://codeforces.com/group/qrPTLc7Ho4/contest/441479/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/no_name/D - D - Vova and Trophies.cpp) |
+| 441772A | [A - XORinacci](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/A - A - XORinacci.cpp) |
+| 441772B | [B - Hungry Sequence](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/B - B - Hungry Sequence.cpp) |
+| 441772C | [C - Queue](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/C - C - Queue.cpp) |
+| 441772D | [D - Coach](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/D - D - Coach.cpp) |
+| 442116A | [A - Multiply by 2, divide by 6](https://codeforces.com/group/qrPTLc7Ho4/contest/442116/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/KA3EK WARKA ALA KHATER AMENI/A - A - Multiply by 2, divide by 6.cpp) |
+| 442116C | [C - k-Multiple Free Set](https://codeforces.com/group/qrPTLc7Ho4/contest/442116/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/KA3EK WARKA ALA KHATER AMENI/C - C - k-Multiple Free Set.cpp) |
+| 442317B | [B - Meaningless Operations](https://codeforces.com/group/qrPTLc7Ho4/contest/442317/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/barcha jaww/B - B - Meaningless Operations.cpp) |
+| 442317C | [C - Power Sequence](https://codeforces.com/group/qrPTLc7Ho4/contest/442317/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/barcha jaww/C - C - Power Sequence.cpp) |
+| 442462B | [B - Vanya and Books](https://codeforces.com/group/qrPTLc7Ho4/contest/442462/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/rabbi yoster/B - B - Vanya and Books.cpp) |
+| 442462D | [D - Kids Seating](https://codeforces.com/group/qrPTLc7Ho4/contest/442462/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/rabbi yoster/D - D - Kids Seating.cpp) |
+| 442462F | [F - Add to Neighbour and Remove](https://codeforces.com/group/qrPTLc7Ho4/contest/442462/problem/F) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/rabbi yoster/F - F - Add to Neighbour and Remove.cpp) |
+| 442624A | [A - Coloring Rectangles](https://codeforces.com/group/qrPTLc7Ho4/contest/442624/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/JENI NOUM/A - A - Coloring Rectangles.cpp) |
+| 442624B | [B - Longest Strike](https://codeforces.com/group/qrPTLc7Ho4/contest/442624/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/JENI NOUM/B - B - Longest Strike.cpp) |
+| 442624C | [C - Restore Modulo](https://codeforces.com/group/qrPTLc7Ho4/contest/442624/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/JENI NOUM/C - C - Restore Modulo.cpp) |
+| 442740A | [A - New Year Candles](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/A - A - New Year Candles.cpp) |
+| 442740B | [B - Jzzhu and Sequences](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/B - B - Jzzhu and Sequences.cpp) |
+| 442740C | [C - Fight with Monsters](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/C - C - Fight with Monsters.cpp) |
+| 442740E | [E - Mysterious Crime](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/E - E - Mysterious Crime.cpp) |
+| 442930A | [A - DIV + MOD](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/A - A - DIV + MOD.cpp) |
+| 442930B | [B - Common Divisors](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/B - B - Common Divisors.cpp) |
+| 442930C | [C - Cyclic Permutations](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/C - C - Cyclic Permutations.cpp) |
+| 442930F | [F - Color the Fence](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/F) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/F - F - Color the Fence.cpp) |
+| 444557A | [A - Co-growing Sequence](https://codeforces.com/group/qrPTLc7Ho4/contest/444557/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 1.0/A - A - Co-growing Sequence.cpp) |
+| 444557B | [B - Preparing for Merge Sort](https://codeforces.com/group/qrPTLc7Ho4/contest/444557/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 1.0/B - B - Preparing for Merge Sort.cpp) |
+| 444557D | [D - Fixed Prefix Permutations](https://codeforces.com/group/qrPTLc7Ho4/contest/444557/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 1.0/D - D - Fixed Prefix Permutations.cpp) |
+| 445184A | [A - Road To Zero](https://codeforces.com/group/qrPTLc7Ho4/contest/445184/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 2.0/A - A - Road To Zero.cpp) |
+| 445184B | [B - Omkar and Last Class of Math](https://codeforces.com/group/qrPTLc7Ho4/contest/445184/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 2.0/B - B - Omkar and Last Class of Math.cpp) |
+| 445184C | [C - Special Elements](https://codeforces.com/group/qrPTLc7Ho4/contest/445184/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 2.0/C - C - Special Elements.cpp) |
+| 445349A | [A - DZY Loves Strings](https://codeforces.com/group/qrPTLc7Ho4/contest/445349/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 3.0/A - A - DZY Loves Strings.cpp) |
+| 445349C | [C - Perfect Keyboard](https://codeforces.com/group/qrPTLc7Ho4/contest/445349/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 3.0/C - C - Perfect Keyboard.cpp) |
+| 445350A | [A - Best Permutation](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/A - A - Best Permutation.cpp) |
+| 445350B | [B - Exciting Bets](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/B - B - Exciting Bets.cpp) |
+| 445350C | [C - Subrectangle Guess](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/C - C - Subrectangle Guess.cpp) |
+| 445350D | [D - Sum of 2050](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/D - D - Sum of 2050.cpp) |
+| 445496A | [A - Mislove Has Lost an Array](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/A - A - Mislove Has Lost an Array.cpp) |
+| 445496B | [B - Heidi Learns Hashing](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/B - B - Heidi Learns Hashing.cpp) |
+| 445496C | [C - Duff and Weight Lifting](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/C - C - Duff and Weight Lifting.cpp) |
+| 445496D | [D - pSort](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/D - D - pSort.cpp) |
+| 445496E | [E - Dasha and Very Difficult Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/E - E - Dasha and Very Difficult Problem.cpp) |
+| 445496F | [F - Integers Have Friends](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/F) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/F - F - Integers Have Friends.cpp) |
+| 445688A | [A - Rule of League](https://codeforces.com/group/qrPTLc7Ho4/contest/445688/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 5.0/A - A - Rule of League.cpp) |
+| 445688D | [D - Add One](https://codeforces.com/group/qrPTLc7Ho4/contest/445688/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 5.0/D - D - Add One.cpp) |
+| 445867A | [A - Vasya and Socks](https://codeforces.com/group/qrPTLc7Ho4/contest/445867/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 6.0/A - A - Vasya and Socks.cpp) |
+| 445867B | [B - New Year's Eve](https://codeforces.com/group/qrPTLc7Ho4/contest/445867/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 6.0/B - B - New Year's Eve.cpp) |
+| 445867C | [C - Dynasty Puzzles](https://codeforces.com/group/qrPTLc7Ho4/contest/445867/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 6.0/C - C - Dynasty Puzzles.cpp) |
+| 446000A | [A - Game of Life](https://codeforces.com/group/qrPTLc7Ho4/contest/446000/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 7.0/A - A - Game of Life.cpp) |
+| 446000B | [B - Ehab and a Special Coloring Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/446000/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 7.0/B - B - Ehab and a Special Coloring Problem.cpp) |
+| 446000D | [D - Animals](https://codeforces.com/group/qrPTLc7Ho4/contest/446000/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 7.0/D - D - Animals.cpp) |
+| 446257A | [A - Sereja and Dima](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/A - A - Sereja and Dima.cpp) |
+| 446257B | [B - Cinema Line](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/B - B - Cinema Line.cpp) |
+| 446257C | [C - No More Inversions](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/C - C - No More Inversions.cpp) |
+| 446257D | [D - Reading Books (easy version)](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/D - D - Reading Books (easy version).cpp) |
+| 447960A | [A - A](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/A) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/A - A - A.cpp) |
+| 447960B | [B - B](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/B) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/B - B - B.cpp) |
+| 447960C | [C - C](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/C) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/C - C - C.cpp) |
+| 447960D | [D - D](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/D) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/D - D - D.cpp) |
+| 447960E | [E - E](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/E) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/E - E - E.cpp) |
+| 447960F | [F - F](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/F) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/F - F - F.cpp) |
+| 447960G | [G -  G](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/G) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/G - G -  G.cpp) |
+| 447960H | [H -  H](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/H) | Groups | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/H - H -  H.cpp) |
+| 452020A | [A - Absent Remainder](https://codeforces.com/group/qrPTLc7Ho4/contest/452020/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/adakdkja/A - A - Absent Remainder.cpp) |
+| 452020B | [B - Prefix Sum Primes](https://codeforces.com/group/qrPTLc7Ho4/contest/452020/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/adakdkja/B - B - Prefix Sum Primes.cpp) |
+| 452020C | [C - Running with Obstacles](https://codeforces.com/group/qrPTLc7Ho4/contest/452020/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/adakdkja/C - C - Running with Obstacles.cpp) |
+| 452048F | [F - Mariam and bits](https://codeforces.com/group/Rilx5irOux/contest/452048/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Girls 2023/F - F - Mariam and bits.cpp) |
+| 477874A | [A - Array Counting](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/A - A - Array Counting.cpp) |
+| 477874B | [B - Baa Damma Boo](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/B - B - Baa Damma Boo.cpp) |
+| 477874D | [D - ! Divisible](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/D - D - ! Divisible.cpp) |
+| 477874G | [G - Game on a Board](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/G - G - Game on a Board.cpp) |
+| 477874I | [I - ICPCs In Egypt](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/I - I - ICPCs In Egypt.cpp) |
+| 477874J | [J - Just A Different Order](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/J - J - Just A Different Order.cpp) |
+| 477874K | [K - K Inversions](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/K - K - K Inversions.cpp) |
+| 477874L | [L - Looking for Numbers](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/L - L - Looking for Numbers.cpp) |
+| 477878A | [A - A Story](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/A - A - A Story.cpp) |
+| 477878B | [B - Begins and it](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/B - B - Begins and it.cpp) |
+| 477878C | [C - Can look like a](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/C - C - Can look like a.cpp) |
+| 477878D | [D - Duplicated version but](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/D - D - Duplicated version but.cpp) |
+| 477878E | [E - Exceptionally different](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/E - E - Exceptionally different.cpp) |
+| 477878F | [F - For it being a](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/F - F - For it being a.cpp) |
+| 477878G | [G - Great](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/G - G - Great.cpp) |
+| 477878J | [J - Journey](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/J - J - Journey.cpp) |
+| 477878N | [N - Now and next](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/N) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/N - N - Now and next.cpp) |
+| 479250J | [J - Jaguar on the tower](https://codeforces.com/group/Rilx5irOux/contest/479250/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2019/J - J - Jaguar on the tower.cpp) |
+| 484436A | [A - Ancient](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/A - A - Ancient.cpp) |
+| 484436B | [B - Bolbitine](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/B - B - Bolbitine.cpp) |
+| 484436C | [C - Cleopatra](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/C - C - Cleopatra.cpp) |
+| 484436D | [D - Djoser (Zoser)](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/D - D - Djoser (Zoser).cpp) |
+| 484436E | [E - Edfu](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/E - E - Edfu.cpp) |
+| 484436F | [F - Fayoum](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/F - F - Fayoum.cpp) |
+| 484436G | [G - Giza](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/G - G - Giza.cpp) |
+| 484436H | [H - Heliopolis](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/H - H - Heliopolis.cpp) |
+| 484436J | [J - Jewels](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/J - J - Jewels.cpp) |
+| 484436K | [K - Karnak](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/K - K - Karnak.cpp) |
+| 484436L | [L - Luxor](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/L - L - Luxor.cpp) |
+| 484436M | [M - Memphis](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/M - M - Memphis.cpp) |
+| 486311A | [A - Life of a Flower](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/A - A - Life of a Flower.cpp) |
+| 486311B | [B - Equator](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/B - B - Equator.cpp) |
+| 486311C | [C - Two Seals](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/C - C - Two Seals.cpp) |
+| 486311D | [D - Strange Beauty](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/D - D - Strange Beauty.cpp) |
+| 486638A | [A - Lexicographically Small Enough](https://codeforces.com/group/4kBBc2oq2Z/contest/486638/problem/A) | Groups | [Solution](Codeforces/Groups/Rating_Climb/Training#1_[2100-2300]/A - A - Lexicographically Small Enough.cpp) |
+| 486638D | [D - Divan and Kostomuksha (easy version)](https://codeforces.com/group/4kBBc2oq2Z/contest/486638/problem/D) | Groups | [Solution](Codeforces/Groups/Rating_Climb/Training#1_[2100-2300]/D - D - Divan and Kostomuksha (easy version).cpp) |
+| 486847A | [A - Maximum Sum on Even Positions](https://codeforces.com/group/qrPTLc7Ho4/contest/486847/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mashuppp/A - A - Maximum Sum on Even Positions.cpp) |
+| 486847C | [C - Too Many Segments (hard version)](https://codeforces.com/group/qrPTLc7Ho4/contest/486847/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mashuppp/C - C - Too Many Segments (hard version).cpp) |
+| 487791A | [A - Young Explorers](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mash/A - A - Young Explorers.cpp) |
+| 487791B | [B - Remove the Substring (hard version)](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mash/B - B - Remove the Substring (hard version).cpp) |
+| 487791C | [C - Christmas Trees](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mash/C - C - Christmas Trees.cpp) |
+| 487791D | [D - Same Sum Blocks (Hard)](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mash/D - D - Same Sum Blocks (Hard).cpp) |
+| 488280B | [B - Minimum Array](https://codeforces.com/group/qrPTLc7Ho4/contest/488280/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mesh/B - B - Minimum Array.cpp) |
+| 488280C | [C - XOR-pyramid](https://codeforces.com/group/qrPTLc7Ho4/contest/488280/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mesh/C - C - XOR-pyramid.cpp) |
+| 488280D | [D - Li Hua and Array](https://codeforces.com/group/qrPTLc7Ho4/contest/488280/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/mesh/D - D - Li Hua and Array.cpp) |
+| 488595E | [E - GCD](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/E - E - GCD.cpp) |
+| 488595F | [F - Learn The Jargon](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/F - F - Learn The Jargon.cpp) |
+| 488595G | [G - Magnets](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/G - G - Magnets.cpp) |
+| 488595J | [J - Relay Race](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/J - J - Relay Race.cpp) |
+| 488595L | [L - Star](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/L) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/L - L - Star.cpp) |
+| 491416A | [A - Accommodation](https://codeforces.com/group/qrPTLc7Ho4/contest/491416/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/CONTESTTTTTTTTTTT/A - A - Accommodation.cpp) |
+| 491416B | [B - Music Festival](https://codeforces.com/group/qrPTLc7Ho4/contest/491416/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/CONTESTTTTTTTTTTT/B - B - Music Festival.cpp) |
+| 497520A | [A - SlavicG's Favorite Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/497520/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/DENYA BEEEEEERDA/A - A - SlavicG's Favorite Problem.cpp) |
+| 497711A | [A - And It's Non-Zero](https://codeforces.com/group/qrPTLc7Ho4/contest/497711/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/psssstttt/A - A - And It's Non-Zero.cpp) |
+| 497711B | [B - Balance the Bits](https://codeforces.com/group/qrPTLc7Ho4/contest/497711/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/psssstttt/B - B - Balance the Bits.cpp) |
+| 498216A | [A - Random Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/A) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/A - A - Random Mood.cpp) |
+| 498216B | [B - String Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/B) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/B - B - String Mood.cpp) |
+| 498216C | [C - Fibonacci](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/C) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/C - C - Fibonacci.cpp) |
+| 498216D | [D - Count Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/D) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/D - D - Count Paths.cpp) |
+| 498216E | [E - Knight Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/E) | Groups | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/E - E - Knight Paths.cpp) |
+| 503544A | [A - Happy Valentine's Day](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/A - A - Happy Valentine's Day.cpp) |
+| 503544B | [B - Arcade Game](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/B) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/B - B - Arcade Game.cpp) |
+| 503544D | [D - Traffic Lights](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/D) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/D - D - Traffic Lights.cpp) |
+| 503544E | [E - Intern Florist](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/E) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/E - E - Intern Florist.cpp) |
+| 503544F | [F - Painting a Picture](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/F) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/F - F - Painting a Picture.cpp) |
+| 503544G | [G - Truecaller](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/G) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/G - G - Truecaller.cpp) |
+| 503544H | [H - Chocolate Messages](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/H) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/H - H - Chocolate Messages.cpp) |
+| 503544I | [I - Collin-Count](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/I) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/I - I - Collin-Count.cpp) |
+| 503544J | [J - Bouquet of Flowers](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/J) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/J - J - Bouquet of Flowers.cpp) |
+| 503544L | [L - Gifts](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/L) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/L - L - Gifts.cpp) |
+| 503544O | [O - Gift Battle](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/O) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/O - O - Gift Battle.cpp) |
+| 505081A | [A - Company Of Karim](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/A) | Groups | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/A - A - Company Of Karim.cpp) |
+| 505081B | [B - Manel and Sectors](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/B) | Groups | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/B - B - Manel and Sectors.cpp) |
+| 505081C | [C - Maximum Sum](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/C) | Groups | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/C - C - Maximum Sum.cpp) |
+| 505081H | [H - Factoriel](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/H) | Groups | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/H - H - Factoriel.cpp) |
+| 506583A | [A - Time for the heist](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/A) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/A - A - Time for the heist.cpp) |
+| 506583B | [B - Strategic Maneuvers](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/B) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/B - B - Strategic Maneuvers.cpp) |
+| 506583D | [D - Turf control](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/D) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/D - D - Turf control.cpp) |
+| 506583F | [F - Shelby's Queries](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/F) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/F - F - Shelby's Queries.cpp) |
+| 506583G | [G - Hexagonal Quest](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/G) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/G - G - Hexagonal Quest.cpp) |
+| 506583H | [H - The maximum profit](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/H) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/H - H - The maximum profit.cpp) |
+| 506583I | [I - Shelby's Secret Strings](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/I) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/I - I - Shelby's Secret Strings.cpp) |
+| 506583K | [K - Blinders Bowl](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/K) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/K - K - Blinders Bowl.cpp) |
+| 506583L | [L - Peaky Produce](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/L) | Groups | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/L - L - Peaky Produce.cpp) |
+| 506586A | [A - Bit++](https://codeforces.com/group/BG5X4l7OAB/contest/506586/problem/A) | Groups | [Solution](Codeforces/Groups/Code Blinders/Peaky Training/A - A - Bit++.cpp) |
+| 506586B | [B - Cut Ribbon](https://codeforces.com/group/BG5X4l7OAB/contest/506586/problem/B) | Groups | [Solution](Codeforces/Groups/Code Blinders/Peaky Training/B - B - Cut Ribbon.cpp) |
+| 506586C | [C - 2-3-numbers](https://codeforces.com/group/BG5X4l7OAB/contest/506586/problem/C) | Groups | [Solution](Codeforces/Groups/Code Blinders/Peaky Training/C - C - 2-3-numbers.cpp) |
+| 510489A | [A - Hot Ones](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/A - A - Hot Ones.cpp) |
+| 510489B | [B - Ma'idat al-Rahman](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/B - B - Ma'idat al-Rahman.cpp) |
+| 510489C1 | [C1 - Stay Away (Easy Version)](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/C1) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/C1 - C1 - Stay Away (Easy Version).cpp) |
+| 510489C2 | [C2 - Stay Away (Hard Version)](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/C2) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/C2 - C2 - Stay Away (Hard Version).cpp) |
+| 510489D | [D - No Mahashi?](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/D - D - No Mahashi_.cpp) |
+| 510491A | [A - 3m Sukar](https://codeforces.com/group/SAYaOCfnEY/contest/510491/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 3/A - A - 3m Sukar.cpp) |
+| 510491B | [B - On the Road Again](https://codeforces.com/group/SAYaOCfnEY/contest/510491/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 3/B - B - On the Road Again.cpp) |
+| 510491C | [C - Hassan's Debut](https://codeforces.com/group/SAYaOCfnEY/contest/510491/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 3/C - C - Hassan's Debut.cpp) |
+| 511452A | [A - Arboreal Colors](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/A - A - Arboreal Colors.cpp) |
+| 511452E | [E - Equity Fluctuations](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/E - E - Equity Fluctuations.cpp) |
+| 511452K | [K - Keyline Subdivisions](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/K - K - Keyline Subdivisions.cpp) |
+| 511452L | [L - Languid Guardian](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/L - L - Languid Guardian.cpp) |
+| 511521A | [A - Statement](https://codeforces.com/group/XIc7NSO7Rd/contest/511521/problem/A) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #6/A - A - Statement.cpp) |
+| 511690A | [A - Ramadan Kareem](https://codeforces.com/group/XIc7NSO7Rd/contest/511690/problem/A) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #5/A - A - Ramadan Kareem.cpp) |
+| 512195A | [A - :))](https://codeforces.com/group/XIc7NSO7Rd/contest/512195/problem/A) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #7/A - A - _)).cpp) |
+| 512414C | [C - Counting](https://codeforces.com/group/XIc7NSO7Rd/contest/512414/problem/C) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #8/C - C - Counting.cpp) |
+| 512678A | [A - :))](https://codeforces.com/group/XIc7NSO7Rd/contest/512678/problem/A) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #9/A - A - _)).cpp) |
+| 512678B | [B - Decide where to meet and tell me](https://codeforces.com/group/XIc7NSO7Rd/contest/512678/problem/B) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #9/B - B - Decide where to meet and tell me.cpp) |
+| 512678C | [C - The Maze](https://codeforces.com/group/XIc7NSO7Rd/contest/512678/problem/C) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #9/C - C - The Maze.cpp) |
+| 512917A | [A - Vasya's Detective Dilemma](https://codeforces.com/group/XIc7NSO7Rd/contest/512917/problem/A) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Final Contest/A - A - Vasya's Detective Dilemma.cpp) |
+| 512917B | [B - Sum](https://codeforces.com/group/XIc7NSO7Rd/contest/512917/problem/B) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Final Contest/B - B - Sum.cpp) |
+| 512917C | [C - Minimizing Divisors in Book Arrangement](https://codeforces.com/group/XIc7NSO7Rd/contest/512917/problem/C) | Groups | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Final Contest/C - C - Minimizing Divisors in Book Arrangement.cpp) |
+| 513721A | [A - Potential Odoo Email](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/A) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/A - A - Potential Odoo Email.cpp) |
+| 513721B | [B - Make it ODOO!](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/B) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/B - B - Make it ODOO!.cpp) |
+| 513721C | [C - Viruses](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/C) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/C - C - Viruses.cpp) |
+| 513721D | [D - Tasks at Odoo](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/D) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/D - D - Tasks at Odoo.cpp) |
+| 513721E | [E - POS Kiosk](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/E) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/E - E - POS Kiosk.cpp) |
+| 513721F | [F - Odoo Trees](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/F) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/F - F - Odoo Trees.cpp) |
+| 514080A | [A - Is it infinite ?](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/A) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/A - A - Is it infinite _.cpp) |
+| 514080C | [C - Rope partitioning](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/C) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/C - C - Rope partitioning.cpp) |
+| 514080D | [D - Yet Another tree Problem](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/D) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/D - D - Yet Another tree Problem.cpp) |
+| 514080E | [E - Rescue operation](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/E) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/E - E - Rescue operation.cpp) |
+| 514080F | [F - Summing powers](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/F) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/F - F - Summing powers.cpp) |
+| 514080H | [H - Counting good arrays](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/H) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/H - H - Counting good arrays.cpp) |
+| 514080J | [J - Maximize squareness](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/J) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/J - J - Maximize squareness.cpp) |
+| 514080K | [K - Can you make it palindrome ?](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/K) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/K - K - Can you make it palindrome _.cpp) |
+| 514080L | [L - Bored-man](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/L) | Groups | [Solution](Codeforces/Groups/ISI contest/ISI contest/L - L - Bored-man.cpp) |
+| 520855A | [A - Mushroom Power-Up](https://codeforces.com/group/YTYmnVxV00/contest/520855/problem/A) | Groups | [Solution](Codeforces/Groups/Tunisian CP community/Code And Conquer 1.0/A - A - Mushroom Power-Up.cpp) |
+| 526482C | [C - Volunteers](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/C - C - Volunteers.cpp) |
+| 526482D | [D - Math Lovers](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/D - D - Math Lovers.cpp) |
+| 526482F | [F - First to Solve](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/F - F - First to Solve.cpp) |
+| 526482G | [G - No Cheating](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/G - G - No Cheating.cpp) |
+| 526482H | [H - Shifts](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/H - H - Shifts.cpp) |
+| 526482I | [I - Letter Cubes](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/I - I - Letter Cubes.cpp) |
+| 526482J | [J - Yosri's Fortune](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/J - J - Yosri's Fortune.cpp) |
+| 526482K | [K - Weird Forumla](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/K - K - Weird Forumla.cpp) |
+| 526482M | [M - Strictly Increasing Array](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/M - M - Strictly Increasing Array.cpp) |
+| 526482N | [N - Bor3y](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/N) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/N - N - Bor3y.cpp) |
+| 526482O | [O - Strong Password](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/O) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/O - O - Strong Password.cpp) |
+| 528296A | [A - Free Subarray](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/A - A - Free Subarray.cpp) |
+| 528296B | [B - Reda and The Squares](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/B - B - Reda and The Squares.cpp) |
+| 528296C | [C - Ezzat's Coprime Subsets](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/C - C - Ezzat's Coprime Subsets.cpp) |
+| 528296D | [D - Eslam and Photos](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/D - D - Eslam and Photos.cpp) |
+| 528296F | [F - New Bus System](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/F - F - New Bus System.cpp) |
+| 528296G | [G - Goat City](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/G - G - Goat City.cpp) |
+| 528296H | [H - Pounds and Dreams](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/H - H - Pounds and Dreams.cpp) |
+| 528296I | [I - Academic Schedule Optimization](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/I - I - Academic Schedule Optimization.cpp) |
+| 528296K | [K - Easy Swap](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/K - K - Easy Swap.cpp) |
+| 528296L | [L - Smallest Missing Value](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/L - L - Smallest Missing Value.cpp) |
+| 528296M | [M - The Mystery number X](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/M - M - The Mystery number X.cpp) |
+| 529538B | [B - Binary Abdouz](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/B - B - Binary Abdouz.cpp) |
+| 529538J | [J - Bakry and Array](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/J - J - Bakry and Array.cpp) |
+| 529538L | [L - Leave Me Alone](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/L - L - Leave Me Alone.cpp) |
+| 529538M | [M - Is It Sorted?](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/M - M - Is It Sorted_.cpp) |
+| 530047A | [A - Ancient](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/A - A - Ancient.cpp) |
+| 530047B | [B - Bolbitine](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/B - B - Bolbitine.cpp) |
+| 530047C | [C - Cleopatra](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/C - C - Cleopatra.cpp) |
+| 530047E | [E - Edfu](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/E - E - Edfu.cpp) |
+| 530047F | [F - Fayoum](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/F - F - Fayoum.cpp) |
+| 530047G | [G - Giza](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/G - G - Giza.cpp) |
+| 530047H | [H - Heliopolis](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/H - H - Heliopolis.cpp) |
+| 530047I | [I - Imhotep](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/I - I - Imhotep.cpp) |
+| 530047J | [J - Jewels](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/J - J - Jewels.cpp) |
+| 530047K | [K - Karnak](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/K - K - Karnak.cpp) |
+| 530047L | [L - Luxor](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/L - L - Luxor.cpp) |
+| 530047N | [N - Nefertiti](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/N) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/N - N - Nefertiti.cpp) |
+| 530047O | [O - Oases](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/O) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/O - O - Oases.cpp) |
+| 537316B | [B - Bethlehem: Birthplace of Jesus](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/B - B - Bethlehem_ Birthplace of Jesus.cpp) |
+| 537316C | [C - Cana'an: A Historic Village in Palestine](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/C - C - Cana'an_ A Historic Village in Palestine.cpp) |
+| 537316D | [D - Dar al-Hawa: Historic Neighborhood in Jerusalem](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/D - D - Dar al-Hawa_ Historic Neighborhood in Jerusalem.cpp) |
+| 537316E | [E - Ein Gedi: Oasis of Natural Beauty](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/E - E - Ein Gedi_ Oasis of Natural Beauty.cpp) |
+| 537316F | [F - Far'un: Ancient Village in Palestine](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/F - F - Far'un_ Ancient Village in Palestine.cpp) |
+| 537316I | [I - Irbid: A Historical City in Palestine](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/I - I - Irbid_ A Historical City in Palestine.cpp) |
+| 537316J | [J - Jericho: The Oldest City in the World](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/J - J - Jericho_ The Oldest City in the World.cpp) |
+| 537870A | [A - Opening](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/A - A - Opening.cpp) |
+| 537870B | [B - Nablus](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/B - B - Nablus.cpp) |
+| 537870D | [D - Gaza](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/D - D - Gaza.cpp) |
+| 537870H | [H - Al Ramla](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/H - H - Al Ramla.cpp) |
+| 537870I | [I - Tulkarm](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/I - I - Tulkarm.cpp) |
+| 537870K | [K - Al Quds](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/K - K - Al Quds.cpp) |
+| 537870L | [L - Bayt Lahm](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/L - L - Bayt Lahm.cpp) |
+| 538098B | [B - Bir Seb'a](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/B - B - Bir Seb'a.cpp) |
+| 538098D | [D - Dura](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/D - D - Dura.cpp) |
+| 538098E | [E - Ein es-Sultan](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/E - E - Ein es-Sultan.cpp) |
+| 538098L | [L - Lifta](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/L - L - Lifta.cpp) |
+| 538517B | [B - Biblical Journeys in Bethlehem](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/B - B - Biblical Journeys in Bethlehem.cpp) |
+| 538517C | [C - Canals of Beersheba](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/C - C - Canals of Beersheba.cpp) |
+| 538517D | [D - Diverse Culture of Al-Khalil](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/D - D - Diverse Culture of Al-Khalil.cpp) |
+| 538517E | [E - Exploration of Jericho's Oases](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/E - E - Exploration of Jericho's Oases.cpp) |
+| 538517G | [G - Gateways of Beisan](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/G - G - Gateways of Beisan.cpp) |
+| 538517I | [I - Interwoven Cultures of Nablus](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/I - I - Interwoven Cultures of Nablus.cpp) |
+| 538517J | [J - Journey in Safed's Mysteries](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/J - J - Journey in Safed's Mysteries.cpp) |
+| 538517K | [K - Kaleidoscope of Ramla's Diversity](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/K - K - Kaleidoscope of Ramla's Diversity.cpp) |
+| 538517L | [L - Logistics of Lod's Connectivity](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/L - L - Logistics of Lod's Connectivity.cpp) |
+| 538517N | [N - Navigation Challenges in Gaza](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/N) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/N - N - Navigation Challenges in Gaza.cpp) |
+| 538817B | [B - Biblical Journeys in Bethlehem](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/B - B - Biblical Journeys in Bethlehem.cpp) |
+| 538817C | [C - Canals of Beersheba](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/C - C - Canals of Beersheba.cpp) |
+| 538817H | [H - Harbor Life in Jaffa](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/H - H - Harbor Life in Jaffa.cpp) |
+| 538817I | [I - Interwoven Cultures of Nablus](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/I - I - Interwoven Cultures of Nablus.cpp) |
+| 538817J | [J - Journey in Safed's Mysteries](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/J - J - Journey in Safed's Mysteries.cpp) |
+| 538817K | [K - Kaleidoscope of Ramla's Diversity](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/K - K - Kaleidoscope of Ramla's Diversity.cpp) |
+| 538817L | [L - Logistics of Lod's Connectivity](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/L - L - Logistics of Lod's Connectivity.cpp) |
+| 538817M | [M - Majestic Crossroads Al-Nasserah](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/M - M - Majestic Crossroads Al-Nasserah.cpp) |
+| 539291A | [A - Booster](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/A) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/A - A - Booster.cpp) |
+| 539291E | [E - Wheel](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/E) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/E - E - Wheel.cpp) |
+| 539291F | [F - Mad Lab](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/F) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/F - F - Mad Lab.cpp) |
+| 539291H1 | [H1 - Fusion (Easy version)](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/H1) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/H1 - H1 - Fusion (Easy version).cpp) |
+| 539291I | [I - Crazy race](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/I) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/I - I - Crazy race.cpp) |
+| 539291K | [K - Good Array](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/K) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/K - K - Good Array.cpp) |
+| 541731E | [E - General Khaled](https://codeforces.com/group/Rilx5irOux/contest/541731/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2024 (Mirror)/E - E - General Khaled.cpp) |
+| 541731N | [N - Components Builder](https://codeforces.com/group/Rilx5irOux/contest/541731/problem/N) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2024 (Mirror)/N - N - Components Builder.cpp) |
+| 562768A | [A - The Lucky Seven Quest](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/A) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/A - A - The Lucky Seven Quest.cpp) |
+| 562768B | [B - Ahmad's prayers](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/B) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/B - B - Ahmad's prayers.cpp) |
+| 562768C1 | [C1 - Where am I?](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/C1) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/C1 - C1 - Where am I_.cpp) |
+| 562768D | [D - Loyalixa's Challenge](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/D) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/D - D - Loyalixa's Challenge.cpp) |
+| 562768E | [E - Forest Cycle](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/E) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/E - E - Forest Cycle.cpp) |
+| 562768G1 | [G1 - Hassan Loves Primes (easy version)](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/G1) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/G1 - G1 - Hassan Loves Primes (easy version).cpp) |
+| 562768G2 | [G2 - Hassan Loves Primes (hard version)](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/G2) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/G2 - G2 - Hassan Loves Primes (hard version).cpp) |
+| 562768J | [J - Hassan's Caffeine Routine](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/J) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/J - J - Hassan's Caffeine Routine.cpp) |
+| 562768K | [K - Knight's Journey](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/K) | Groups | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/K - K - Knight's Journey.cpp) |
+| 596064A | [A - Eddi el ruqaq le khabbazo](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/A) | Groups | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/A - A - Eddi el ruqaq le khabbazo.cpp) |
+| 596064B | [B - Magic Divider](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/B) | Groups | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/B - B - Magic Divider.cpp) |
+| 596064C | [C - Charity Truck Challenge](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/C) | Groups | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/C - C - Charity Truck Challenge.cpp) |
+| 596064D | [D - Candies](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/D) | Groups | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/D - D - Candies.cpp) |
+| 604583A | [A - Dragons](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/A - A - Dragons.cpp) |
+| 604583B | [B - Fair and Square](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/B - B - Fair and Square.cpp) |
+| 604583E | [E - Beauty Buildings](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/E - E - Beauty Buildings.cpp) |
+| 604583I | [I - Permutation Prefix Max](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/I - I - Permutation Prefix Max.cpp) |
+| 604583J | [J - XOR MSB](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/J - J - XOR MSB.cpp) |
+| 611029A | [A - Potential Odoo URL](https://codeforces.com/group/1i1EfhEv7s/contest/611029/problem/A) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2025/A - A - Potential Odoo URL.cpp) |
+| 611029C1 | [C1 - Tasks Scheduling (Easy Version)](https://codeforces.com/group/1i1EfhEv7s/contest/611029/problem/C1) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2025/C1 - C1 - Tasks Scheduling (Easy Version).cpp) |
+| 611029E | [E - Crazy Pricing Policy](https://codeforces.com/group/1i1EfhEv7s/contest/611029/problem/E) | Groups | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2025/E - E - Crazy Pricing Policy.cpp) |
+| 620530G | [G - Rings of Saturn](https://codeforces.com/group/Rilx5irOux/contest/620530/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/TCPC 2025/G - G - Rings of Saturn.cpp) |
+| 620530J | [J - Prime Subset Mutations](https://codeforces.com/group/Rilx5irOux/contest/620530/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/TCPC 2025/J - J - Prime Subset Mutations.cpp) |
+| 620530L | [L - String Queries](https://codeforces.com/group/Rilx5irOux/contest/620530/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/TCPC 2025/L - L - String Queries.cpp) |
+| 628229A | [A - Founder DNA Match -- The Human Capital Engine](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/A) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/A - A - Founder DNA Match -- The Human Capital Engine.cpp) |
+| 628229C | [C - The AI Time Bridge](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/C - C - The AI Time Bridge.cpp) |
+| 628229F | [F - Career180 Configurator -- Tailored Learning Track Builder](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/F - F - Career180 Configurator -- Tailored Learning Track Builder.cpp) |
+| 628229G | [G - Temporal Signal Breakdown](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/G - G - Temporal Signal Breakdown.cpp) |
+| 628229I | [I - AI Archive: Project DIVISIA](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/I - I - AI Archive_ Project DIVISIA.cpp) |
+| 628229J | [J - Houssain and George's XOR Expedition](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/J - J - Houssain and George's XOR Expedition.cpp) |
+| 628229K | [K - Amira and Ahmed's Birthday](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/K - K - Amira and Ahmed's Birthday.cpp) |
+| 628229L | [L - Baran and Thaer's Enchanted Lexicon](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/L - L - Baran and Thaer's Enchanted Lexicon.cpp) |
+| 628229M | [M - Moamen and the Ancient Geometry Scroll](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/M - M - Moamen and the Ancient Geometry Scroll.cpp) |
+| 628229N | [N - Maher and the Rabbit Exodus](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/N) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/N - N - Maher and the Rabbit Exodus.cpp) |
+| 634004B | [B - Skating Hurry](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/B - B - Skating Hurry.cpp) |
+| 634004C | [C - Wind Effect](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/C - C - Wind Effect.cpp) |
+| 634004J | [J - New divisors](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/J - J - New divisors.cpp) |
+| 634004L | [L - Gym Gain Problem](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/L - L - Gym Gain Problem.cpp) |
+| 634004M | [M - The Almighty](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/M - M - The Almighty.cpp) |
+| 634004O | [O - T-shirt](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/O) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/O - O - T-shirt.cpp) |
+| 638270B | [B - Count Primeful Subtrees](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/B) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/B - B - Count Primeful Subtrees.cpp) |
+| 638270C | [C - XOR Range Query](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/C) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/C - C - XOR Range Query.cpp) |
+| 638270D | [D - Folka and Movies](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/D) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/D - D - Folka and Movies.cpp) |
+| 638270E | [E - Breaking Descents](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/E) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/E - E - Breaking Descents.cpp) |
+| 638270F | [F - Inscribed triangle in circle](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/F) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/F - F - Inscribed triangle in circle.cpp) |
+| 638270G | [G - Queries On Strings](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/G) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/G - G - Queries On Strings.cpp) |
+| 638270H | [H - Sum in Range](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/H) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/H - H - Sum in Range.cpp) |
+| 638270I | [I - Max Equal Subarray](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/I) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/I - I - Max Equal Subarray.cpp) |
+| 638270J | [J - Saving for a Birthday Gift](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/J) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/J - J - Saving for a Birthday Gift.cpp) |
+| 638270K | [K - Same-Color Pairs](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/K) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/K - K - Same-Color Pairs.cpp) |
+| 638270L | [L - Ninja](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/L) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/L - L - Ninja.cpp) |
+| 638270M | [M - Perfect Square Panels](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/M) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/M - M - Perfect Square Panels.cpp) |
+| 638270O | [O - Counting!](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/O) | Groups | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/O - O - Counting!.cpp) |
 
 </details>
 
@@ -10847,6 +11400,1352 @@ My accepted solutions for competitive programming problems, primarily from [Code
 | [J. Juan vs Frank](https://codeforces.com/gym/106063/problem/J) | - |  | [Solution](Codeforces/GYM/106063/J_Juan_vs_Frank.cpp) |
 | [K. Kilometric Intersection](https://codeforces.com/gym/106063/problem/K) | - |  | [Solution](Codeforces/GYM/106063/K_Kilometric_Intersection.cpp) |
 | [L. Los Ratones III](https://codeforces.com/gym/106063/problem/L) | - |  | [Solution](Codeforces/GYM/106063/L_Los_Ratones_III.cpp) |
+
+</details>
+
+## Group Contest Solutions
+
+Solutions from private Codeforces group contests (ICPC regionals, ACPC, TCPC, training camps, etc.).
+
+<details>
+<summary><b>ACPC MET CS RAMADAN</b> (8 problems, 2 contests)</summary>
+
+**Contest 2 : Iftar** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Hot Ones](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/A) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/A - A - Hot Ones.cpp) |
+| [B. Ma'idat al-Rahman](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/B) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/B - B - Ma'idat al-Rahman.cpp) |
+| [C1. Stay Away (Easy Version)](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/C1) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/C1 - C1 - Stay Away (Easy Version).cpp) |
+| [C2. Stay Away (Hard Version)](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/C2) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/C2 - C2 - Stay Away (Hard Version).cpp) |
+| [D. No Mahashi?](https://codeforces.com/group/SAYaOCfnEY/contest/510489/problem/D) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 2 _ Iftar/D - D - No Mahashi_.cpp) |
+
+**Contest 3** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. 3m Sukar](https://codeforces.com/group/SAYaOCfnEY/contest/510491/problem/A) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 3/A - A - 3m Sukar.cpp) |
+| [B. On the Road Again](https://codeforces.com/group/SAYaOCfnEY/contest/510491/problem/B) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 3/B - B - On the Road Again.cpp) |
+| [C. Hassan's Debut](https://codeforces.com/group/SAYaOCfnEY/contest/510491/problem/C) | [Solution](Codeforces/Groups/ACPC MET CS RAMADAN/Contest 3/C - C - Hassan's Debut.cpp) |
+
+</details>
+
+<details>
+<summary><b>ACPC Scientific Committee Archive</b> (149 problems, 21 contests)</summary>
+
+**ACPC 2019** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [J. Jaguar on the tower](https://codeforces.com/group/Rilx5irOux/contest/479250/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2019/J - J - Jaguar on the tower.cpp) |
+
+**ACPC 2022** (8 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Array Counting](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/A - A - Array Counting.cpp) |
+| [B. Baa Damma Boo](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/B - B - Baa Damma Boo.cpp) |
+| [D. ! Divisible](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/D - D - ! Divisible.cpp) |
+| [G. Game on a Board](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/G - G - Game on a Board.cpp) |
+| [I. ICPCs In Egypt](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/I - I - ICPCs In Egypt.cpp) |
+| [J. Just A Different Order](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/J - J - Just A Different Order.cpp) |
+| [K. K Inversions](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/K - K - K Inversions.cpp) |
+| [L. Looking for Numbers](https://codeforces.com/group/Rilx5irOux/contest/477874/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2022/L - L - Looking for Numbers.cpp) |
+
+**ACPC 2023** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Arboreal Colors](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/A - A - Arboreal Colors.cpp) |
+| [E. Equity Fluctuations](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/E - E - Equity Fluctuations.cpp) |
+| [K. Keyline Subdivisions](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/K - K - Keyline Subdivisions.cpp) |
+| [L. Languid Guardian](https://codeforces.com/group/Rilx5irOux/contest/511452/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC 2023/L - L - Languid Guardian.cpp) |
+
+**ACPC Girls 2023** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [F. Mariam and bits](https://codeforces.com/group/Rilx5irOux/contest/452048/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Girls 2023/F - F - Mariam and bits.cpp) |
+
+**ACPC KickOff 2024** (11 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Free Subarray](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/A - A - Free Subarray.cpp) |
+| [B. Reda and The Squares](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/B - B - Reda and The Squares.cpp) |
+| [C. Ezzat's Coprime Subsets](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/C - C - Ezzat's Coprime Subsets.cpp) |
+| [D. Eslam and Photos](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/D - D - Eslam and Photos.cpp) |
+| [F. New Bus System](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/F - F - New Bus System.cpp) |
+| [G. Goat City](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/G - G - Goat City.cpp) |
+| [H. Pounds and Dreams](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/H - H - Pounds and Dreams.cpp) |
+| [I. Academic Schedule Optimization](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/I - I - Academic Schedule Optimization.cpp) |
+| [K. Easy Swap](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/K - K - Easy Swap.cpp) |
+| [L. Smallest Missing Value](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/L - L - Smallest Missing Value.cpp) |
+| [M. The Mystery number X](https://codeforces.com/group/Rilx5irOux/contest/528296/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC KickOff 2024/M - M - The Mystery number X.cpp) |
+
+**ACPC Kickoff 2025** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Dragons](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/A - A - Dragons.cpp) |
+| [B. Fair and Square](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/B - B - Fair and Square.cpp) |
+| [E. Beauty Buildings](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/E - E - Beauty Buildings.cpp) |
+| [I. Permutation Prefix Max](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/I - I - Permutation Prefix Max.cpp) |
+| [J. XOR MSB](https://codeforces.com/group/Rilx5irOux/contest/604583/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ACPC Kickoff 2025/J - J - XOR MSB.cpp) |
+
+**ECPC 2021** (11 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [C. Volunteers](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/C - C - Volunteers.cpp) |
+| [D. Math Lovers](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/D - D - Math Lovers.cpp) |
+| [F. First to Solve](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/F - F - First to Solve.cpp) |
+| [G. No Cheating](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/G - G - No Cheating.cpp) |
+| [H. Shifts](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/H - H - Shifts.cpp) |
+| [I. Letter Cubes](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/I - I - Letter Cubes.cpp) |
+| [J. Yosri's Fortune](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/J - J - Yosri's Fortune.cpp) |
+| [K. Weird Forumla](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/K - K - Weird Forumla.cpp) |
+| [M. Strictly Increasing Array](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/M - M - Strictly Increasing Array.cpp) |
+| [N. Bor3y](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/N) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/N - N - Bor3y.cpp) |
+| [O. Strong Password](https://codeforces.com/group/Rilx5irOux/contest/526482/problem/O) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2021/O - O - Strong Password.cpp) |
+
+**ECPC 2022** (9 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. A Story](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/A - A - A Story.cpp) |
+| [B. Begins and it](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/B - B - Begins and it.cpp) |
+| [C. Can look like a](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/C - C - Can look like a.cpp) |
+| [D. Duplicated version but](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/D - D - Duplicated version but.cpp) |
+| [E. Exceptionally different](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/E - E - Exceptionally different.cpp) |
+| [F. For it being a](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/F - F - For it being a.cpp) |
+| [G. Great](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/G - G - Great.cpp) |
+| [J. Journey](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/J - J - Journey.cpp) |
+| [N. Now and next](https://codeforces.com/group/Rilx5irOux/contest/477878/problem/N) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2022/N - N - Now and next.cpp) |
+
+**ECPC 2024 (Mirror)** (8 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Biblical Journeys in Bethlehem](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/B - B - Biblical Journeys in Bethlehem.cpp) |
+| [C. Canals of Beersheba](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/C - C - Canals of Beersheba.cpp) |
+| [H. Harbor Life in Jaffa](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/H - H - Harbor Life in Jaffa.cpp) |
+| [I. Interwoven Cultures of Nablus](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/I - I - Interwoven Cultures of Nablus.cpp) |
+| [J. Journey in Safed's Mysteries](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/J - J - Journey in Safed's Mysteries.cpp) |
+| [K. Kaleidoscope of Ramla's Diversity](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/K - K - Kaleidoscope of Ramla's Diversity.cpp) |
+| [L. Logistics of Lod's Connectivity](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/L - L - Logistics of Lod's Connectivity.cpp) |
+| [M. Majestic Crossroads Al-Nasserah](https://codeforces.com/group/Rilx5irOux/contest/538817/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2024 (Mirror)/M - M - Majestic Crossroads Al-Nasserah.cpp) |
+
+**ECPC 2025 (Mirror)** (10 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Founder DNA Match -- The Human Capital Engine](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/A - A - Founder DNA Match -- The Human Capital Engine.cpp) |
+| [C. The AI Time Bridge](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/C - C - The AI Time Bridge.cpp) |
+| [F. Career180 Configurator -- Tailored Learning Track Builder](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/F - F - Career180 Configurator -- Tailored Learning Track Builder.cpp) |
+| [G. Temporal Signal Breakdown](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/G - G - Temporal Signal Breakdown.cpp) |
+| [I. AI Archive: Project DIVISIA](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/I - I - AI Archive_ Project DIVISIA.cpp) |
+| [J. Houssain and George's XOR Expedition](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/J - J - Houssain and George's XOR Expedition.cpp) |
+| [K. Amira and Ahmed's Birthday](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/K - K - Amira and Ahmed's Birthday.cpp) |
+| [L. Baran and Thaer's Enchanted Lexicon](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/L - L - Baran and Thaer's Enchanted Lexicon.cpp) |
+| [M. Moamen and the Ancient Geometry Scroll](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/M - M - Moamen and the Ancient Geometry Scroll.cpp) |
+| [N. Maher and the Rabbit Exodus](https://codeforces.com/group/Rilx5irOux/contest/628229/problem/N) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC 2025 (Mirror)/N - N - Maher and the Rabbit Exodus.cpp) |
+
+**ECPC Qualifications 2024 Day 1 (Mirror)** (7 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Bethlehem: Birthplace of Jesus](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/B - B - Bethlehem_ Birthplace of Jesus.cpp) |
+| [C. Cana'an: A Historic Village in Palestine](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/C - C - Cana'an_ A Historic Village in Palestine.cpp) |
+| [D. Dar al-Hawa: Historic Neighborhood in Jerusalem](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/D - D - Dar al-Hawa_ Historic Neighborhood in Jerusalem.cpp) |
+| [E. Ein Gedi: Oasis of Natural Beauty](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/E - E - Ein Gedi_ Oasis of Natural Beauty.cpp) |
+| [F. Far'un: Ancient Village in Palestine](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/F - F - Far'un_ Ancient Village in Palestine.cpp) |
+| [I. Irbid: A Historical City in Palestine](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/I - I - Irbid_ A Historical City in Palestine.cpp) |
+| [J. Jericho: The Oldest City in the World](https://codeforces.com/group/Rilx5irOux/contest/537316/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 1 (Mirror)/J - J - Jericho_ The Oldest City in the World.cpp) |
+
+**ECPC Qualifications 2024 Day 3 (Mirror)** (7 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Opening](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/A - A - Opening.cpp) |
+| [B. Nablus](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/B - B - Nablus.cpp) |
+| [D. Gaza](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/D - D - Gaza.cpp) |
+| [H. Al Ramla](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/H - H - Al Ramla.cpp) |
+| [I. Tulkarm](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/I - I - Tulkarm.cpp) |
+| [K. Al Quds](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/K - K - Al Quds.cpp) |
+| [L. Bayt Lahm](https://codeforces.com/group/Rilx5irOux/contest/537870/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 3 (Mirror)/L - L - Bayt Lahm.cpp) |
+
+**ECPC Qualifications 2024 Day 4 (Mirror)** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Bir Seb'a](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/B - B - Bir Seb'a.cpp) |
+| [D. Dura](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/D - D - Dura.cpp) |
+| [E. Ein es-Sultan](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/E - E - Ein es-Sultan.cpp) |
+| [L. Lifta](https://codeforces.com/group/Rilx5irOux/contest/538098/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 4 (Mirror)/L - L - Lifta.cpp) |
+
+**ECPC Qualifications 2024 Day 6 (Mirror)** (10 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Biblical Journeys in Bethlehem](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/B - B - Biblical Journeys in Bethlehem.cpp) |
+| [C. Canals of Beersheba](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/C - C - Canals of Beersheba.cpp) |
+| [D. Diverse Culture of Al-Khalil](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/D - D - Diverse Culture of Al-Khalil.cpp) |
+| [E. Exploration of Jericho's Oases](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/E - E - Exploration of Jericho's Oases.cpp) |
+| [G. Gateways of Beisan](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/G - G - Gateways of Beisan.cpp) |
+| [I. Interwoven Cultures of Nablus](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/I - I - Interwoven Cultures of Nablus.cpp) |
+| [J. Journey in Safed's Mysteries](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/J - J - Journey in Safed's Mysteries.cpp) |
+| [K. Kaleidoscope of Ramla's Diversity](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/K - K - Kaleidoscope of Ramla's Diversity.cpp) |
+| [L. Logistics of Lod's Connectivity](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/L - L - Logistics of Lod's Connectivity.cpp) |
+| [N. Navigation Challenges in Gaza](https://codeforces.com/group/Rilx5irOux/contest/538517/problem/N) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/ECPC Qualifications 2024 Day 6 (Mirror)/N - N - Navigation Challenges in Gaza.cpp) |
+
+**SCPC 2021** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Binary Abdouz](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/B - B - Binary Abdouz.cpp) |
+| [J. Bakry and Array](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/J - J - Bakry and Array.cpp) |
+| [L. Leave Me Alone](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/L - L - Leave Me Alone.cpp) |
+| [M. Is It Sorted?](https://codeforces.com/group/Rilx5irOux/contest/529538/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2021/M - M - Is It Sorted_.cpp) |
+
+**SCPC 2024 (Mirror)** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. General Khaled](https://codeforces.com/group/Rilx5irOux/contest/541731/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2024 (Mirror)/E - E - General Khaled.cpp) |
+| [N. Components Builder](https://codeforces.com/group/Rilx5irOux/contest/541731/problem/N) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/SCPC 2024 (Mirror)/N - N - Components Builder.cpp) |
+
+**Syrian Collegiate Programming Contest 2025** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Skating Hurry](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/B - B - Skating Hurry.cpp) |
+| [C. Wind Effect](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/C - C - Wind Effect.cpp) |
+| [J. New divisors](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/J - J - New divisors.cpp) |
+| [L. Gym Gain Problem](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/L - L - Gym Gain Problem.cpp) |
+| [M. The Almighty](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/M - M - The Almighty.cpp) |
+| [O. T-shirt](https://codeforces.com/group/Rilx5irOux/contest/634004/problem/O) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/Syrian Collegiate Programming Contest 2025/O - O - T-shirt.cpp) |
+
+**TCPC 2025** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [G. Rings of Saturn](https://codeforces.com/group/Rilx5irOux/contest/620530/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/TCPC 2025/G - G - Rings of Saturn.cpp) |
+| [J. Prime Subset Mutations](https://codeforces.com/group/Rilx5irOux/contest/620530/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/TCPC 2025/J - J - Prime Subset Mutations.cpp) |
+| [L. String Queries](https://codeforces.com/group/Rilx5irOux/contest/620530/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/TCPC 2025/L - L - String Queries.cpp) |
+
+**The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)** (12 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Ancient](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/A - A - Ancient.cpp) |
+| [B. Bolbitine](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/B - B - Bolbitine.cpp) |
+| [C. Cleopatra](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/C - C - Cleopatra.cpp) |
+| [D. Djoser (Zoser)](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/D - D - Djoser (Zoser).cpp) |
+| [E. Edfu](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/E - E - Edfu.cpp) |
+| [F. Fayoum](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/F - F - Fayoum.cpp) |
+| [G. Giza](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/G - G - Giza.cpp) |
+| [H. Heliopolis](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/H - H - Heliopolis.cpp) |
+| [J. Jewels](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/J - J - Jewels.cpp) |
+| [K. Karnak](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/K - K - Karnak.cpp) |
+| [L. Luxor](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/L - L - Luxor.cpp) |
+| [M. Memphis](https://codeforces.com/group/Rilx5irOux/contest/484436/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications - Day 10)/M - M - Memphis.cpp) |
+
+**The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)** (13 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Ancient](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/A) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/A - A - Ancient.cpp) |
+| [B. Bolbitine](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/B - B - Bolbitine.cpp) |
+| [C. Cleopatra](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/C - C - Cleopatra.cpp) |
+| [E. Edfu](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/E - E - Edfu.cpp) |
+| [F. Fayoum](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/F - F - Fayoum.cpp) |
+| [G. Giza](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/G - G - Giza.cpp) |
+| [H. Heliopolis](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/H - H - Heliopolis.cpp) |
+| [I. Imhotep](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/I - I - Imhotep.cpp) |
+| [J. Jewels](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/J - J - Jewels.cpp) |
+| [K. Karnak](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/K - K - Karnak.cpp) |
+| [L. Luxor](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/L - L - Luxor.cpp) |
+| [N. Nefertiti](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/N) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/N - N - Nefertiti.cpp) |
+| [O. Oases](https://codeforces.com/group/Rilx5irOux/contest/530047/problem/O) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2023 ICPC Egyptian Collegiate Programming Contest (Qualifications Day 4)/O - O - Oases.cpp) |
+
+**The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)** (13 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Count Primeful Subtrees](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/B) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/B - B - Count Primeful Subtrees.cpp) |
+| [C. XOR Range Query](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/C) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/C - C - XOR Range Query.cpp) |
+| [D. Folka and Movies](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/D) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/D - D - Folka and Movies.cpp) |
+| [E. Breaking Descents](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/E) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/E - E - Breaking Descents.cpp) |
+| [F. Inscribed triangle in circle](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/F) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/F - F - Inscribed triangle in circle.cpp) |
+| [G. Queries On Strings](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/G) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/G - G - Queries On Strings.cpp) |
+| [H. Sum in Range](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/H) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/H - H - Sum in Range.cpp) |
+| [I. Max Equal Subarray](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/I) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/I - I - Max Equal Subarray.cpp) |
+| [J. Saving for a Birthday Gift](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/J) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/J - J - Saving for a Birthday Gift.cpp) |
+| [K. Same-Color Pairs](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/K) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/K - K - Same-Color Pairs.cpp) |
+| [L. Ninja](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/L) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/L - L - Ninja.cpp) |
+| [M. Perfect Square Panels](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/M) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/M - M - Perfect Square Panels.cpp) |
+| [O. Counting!](https://codeforces.com/group/Rilx5irOux/contest/638270/problem/O) | [Solution](Codeforces/Groups/ACPC Scientific Committee Archive/The 2025 ICPC Jordanian Collegiate Programming Contest (Mirror)/O - O - Counting!.cpp) |
+
+</details>
+
+<details>
+<summary><b>Code Blinders</b> (12 problems, 2 contests)</summary>
+
+**Code Blinders** (9 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Time for the heist](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/A) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/A - A - Time for the heist.cpp) |
+| [B. Strategic Maneuvers](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/B) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/B - B - Strategic Maneuvers.cpp) |
+| [D. Turf control](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/D) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/D - D - Turf control.cpp) |
+| [F. Shelby's Queries](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/F) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/F - F - Shelby's Queries.cpp) |
+| [G. Hexagonal Quest](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/G) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/G - G - Hexagonal Quest.cpp) |
+| [H. The maximum profit](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/H) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/H - H - The maximum profit.cpp) |
+| [I. Shelby's Secret Strings](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/I) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/I - I - Shelby's Secret Strings.cpp) |
+| [K. Blinders Bowl](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/K) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/K - K - Blinders Bowl.cpp) |
+| [L. Peaky Produce](https://codeforces.com/group/BG5X4l7OAB/contest/506583/problem/L) | [Solution](Codeforces/Groups/Code Blinders/Code Blinders/L - L - Peaky Produce.cpp) |
+
+**Peaky Training** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Bit++](https://codeforces.com/group/BG5X4l7OAB/contest/506586/problem/A) | [Solution](Codeforces/Groups/Code Blinders/Peaky Training/A - A - Bit++.cpp) |
+| [B. Cut Ribbon](https://codeforces.com/group/BG5X4l7OAB/contest/506586/problem/B) | [Solution](Codeforces/Groups/Code Blinders/Peaky Training/B - B - Cut Ribbon.cpp) |
+| [C. 2-3-numbers](https://codeforces.com/group/BG5X4l7OAB/contest/506586/problem/C) | [Solution](Codeforces/Groups/Code Blinders/Peaky Training/C - C - 2-3-numbers.cpp) |
+
+</details>
+
+<details>
+<summary><b>Code Her Ways</b> (4 problems, 1 contests)</summary>
+
+**Code Her Ways** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Company Of Karim](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/A) | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/A - A - Company Of Karim.cpp) |
+| [B. Manel and Sectors](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/B) | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/B - B - Manel and Sectors.cpp) |
+| [C. Maximum Sum](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/C) | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/C - C - Maximum Sum.cpp) |
+| [H. Factoriel](https://codeforces.com/group/dcnjsbfPwB/contest/505081/problem/H) | [Solution](Codeforces/Groups/Code Her Ways/Code Her Ways/H - H - Factoriel.cpp) |
+
+</details>
+
+<details>
+<summary><b>ENSI Competitive Programming Club</b> (9 problems, 2 contests)</summary>
+
+**TCPC 2023 TRAINING CONTEST #2** (8 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. A](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/A) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/A - A - A.cpp) |
+| [B. B](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/B) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/B - B - B.cpp) |
+| [C. C](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/C) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/C - C - C.cpp) |
+| [D. D](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/D) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/D - D - D.cpp) |
+| [E. E](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/E) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/E - E - E.cpp) |
+| [F. F](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/F) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/F - F - F.cpp) |
+| [G.  G](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/G) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/G - G -  G.cpp) |
+| [H.  H](https://codeforces.com/group/gJUF8wSmpT/contest/447960/problem/H) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/TCPC 2023 TRAINING CONTEST #2/H - H -  H.cpp) |
+
+**Training Contest #3 2022-2023** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Implementation](https://codeforces.com/group/gJUF8wSmpT/contest/434280/problem/A) | [Solution](Codeforces/Groups/ENSI Competitive Programming Club/Training Contest #3 2022-2023/A - A - Implementation.cpp) |
+
+</details>
+
+<details>
+<summary><b>EPT Solving cup Mirror contest</b> (4 problems, 1 contests)</summary>
+
+**EPT Solving Cup Mirror Contest** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. Afouene's Show Off-Hard Version](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/E) | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/E - E - Afouene's Show Off-Hard Version.cpp) |
+| [K. The permutation prison](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/K) | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/K - K - The permutation prison.cpp) |
+| [L. Too sensitive](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/L) | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/L - L - Too sensitive.cpp) |
+| [N. Desperate solution](https://codeforces.com/group/DSz9J8VOkF/contest/432412/problem/N) | [Solution](Codeforces/Groups/EPT Solving cup Mirror contest/EPT Solving Cup Mirror Contest/N - N - Desperate solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>Freeways Problem Solving Community</b> (21 problems, 4 contests)</summary>
+
+**1200 ~ 1300** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [G. Omkar and Last Class of Math](https://codeforces.com/group/awQQf9GJa8/contest/368318/problem/G) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/1200 ~ 1300/G - G - Omkar and Last Class of Math.cpp) |
+
+**Have_Fun** (8 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Make Even](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/A) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/A - A - Make Even.cpp) |
+| [B. Remove Smallest](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/B) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/B - B - Remove Smallest.cpp) |
+| [C. Team Composition: Programmers and Mathematicians](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/C) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/C - C - Team Composition_ Programmers and Mathematicians.cpp) |
+| [D. GCD Problem](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/D) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/D - D - GCD Problem.cpp) |
+| [E. Z mod X = C](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/E) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/E - E - Z mod X = C.cpp) |
+| [F. PolandBall and Forest](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/F) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/F - F - PolandBall and Forest.cpp) |
+| [G. Bear and Poker](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/G) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/G - G - Bear and Poker.cpp) |
+| [H. Orac and LCM](https://codeforces.com/group/awQQf9GJa8/contest/439191/problem/H) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/Have_Fun/H - H - Orac and LCM.cpp) |
+
+**WelcomeContest1.0** (7 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Lucky?](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/A) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/A - A - Lucky_.cpp) |
+| [B. Triple](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/B) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/B - B - Triple.cpp) |
+| [C. Palindromic Indices](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/C) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/C - C - Palindromic Indices.cpp) |
+| [D. Equal Candies](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/D) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/D - D - Equal Candies.cpp) |
+| [E. Filling Diamonds](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/E) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/E - E - Filling Diamonds.cpp) |
+| [F. K-th Largest Value](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/F) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/F - F - K-th Largest Value.cpp) |
+| [G. Where's the Bishop?](https://codeforces.com/group/awQQf9GJa8/contest/408618/problem/G) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/WelcomeContest1.0/G - G - Where's the Bishop_.cpp) |
+
+**welcome to BITMASKS !** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. NIT orz!](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/A) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/A - A - NIT orz!.cpp) |
+| [B. Absolute Maximization](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/B) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/B - B - Absolute Maximization.cpp) |
+| [E. XOR Mixup](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/E) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/E - E - XOR Mixup.cpp) |
+| [H. AND Sorting](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/H) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/H - H - AND Sorting.cpp) |
+| [J. XOR = Average](https://codeforces.com/group/awQQf9GJa8/contest/417826/problem/J) | [Solution](Codeforces/Groups/Freeways Problem Solving Community/welcome to BITMASKS !/J - J - XOR = Average.cpp) |
+
+</details>
+
+<details>
+<summary><b>Genesis 1.0 Mirror Contest</b> (2 problems, 1 contests)</summary>
+
+**Genesis 1.0 Mirror Contest** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [H. Dividing the Domain: The Shibuya Incident](https://codeforces.com/group/hq1EVTndkl/contest/105156/problem/H) | [Solution](Codeforces/Groups/Genesis 1.0 Mirror Contest/Genesis 1.0 Mirror Contest/H - H - Dividing the Domain_ The Shibuya Incident.cpp) |
+| [L. Reverse Cursed Technique](https://codeforces.com/group/hq1EVTndkl/contest/105156/problem/L) | [Solution](Codeforces/Groups/Genesis 1.0 Mirror Contest/Genesis 1.0 Mirror Contest/L - L - Reverse Cursed Technique.cpp) |
+
+</details>
+
+<details>
+<summary><b>ICPC Helwan - Ramadan Challenges 2024</b> (10 problems, 6 contests)</summary>
+
+**Contest #5** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Ramadan Kareem](https://codeforces.com/group/XIc7NSO7Rd/contest/511690/problem/A) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #5/A - A - Ramadan Kareem.cpp) |
+
+**Contest #6** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Statement](https://codeforces.com/group/XIc7NSO7Rd/contest/511521/problem/A) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #6/A - A - Statement.cpp) |
+
+**Contest #7** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. :))](https://codeforces.com/group/XIc7NSO7Rd/contest/512195/problem/A) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #7/A - A - _)).cpp) |
+
+**Contest #8** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [C. Counting](https://codeforces.com/group/XIc7NSO7Rd/contest/512414/problem/C) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #8/C - C - Counting.cpp) |
+
+**Contest #9** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. :))](https://codeforces.com/group/XIc7NSO7Rd/contest/512678/problem/A) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #9/A - A - _)).cpp) |
+| [B. Decide where to meet and tell me](https://codeforces.com/group/XIc7NSO7Rd/contest/512678/problem/B) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #9/B - B - Decide where to meet and tell me.cpp) |
+| [C. The Maze](https://codeforces.com/group/XIc7NSO7Rd/contest/512678/problem/C) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Contest #9/C - C - The Maze.cpp) |
+
+**Final Contest** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Vasya's Detective Dilemma](https://codeforces.com/group/XIc7NSO7Rd/contest/512917/problem/A) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Final Contest/A - A - Vasya's Detective Dilemma.cpp) |
+| [B. Sum](https://codeforces.com/group/XIc7NSO7Rd/contest/512917/problem/B) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Final Contest/B - B - Sum.cpp) |
+| [C. Minimizing Divisors in Book Arrangement](https://codeforces.com/group/XIc7NSO7Rd/contest/512917/problem/C) | [Solution](Codeforces/Groups/ICPC Helwan - Ramadan Challenges 2024/Final Contest/C - C - Minimizing Divisors in Book Arrangement.cpp) |
+
+</details>
+
+<details>
+<summary><b>ICPC TC Marathon</b> (4 problems, 1 contests)</summary>
+
+**Contest #5** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Eddi el ruqaq le khabbazo](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/A) | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/A - A - Eddi el ruqaq le khabbazo.cpp) |
+| [B. Magic Divider](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/B) | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/B - B - Magic Divider.cpp) |
+| [C. Charity Truck Challenge](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/C) | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/C - C - Charity Truck Challenge.cpp) |
+| [D. Candies](https://codeforces.com/group/49LzCOUKWw/contest/596064/problem/D) | [Solution](Codeforces/Groups/ICPC TC Marathon/Contest #5/D - D - Candies.cpp) |
+
+</details>
+
+<details>
+<summary><b>INSAT ACM Problem Solving Community</b> (11 problems, 3 contests)</summary>
+
+**Winter Cup 4.0 Online Mirror Contest** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [F. 800](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/F) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/F - F - 800.cpp) |
+| [G. Game of Cards](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/G) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/G - G - Game of Cards.cpp) |
+| [K. Count the squares](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/K) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/K - K - Count the squares.cpp) |
+| [L. Two Shortest Paths](https://codeforces.com/group/MAbng8L9pC/contest/368038/problem/L) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 4.0 Online Mirror Contest/L - L - Two Shortest Paths.cpp) |
+
+**Winter Cup 5.0 Online Mirror Contest** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. GCD LCM SUM](https://codeforces.com/group/MAbng8L9pC/contest/426194/problem/B) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 Online Mirror Contest/B - B - GCD LCM SUM.cpp) |
+| [C. Rooks](https://codeforces.com/group/MAbng8L9pC/contest/426194/problem/C) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 Online Mirror Contest/C - C - Rooks.cpp) |
+| [I. Hall of Faces](https://codeforces.com/group/MAbng8L9pC/contest/426194/problem/I) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 Online Mirror Contest/I - I - Hall of Faces.cpp) |
+
+**Winter Cup 5.0 training contest** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Beautiful Number](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/B) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/B - B - Beautiful Number.cpp) |
+| [F. Mehdi and his friends](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/F) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/F - F - Mehdi and his friends.cpp) |
+| [H. Silent Killer](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/H) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/H - H - Silent Killer.cpp) |
+| [J. Valentine's day](https://codeforces.com/group/MAbng8L9pC/contest/424123/problem/J) | [Solution](Codeforces/Groups/INSAT ACM Problem Solving Community/Winter Cup 5.0 training contest/J - J - Valentine's day.cpp) |
+
+</details>
+
+<details>
+<summary><b>ISI LOCAL CONTEST</b> (6 problems, 1 contests)</summary>
+
+**ISI Local Contest** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Saif and Algorithms](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/A) | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/A - A - Saif and Algorithms.cpp) |
+| [C. Ping-Pong](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/C) | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/C - C - Ping-Pong.cpp) |
+| [D. Saif and clothes](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/D) | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/D - D - Saif and clothes.cpp) |
+| [E. Good Paths](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/E) | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/E - E - Good Paths.cpp) |
+| [K. THE VIRTUOSO](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/K) | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/K - K - THE VIRTUOSO.cpp) |
+| [L. Saif and Algostreet !](https://codeforces.com/group/CQhYdQCAxh/contest/424083/problem/L) | [Solution](Codeforces/Groups/ISI LOCAL CONTEST/ISI Local Contest/L - L - Saif and Algostreet !.cpp) |
+
+</details>
+
+<details>
+<summary><b>ISI contest</b> (9 problems, 1 contests)</summary>
+
+**ISI contest** (9 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Is it infinite ?](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/A) | [Solution](Codeforces/Groups/ISI contest/ISI contest/A - A - Is it infinite _.cpp) |
+| [C. Rope partitioning](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/C) | [Solution](Codeforces/Groups/ISI contest/ISI contest/C - C - Rope partitioning.cpp) |
+| [D. Yet Another tree Problem](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/D) | [Solution](Codeforces/Groups/ISI contest/ISI contest/D - D - Yet Another tree Problem.cpp) |
+| [E. Rescue operation](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/E) | [Solution](Codeforces/Groups/ISI contest/ISI contest/E - E - Rescue operation.cpp) |
+| [F. Summing powers](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/F) | [Solution](Codeforces/Groups/ISI contest/ISI contest/F - F - Summing powers.cpp) |
+| [H. Counting good arrays](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/H) | [Solution](Codeforces/Groups/ISI contest/ISI contest/H - H - Counting good arrays.cpp) |
+| [J. Maximize squareness](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/J) | [Solution](Codeforces/Groups/ISI contest/ISI contest/J - J - Maximize squareness.cpp) |
+| [K. Can you make it palindrome ?](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/K) | [Solution](Codeforces/Groups/ISI contest/ISI contest/K - K - Can you make it palindrome _.cpp) |
+| [L. Bored-man](https://codeforces.com/group/rymFEwjeEz/contest/514080/problem/L) | [Solution](Codeforces/Groups/ISI contest/ISI contest/L - L - Bored-man.cpp) |
+
+</details>
+
+<details>
+<summary><b>International Odoo Programming Contest</b> (9 problems, 2 contests)</summary>
+
+**International Odoo Programming Contest #2024** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Potential Odoo Email](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/A) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/A - A - Potential Odoo Email.cpp) |
+| [B. Make it ODOO!](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/B) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/B - B - Make it ODOO!.cpp) |
+| [C. Viruses](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/C) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/C - C - Viruses.cpp) |
+| [D. Tasks at Odoo](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/D) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/D - D - Tasks at Odoo.cpp) |
+| [E. POS Kiosk](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/E) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/E - E - POS Kiosk.cpp) |
+| [F. Odoo Trees](https://codeforces.com/group/1i1EfhEv7s/contest/513721/problem/F) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2024/F - F - Odoo Trees.cpp) |
+
+**International Odoo Programming Contest #2025** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Potential Odoo URL](https://codeforces.com/group/1i1EfhEv7s/contest/611029/problem/A) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2025/A - A - Potential Odoo URL.cpp) |
+| [C1. Tasks Scheduling (Easy Version)](https://codeforces.com/group/1i1EfhEv7s/contest/611029/problem/C1) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2025/C1 - C1 - Tasks Scheduling (Easy Version).cpp) |
+| [E. Crazy Pricing Policy](https://codeforces.com/group/1i1EfhEv7s/contest/611029/problem/E) | [Solution](Codeforces/Groups/International Odoo Programming Contest/International Odoo Programming Contest #2025/E - E - Crazy Pricing Policy.cpp) |
+
+</details>
+
+<details>
+<summary><b>Loyalixa's Public Contests</b> (15 problems, 2 contests)</summary>
+
+**Loyalixa Introductory Contest** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Booster](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/A) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/A - A - Booster.cpp) |
+| [E. Wheel](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/E) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/E - E - Wheel.cpp) |
+| [F. Mad Lab](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/F) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/F - F - Mad Lab.cpp) |
+| [H1. Fusion (Easy version)](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/H1) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/H1 - H1 - Fusion (Easy version).cpp) |
+| [I. Crazy race](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/I) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/I - I - Crazy race.cpp) |
+| [K. Good Array](https://codeforces.com/group/HcnH7vLzrr/contest/539291/problem/K) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Introductory Contest/K - K - Good Array.cpp) |
+
+**Loyalixa Titans Contest I** (9 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. The Lucky Seven Quest](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/A) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/A - A - The Lucky Seven Quest.cpp) |
+| [B. Ahmad's prayers](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/B) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/B - B - Ahmad's prayers.cpp) |
+| [C1. Where am I?](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/C1) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/C1 - C1 - Where am I_.cpp) |
+| [D. Loyalixa's Challenge](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/D) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/D - D - Loyalixa's Challenge.cpp) |
+| [E. Forest Cycle](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/E) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/E - E - Forest Cycle.cpp) |
+| [G1. Hassan Loves Primes (easy version)](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/G1) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/G1 - G1 - Hassan Loves Primes (easy version).cpp) |
+| [G2. Hassan Loves Primes (hard version)](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/G2) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/G2 - G2 - Hassan Loves Primes (hard version).cpp) |
+| [J. Hassan's Caffeine Routine](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/J) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/J - J - Hassan's Caffeine Routine.cpp) |
+| [K. Knight's Journey](https://codeforces.com/group/HcnH7vLzrr/contest/562768/problem/K) | [Solution](Codeforces/Groups/Loyalixa's Public Contests/Loyalixa Titans Contest I/K - K - Knight's Journey.cpp) |
+
+</details>
+
+<details>
+<summary><b>Rating_Climb</b> (6 problems, 2 contests)</summary>
+
+**DAILY_2000_PROBLEM_CHALLENGE** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Cashback](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/A) | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/A - A - Cashback.cpp) |
+| [B. Encryption (medium)](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/B) | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/B - B - Encryption (medium).cpp) |
+| [F. Mars rover](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/F) | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/F - F - Mars rover.cpp) |
+| [I. Divisors](https://codeforces.com/group/4kBBc2oq2Z/contest/379337/problem/I) | [Solution](Codeforces/Groups/Rating_Climb/DAILY_2000_PROBLEM_CHALLENGE/I - I - Divisors.cpp) |
+
+**Training#1_[2100-2300]** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Lexicographically Small Enough](https://codeforces.com/group/4kBBc2oq2Z/contest/486638/problem/A) | [Solution](Codeforces/Groups/Rating_Climb/Training#1_[2100-2300]/A - A - Lexicographically Small Enough.cpp) |
+| [D. Divan and Kostomuksha (easy version)](https://codeforces.com/group/4kBBc2oq2Z/contest/486638/problem/D) | [Solution](Codeforces/Groups/Rating_Climb/Training#1_[2100-2300]/D - D - Divan and Kostomuksha (easy version).cpp) |
+
+</details>
+
+<details>
+<summary><b>Sa3a Le 3alk(BENHA)</b> (35 problems, 15 contests)</summary>
+
+**Contest 10** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. The Domino Heist](https://codeforces.com/group/LMIRE2bFzH/contest/436556/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 10/A - A - The Domino Heist.cpp) |
+| [B. Make It Palindrome](https://codeforces.com/group/LMIRE2bFzH/contest/436556/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 10/B - B - Make It Palindrome.cpp) |
+
+**Contest 12** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Prime Workers](https://codeforces.com/group/LMIRE2bFzH/contest/436847/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 12/A - A - Prime Workers.cpp) |
+| [B. Power of 9](https://codeforces.com/group/LMIRE2bFzH/contest/436847/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 12/B - B - Power of 9.cpp) |
+| [C. Great sequence](https://codeforces.com/group/LMIRE2bFzH/contest/436847/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 12/C - C - Great sequence.cpp) |
+
+**Contest 13** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. It's twenty ??!](https://codeforces.com/group/LMIRE2bFzH/contest/436993/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 13/A - A - It's twenty __!.cpp) |
+| [B. Mod 20](https://codeforces.com/group/LMIRE2bFzH/contest/436993/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 13/B - B - Mod 20.cpp) |
+| [C. Form Triangles](https://codeforces.com/group/LMIRE2bFzH/contest/436993/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 13/C - C - Form Triangles.cpp) |
+
+**Contest 14** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Max score](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/A - A - Max score.cpp) |
+| [B. simple](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/B - B - simple.cpp) |
+| [C. push_back(x)](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/C - C - push_back(x).cpp) |
+| [D. 2tayeef](https://codeforces.com/group/LMIRE2bFzH/contest/437192/problem/D) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 14/D - D - 2tayeef.cpp) |
+
+**Contest 15** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Odd Divisor Count](https://codeforces.com/group/LMIRE2bFzH/contest/437333/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 15/A - A - Odd Divisor Count.cpp) |
+
+**Contest 16** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Permutation](https://codeforces.com/group/LMIRE2bFzH/contest/437504/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 16/B - B - Permutation.cpp) |
+| [C. Hany dilemma](https://codeforces.com/group/LMIRE2bFzH/contest/437504/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 16/C - C - Hany dilemma.cpp) |
+
+**Contest 17** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Convert Number](https://codeforces.com/group/LMIRE2bFzH/contest/437714/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 17/A - A - Convert Number.cpp) |
+| [B. Last Digit](https://codeforces.com/group/LMIRE2bFzH/contest/437714/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 17/B - B - Last Digit.cpp) |
+| [C. Equal Digits](https://codeforces.com/group/LMIRE2bFzH/contest/437714/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 17/C - C - Equal Digits.cpp) |
+
+**Contest 18** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Simple Problem](https://codeforces.com/group/LMIRE2bFzH/contest/437884/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 18/A - A - Simple Problem.cpp) |
+| [B. String Removal](https://codeforces.com/group/LMIRE2bFzH/contest/437884/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 18/B - B - String Removal.cpp) |
+
+**Contest 19** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Is Divisible ?](https://codeforces.com/group/LMIRE2bFzH/contest/438075/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 19/A - A - Is Divisible _.cpp) |
+| [C. Fight II](https://codeforces.com/group/LMIRE2bFzH/contest/438075/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 19/C - C - Fight II.cpp) |
+| [D. Hill](https://codeforces.com/group/LMIRE2bFzH/contest/438075/problem/D) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 19/D - D - Hill.cpp) |
+
+**Contest 20** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Is it factorial?](https://codeforces.com/group/LMIRE2bFzH/contest/438132/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 20/A - A - Is it factorial_.cpp) |
+| [B. Mirror Image](https://codeforces.com/group/LMIRE2bFzH/contest/438132/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 20/B - B - Mirror Image.cpp) |
+
+**Contest 21** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Missing Digit](https://codeforces.com/group/LMIRE2bFzH/contest/438482/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 21/A - A - Missing Digit.cpp) |
+| [B. Equations](https://codeforces.com/group/LMIRE2bFzH/contest/438482/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 21/B - B - Equations.cpp) |
+
+**Contest 24** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. PCD](https://codeforces.com/group/LMIRE2bFzH/contest/439180/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 24/A - A - PCD.cpp) |
+| [B. Shift Operations](https://codeforces.com/group/LMIRE2bFzH/contest/439180/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 24/B - B - Shift Operations.cpp) |
+
+**Contest 25** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Distinct Numbers](https://codeforces.com/group/LMIRE2bFzH/contest/439310/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 25/A - A - Distinct Numbers.cpp) |
+
+**Contest 8** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Mo Ibrahem (easy version)](https://codeforces.com/group/LMIRE2bFzH/contest/436218/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 8/A - A - Mo Ibrahem (easy version).cpp) |
+| [B. Mo Ibrahem (easy version also)](https://codeforces.com/group/LMIRE2bFzH/contest/436218/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/Contest 8/B - B - Mo Ibrahem (easy version also).cpp) |
+
+**競賽11** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. 國際雞蛋日](https://codeforces.com/group/LMIRE2bFzH/contest/436692/problem/A) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/競賽11/A - A - 國際雞蛋日.cpp) |
+| [B. 剪切和粘貼](https://codeforces.com/group/LMIRE2bFzH/contest/436692/problem/B) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/競賽11/B - B - 剪切和粘貼.cpp) |
+| [C. 無敵英雄](https://codeforces.com/group/LMIRE2bFzH/contest/436692/problem/C) | [Solution](Codeforces/Groups/Sa3a Le 3alk(BENHA)/競賽11/C - C - 無敵英雄.cpp) |
+
+</details>
+
+<details>
+<summary><b>Teyy Bellouz</b> (128 problems, 41 contests)</summary>
+
+**2021-2022 ACM-ICPC Brazil Subregional Programming Contest** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [G. Getting in Shape](https://codeforces.com/group/qrPTLc7Ho4/contest/103388/problem/G) | [Solution](Codeforces/Groups/Teyy Bellouz/2021-2022 ACM-ICPC Brazil Subregional Programming Contest/G - G - Getting in Shape.cpp) |
+
+**2023 Romanian Collegiate Programming Contest (RCPC)** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [I. KSumT](https://codeforces.com/group/qrPTLc7Ho4/contest/104782/problem/I) | [Solution](Codeforces/Groups/Teyy Bellouz/2023 Romanian Collegiate Programming Contest (RCPC)/I - I - KSumT.cpp) |
+
+**8rayba homs** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. New Year Candles](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/A - A - New Year Candles.cpp) |
+| [B. Jzzhu and Sequences](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/B - B - Jzzhu and Sequences.cpp) |
+| [C. Fight with Monsters](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/C - C - Fight with Monsters.cpp) |
+| [E. Mysterious Crime](https://codeforces.com/group/qrPTLc7Ho4/contest/442740/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/8rayba homs/E - E - Mysterious Crime.cpp) |
+
+**BORDGEN L3EZ** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. New Year and Old Property](https://codeforces.com/group/qrPTLc7Ho4/contest/435006/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/BORDGEN L3EZ/A - A - New Year and Old Property.cpp) |
+| [D. Mashmokh and Lights](https://codeforces.com/group/qrPTLc7Ho4/contest/435006/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/BORDGEN L3EZ/D - D - Mashmokh and Lights.cpp) |
+| [H. Counting Kangaroos is Fun](https://codeforces.com/group/qrPTLc7Ho4/contest/435006/problem/H) | [Solution](Codeforces/Groups/Teyy Bellouz/BORDGEN L3EZ/H - H - Counting Kangaroos is Fun.cpp) |
+
+**Baklewa l3ez** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Prison Break](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/A - A - Prison Break.cpp) |
+| [B. Fedor and New Game](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/B - B - Fedor and New Game.cpp) |
+| [C. Two Tables](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/C - C - Two Tables.cpp) |
+| [E. Powered Addition](https://codeforces.com/group/qrPTLc7Ho4/contest/441314/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/Baklewa l3ez/E - E - Powered Addition.cpp) |
+
+**CONTESTTTTTTTTTTT** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Accommodation](https://codeforces.com/group/qrPTLc7Ho4/contest/491416/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/CONTESTTTTTTTTTTT/A - A - Accommodation.cpp) |
+| [B. Music Festival](https://codeforces.com/group/qrPTLc7Ho4/contest/491416/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/CONTESTTTTTTTTTTT/B - B - Music Festival.cpp) |
+
+**DENYA BEEEEEERDA** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. SlavicG's Favorite Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/497520/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/DENYA BEEEEEERDA/A - A - SlavicG's Favorite Problem.cpp) |
+
+**Hard Contest wsattar rabbi** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. LIS or Reverse LIS?](https://codeforces.com/group/qrPTLc7Ho4/contest/437327/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/Hard Contest wsattar rabbi/A - A - LIS or Reverse LIS_.cpp) |
+
+**JENI NOUM** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Coloring Rectangles](https://codeforces.com/group/qrPTLc7Ho4/contest/442624/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/JENI NOUM/A - A - Coloring Rectangles.cpp) |
+| [B. Longest Strike](https://codeforces.com/group/qrPTLc7Ho4/contest/442624/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/JENI NOUM/B - B - Longest Strike.cpp) |
+| [C. Restore Modulo](https://codeforces.com/group/qrPTLc7Ho4/contest/442624/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/JENI NOUM/C - C - Restore Modulo.cpp) |
+
+**KA3EK WARKA ALA KHATER AMENI** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Multiply by 2, divide by 6](https://codeforces.com/group/qrPTLc7Ho4/contest/442116/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/KA3EK WARKA ALA KHATER AMENI/A - A - Multiply by 2, divide by 6.cpp) |
+| [C. k-Multiple Free Set](https://codeforces.com/group/qrPTLc7Ho4/contest/442116/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/KA3EK WARKA ALA KHATER AMENI/C - C - k-Multiple Free Set.cpp) |
+
+**KADECH LWAKET** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. DIV + MOD](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/A - A - DIV + MOD.cpp) |
+| [B. Common Divisors](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/B - B - Common Divisors.cpp) |
+| [C. Cyclic Permutations](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/C - C - Cyclic Permutations.cpp) |
+| [F. Color the Fence](https://codeforces.com/group/qrPTLc7Ho4/contest/442930/problem/F) | [Solution](Codeforces/Groups/Teyy Bellouz/KADECH LWAKET/F - F - Color the Fence.cpp) |
+
+**Mashup 1** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Prefix-Suffix Palindrome (Easy version)](https://codeforces.com/group/qrPTLc7Ho4/contest/430498/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 1/B - B - Prefix-Suffix Palindrome (Easy version).cpp) |
+| [D. Queue](https://codeforces.com/group/qrPTLc7Ho4/contest/430498/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 1/D - D - Queue.cpp) |
+| [H. Yet Another Meme Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/430498/problem/H) | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 1/H - H - Yet Another Meme Problem.cpp) |
+
+**Mashup 2** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [C. Odd Sum Segments](https://codeforces.com/group/qrPTLc7Ho4/contest/434668/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 2/C - C - Odd Sum Segments.cpp) |
+| [D. Add and Divide](https://codeforces.com/group/qrPTLc7Ho4/contest/434668/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 2/D - D - Add and Divide.cpp) |
+| [E. Sum of Substrings](https://codeforces.com/group/qrPTLc7Ho4/contest/434668/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/Mashup 2/E - E - Sum of Substrings.cpp) |
+
+**Matrix Exponentiation** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Random Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/A - A - Random Mood.cpp) |
+| [B. String Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/B - B - String Mood.cpp) |
+| [C. Fibonacci](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/C - C - Fibonacci.cpp) |
+| [D. Count Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/D - D - Count Paths.cpp) |
+| [E. Knight Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/102644/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/Matrix Exponentiation/E - E - Knight Paths.cpp) |
+
+**Quiiick** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Remove One Element](https://codeforces.com/group/qrPTLc7Ho4/contest/439499/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/Quiiick/A - A - Remove One Element.cpp) |
+| [B. Array](https://codeforces.com/group/qrPTLc7Ho4/contest/439499/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/Quiiick/B - B - Array.cpp) |
+| [C. Distinct Characters Queries](https://codeforces.com/group/qrPTLc7Ho4/contest/439499/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/Quiiick/C - C - Distinct Characters Queries.cpp) |
+
+**ShinzouWoSasageyo** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Random Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/A - A - Random Mood.cpp) |
+| [B. String Mood](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/B - B - String Mood.cpp) |
+| [C. Fibonacci](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/C - C - Fibonacci.cpp) |
+| [D. Count Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/D - D - Count Paths.cpp) |
+| [E. Knight Paths](https://codeforces.com/group/qrPTLc7Ho4/contest/498216/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/ShinzouWoSasageyo/E - E - Knight Paths.cpp) |
+
+**Speed Run 1.0** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Best Permutation](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/A - A - Best Permutation.cpp) |
+| [B. Exciting Bets](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/B - B - Exciting Bets.cpp) |
+| [C. Subrectangle Guess](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/C - C - Subrectangle Guess.cpp) |
+| [D. Sum of 2050](https://codeforces.com/group/qrPTLc7Ho4/contest/445350/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/Speed Run 1.0/D - D - Sum of 2050.cpp) |
+
+**TCPC KROB 1.0** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Co-growing Sequence](https://codeforces.com/group/qrPTLc7Ho4/contest/444557/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 1.0/A - A - Co-growing Sequence.cpp) |
+| [B. Preparing for Merge Sort](https://codeforces.com/group/qrPTLc7Ho4/contest/444557/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 1.0/B - B - Preparing for Merge Sort.cpp) |
+| [D. Fixed Prefix Permutations](https://codeforces.com/group/qrPTLc7Ho4/contest/444557/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 1.0/D - D - Fixed Prefix Permutations.cpp) |
+
+**TCPC KROB 2.0** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Road To Zero](https://codeforces.com/group/qrPTLc7Ho4/contest/445184/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 2.0/A - A - Road To Zero.cpp) |
+| [B. Omkar and Last Class of Math](https://codeforces.com/group/qrPTLc7Ho4/contest/445184/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 2.0/B - B - Omkar and Last Class of Math.cpp) |
+| [C. Special Elements](https://codeforces.com/group/qrPTLc7Ho4/contest/445184/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 2.0/C - C - Special Elements.cpp) |
+
+**TCPC KROB 3.0** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. DZY Loves Strings](https://codeforces.com/group/qrPTLc7Ho4/contest/445349/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 3.0/A - A - DZY Loves Strings.cpp) |
+| [C. Perfect Keyboard](https://codeforces.com/group/qrPTLc7Ho4/contest/445349/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 3.0/C - C - Perfect Keyboard.cpp) |
+
+**TCPC KROB 4.0** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Mislove Has Lost an Array](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/A - A - Mislove Has Lost an Array.cpp) |
+| [B. Heidi Learns Hashing](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/B - B - Heidi Learns Hashing.cpp) |
+| [C. Duff and Weight Lifting](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/C - C - Duff and Weight Lifting.cpp) |
+| [D. pSort](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/D - D - pSort.cpp) |
+| [E. Dasha and Very Difficult Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/E - E - Dasha and Very Difficult Problem.cpp) |
+| [F. Integers Have Friends](https://codeforces.com/group/qrPTLc7Ho4/contest/445496/problem/F) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 4.0/F - F - Integers Have Friends.cpp) |
+
+**TCPC KROB 5.0** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Rule of League](https://codeforces.com/group/qrPTLc7Ho4/contest/445688/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 5.0/A - A - Rule of League.cpp) |
+| [D. Add One](https://codeforces.com/group/qrPTLc7Ho4/contest/445688/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 5.0/D - D - Add One.cpp) |
+
+**TCPC KROB 6.0** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Vasya and Socks](https://codeforces.com/group/qrPTLc7Ho4/contest/445867/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 6.0/A - A - Vasya and Socks.cpp) |
+| [B. New Year's Eve](https://codeforces.com/group/qrPTLc7Ho4/contest/445867/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 6.0/B - B - New Year's Eve.cpp) |
+| [C. Dynasty Puzzles](https://codeforces.com/group/qrPTLc7Ho4/contest/445867/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 6.0/C - C - Dynasty Puzzles.cpp) |
+
+**TCPC KROB 7.0** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Game of Life](https://codeforces.com/group/qrPTLc7Ho4/contest/446000/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 7.0/A - A - Game of Life.cpp) |
+| [B. Ehab and a Special Coloring Problem](https://codeforces.com/group/qrPTLc7Ho4/contest/446000/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 7.0/B - B - Ehab and a Special Coloring Problem.cpp) |
+| [D. Animals](https://codeforces.com/group/qrPTLc7Ho4/contest/446000/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 7.0/D - D - Animals.cpp) |
+
+**TCPC KROB 8.0** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Sereja and Dima](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/A - A - Sereja and Dima.cpp) |
+| [B. Cinema Line](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/B - B - Cinema Line.cpp) |
+| [C. No More Inversions](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/C - C - No More Inversions.cpp) |
+| [D. Reading Books (easy version)](https://codeforces.com/group/qrPTLc7Ho4/contest/446257/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/TCPC KROB 8.0/D - D - Reading Books (easy version).cpp) |
+
+**We Back** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Life of a Flower](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/A - A - Life of a Flower.cpp) |
+| [B. Equator](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/B - B - Equator.cpp) |
+| [C. Two Seals](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/C - C - Two Seals.cpp) |
+| [D. Strange Beauty](https://codeforces.com/group/qrPTLc7Ho4/contest/486311/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/We Back/D - D - Strange Beauty.cpp) |
+
+**adakdkja** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Absent Remainder](https://codeforces.com/group/qrPTLc7Ho4/contest/452020/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/adakdkja/A - A - Absent Remainder.cpp) |
+| [B. Prefix Sum Primes](https://codeforces.com/group/qrPTLc7Ho4/contest/452020/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/adakdkja/B - B - Prefix Sum Primes.cpp) |
+| [C. Running with Obstacles](https://codeforces.com/group/qrPTLc7Ho4/contest/452020/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/adakdkja/C - C - Running with Obstacles.cpp) |
+
+**baklewa leez 2.0** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. XORinacci](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/A - A - XORinacci.cpp) |
+| [B. Hungry Sequence](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/B - B - Hungry Sequence.cpp) |
+| [C. Queue](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/C - C - Queue.cpp) |
+| [D. Coach](https://codeforces.com/group/qrPTLc7Ho4/contest/441772/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/baklewa leez 2.0/D - D - Coach.cpp) |
+
+**barcha jaww** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Meaningless Operations](https://codeforces.com/group/qrPTLc7Ho4/contest/442317/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/barcha jaww/B - B - Meaningless Operations.cpp) |
+| [C. Power Sequence](https://codeforces.com/group/qrPTLc7Ho4/contest/442317/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/barcha jaww/C - C - Power Sequence.cpp) |
+
+**contest L3EEEZ** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Indivisibility](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/A - A - Indivisibility.cpp) |
+| [C. Palindrome Basis](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/C - C - Palindrome Basis.cpp) |
+| [E. Paprika and Permutation](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/E - E - Paprika and Permutation.cpp) |
+| [G. MAX-MEX Cut](https://codeforces.com/group/qrPTLc7Ho4/contest/435687/problem/G) | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EEEZ/G - G - MAX-MEX Cut.cpp) |
+
+**contest L3EZZ V2** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Subset Mex](https://codeforces.com/group/qrPTLc7Ho4/contest/441014/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/contest L3EZZ V2/A - A - Subset Mex.cpp) |
+
+**dppp** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Odd sum](https://codeforces.com/group/qrPTLc7Ho4/contest/436057/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/dppp/A - A - Odd sum.cpp) |
+| [E. Good Subarrays (Easy Version)](https://codeforces.com/group/qrPTLc7Ho4/contest/436057/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/dppp/E - E - Good Subarrays (Easy Version).cpp) |
+| [F. Fortune Telling](https://codeforces.com/group/qrPTLc7Ho4/contest/436057/problem/F) | [Solution](Codeforces/Groups/Teyy Bellouz/dppp/F - F - Fortune Telling.cpp) |
+
+**mahbet l3id** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. A pile of stones](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/A - A - A pile of stones.cpp) |
+| [B. Ayoub and Lost Array](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/B - B - Ayoub and Lost Array.cpp) |
+| [C. Guessing the Greatest (easy version)](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/C - C - Guessing the Greatest (easy version).cpp) |
+| [D. Restaurant](https://codeforces.com/group/qrPTLc7Ho4/contest/439765/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/mahbet l3id/D - D - Restaurant.cpp) |
+
+**mash** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Young Explorers](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/mash/A - A - Young Explorers.cpp) |
+| [B. Remove the Substring (hard version)](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/mash/B - B - Remove the Substring (hard version).cpp) |
+| [C. Christmas Trees](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/mash/C - C - Christmas Trees.cpp) |
+| [D. Same Sum Blocks (Hard)](https://codeforces.com/group/qrPTLc7Ho4/contest/487791/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/mash/D - D - Same Sum Blocks (Hard).cpp) |
+
+**mashuppp** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Maximum Sum on Even Positions](https://codeforces.com/group/qrPTLc7Ho4/contest/486847/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/mashuppp/A - A - Maximum Sum on Even Positions.cpp) |
+| [C. Too Many Segments (hard version)](https://codeforces.com/group/qrPTLc7Ho4/contest/486847/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/mashuppp/C - C - Too Many Segments (hard version).cpp) |
+
+**math** (8 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Magical Calendar](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/math/A - A - Magical Calendar.cpp) |
+| [B. Cat Cycle](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/math/B - B - Cat Cycle.cpp) |
+| [D. The Wall](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/math/D - D - The Wall.cpp) |
+| [E. Buying Shovels](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/E) | [Solution](Codeforces/Groups/Teyy Bellouz/math/E - E - Buying Shovels.cpp) |
+| [F. Pluses and Minuses](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/F) | [Solution](Codeforces/Groups/Teyy Bellouz/math/F - F - Pluses and Minuses.cpp) |
+| [G. Duff in Love](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/G) | [Solution](Codeforces/Groups/Teyy Bellouz/math/G - G - Duff in Love.cpp) |
+| [H. National Project](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/H) | [Solution](Codeforces/Groups/Teyy Bellouz/math/H - H - National Project.cpp) |
+| [I. Chilly Willy](https://codeforces.com/group/qrPTLc7Ho4/contest/435981/problem/I) | [Solution](Codeforces/Groups/Teyy Bellouz/math/I - I - Chilly Willy.cpp) |
+
+**mesh** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Minimum Array](https://codeforces.com/group/qrPTLc7Ho4/contest/488280/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/mesh/B - B - Minimum Array.cpp) |
+| [C. XOR-pyramid](https://codeforces.com/group/qrPTLc7Ho4/contest/488280/problem/C) | [Solution](Codeforces/Groups/Teyy Bellouz/mesh/C - C - XOR-pyramid.cpp) |
+| [D. Li Hua and Array](https://codeforces.com/group/qrPTLc7Ho4/contest/488280/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/mesh/D - D - Li Hua and Array.cpp) |
+
+**no_name** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. AGAGA XOOORRR](https://codeforces.com/group/qrPTLc7Ho4/contest/441479/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/no_name/A - A - AGAGA XOOORRR.cpp) |
+| [B. Zmei Gorynich](https://codeforces.com/group/qrPTLc7Ho4/contest/441479/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/no_name/B - B - Zmei Gorynich.cpp) |
+| [D. Vova and Trophies](https://codeforces.com/group/qrPTLc7Ho4/contest/441479/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/no_name/D - D - Vova and Trophies.cpp) |
+
+**psssstttt** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. And It's Non-Zero](https://codeforces.com/group/qrPTLc7Ho4/contest/497711/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/psssstttt/A - A - And It's Non-Zero.cpp) |
+| [B. Balance the Bits](https://codeforces.com/group/qrPTLc7Ho4/contest/497711/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/psssstttt/B - B - Balance the Bits.cpp) |
+
+**rabbi yoster** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Vanya and Books](https://codeforces.com/group/qrPTLc7Ho4/contest/442462/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/rabbi yoster/B - B - Vanya and Books.cpp) |
+| [D. Kids Seating](https://codeforces.com/group/qrPTLc7Ho4/contest/442462/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/rabbi yoster/D - D - Kids Seating.cpp) |
+| [F. Add to Neighbour and Remove](https://codeforces.com/group/qrPTLc7Ho4/contest/442462/problem/F) | [Solution](Codeforces/Groups/Teyy Bellouz/rabbi yoster/F - F - Add to Neighbour and Remove.cpp) |
+
+**sussy baka** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. The number of positions](https://codeforces.com/group/qrPTLc7Ho4/contest/439638/problem/A) | [Solution](Codeforces/Groups/Teyy Bellouz/sussy baka/A - A - The number of positions.cpp) |
+| [B. Nested Segments](https://codeforces.com/group/qrPTLc7Ho4/contest/439638/problem/B) | [Solution](Codeforces/Groups/Teyy Bellouz/sussy baka/B - B - Nested Segments.cpp) |
+| [D. MEX maximizing](https://codeforces.com/group/qrPTLc7Ho4/contest/439638/problem/D) | [Solution](Codeforces/Groups/Teyy Bellouz/sussy baka/D - D - MEX maximizing.cpp) |
+
+</details>
+
+<details>
+<summary><b>TheForces Rounds</b> (8 problems, 3 contests)</summary>
+
+**Codeforces Round 1000 (Div. 2)** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [D. Game With Triangles](https://codeforces.com/group/XrvsTsJWMb/contest/2063/problem/D) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 1000 (Div. 2)/D - D - Game With Triangles.cpp) |
+| [E. Triangle Tree](https://codeforces.com/group/XrvsTsJWMb/contest/2063/problem/E) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 1000 (Div. 2)/E - E - Triangle Tree.cpp) |
+| [F1. Counting Is Not Fun (Easy Version)](https://codeforces.com/group/XrvsTsJWMb/contest/2063/problem/F1) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 1000 (Div. 2)/F1 - F1 - Counting Is Not Fun (Easy Version).cpp) |
+
+**Codeforces Round 930 (Div. 2)** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Shuffle Party](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/A) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/A - A - Shuffle Party.cpp) |
+| [B. Binary Path](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/B) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/B - B - Binary Path.cpp) |
+| [C. Bitwise Operation Wizard](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/C) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/C - C - Bitwise Operation Wizard.cpp) |
+| [D. Pinball](https://codeforces.com/group/XrvsTsJWMb/contest/1937/problem/D) | [Solution](Codeforces/Groups/TheForces Rounds/Codeforces Round 930 (Div. 2)/D - D - Pinball.cpp) |
+
+**Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [D. Matrix Cascade](https://codeforces.com/group/XrvsTsJWMb/contest/1864/problem/D) | [Solution](Codeforces/Groups/TheForces Rounds/Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)/D - D - Matrix Cascade.cpp) |
+
+</details>
+
+<details>
+<summary><b>Tunisian CP community</b> (99 problems, 25 contests)</summary>
+
+**(Aleppo + HAIST + SVU + Private) CPC 2022** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. Robovac](https://codeforces.com/group/YTYmnVxV00/contest/103821/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/(Aleppo + HAIST + SVU + Private) CPC 2022/E - E - Robovac.cpp) |
+| [H. FAT Sequences](https://codeforces.com/group/YTYmnVxV00/contest/103821/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/(Aleppo + HAIST + SVU + Private) CPC 2022/H - H - FAT Sequences.cpp) |
+
+**(DCPC + TCPC + BCPC) 2022** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. 2 Arrays Problem](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/A - A - 2 Arrays Problem.cpp) |
+| [D. Ctrl+A+C+V](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/D - D - Ctrl+A+C+V.cpp) |
+| [E. Do you where is Naseem?](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/E - E - Do you where is Naseem_.cpp) |
+| [H. Kite](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/H - H - Kite.cpp) |
+| [J. Even Adjacent Product](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/J - J - Even Adjacent Product.cpp) |
+| [N. Moving grid](https://codeforces.com/group/YTYmnVxV00/contest/103828/problem/N) | [Solution](Codeforces/Groups/Tunisian CP community/(DCPC + TCPC + BCPC) 2022/N - N - Moving grid.cpp) |
+
+**2017 ACM Jordanian Collegiate Programming Contest** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. OverCode](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/B - B - OverCode.cpp) |
+| [D. Test Cases](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/D - D - Test Cases.cpp) |
+| [E. Robot I - Instruction Reduction](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/E - E - Robot I - Instruction Reduction.cpp) |
+| [M. Winning Cells](https://codeforces.com/group/YTYmnVxV00/contest/101608/problem/M) | [Solution](Codeforces/Groups/Tunisian CP community/2017 ACM Jordanian Collegiate Programming Contest/M - M - Winning Cells.cpp) |
+
+**2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Advertising Strategy](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/A - A - Advertising Strategy.cpp) |
+| [D. Decoding of Varints](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/D - D - Decoding of Varints.cpp) |
+| [F. Fake or Leak?](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/F - F - Fake or Leak_.cpp) |
+| [G. God of Winds](https://codeforces.com/group/YTYmnVxV00/contest/101611/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest/G - G - God of Winds.cpp) |
+
+**2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. Equidistant](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/E - E - Equidistant.cpp) |
+| [H. High Load Database](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/H - H - High Load Database.cpp) |
+| [J. Just the Last Digit](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/J - J - Just the Last Digit.cpp) |
+| [M. Managing Difficulties](https://codeforces.com/group/YTYmnVxV00/contest/104874/problem/M) | [Solution](Codeforces/Groups/Tunisian CP community/2019-2020 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)/M - M - Managing Difficulties.cpp) |
+
+**2020-2021 ICPC, Moscow Subregional** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Basketball Plus-Minus](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/B - B - Basketball Plus-Minus.cpp) |
+| [C. C and Pascal Strings](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/C) | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/C - C - C and Pascal Strings.cpp) |
+| [D. Deep Primes](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/D - D - Deep Primes.cpp) |
+| [G. Game With Stones](https://codeforces.com/group/YTYmnVxV00/contest/104842/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/2020-2021 ICPC, Moscow Subregional/G - G - Game With Stones.cpp) |
+
+**2023 ICPC HIAST Collegiate Programming Contest** (6 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Convarge To 1](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/B - B - Convarge To 1.cpp) |
+| [E. Sad Teacher](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/E - E - Sad Teacher.cpp) |
+| [F. New Board Game](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/F - F - New Board Game.cpp) |
+| [G. Don't Make It 2](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/G - G - Don't Make It 2.cpp) |
+| [H. Yaser In Baradah](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/H - H - Yaser In Baradah.cpp) |
+| [K. Sam-Oh, the funny coach](https://codeforces.com/group/YTYmnVxV00/contest/104493/problem/K) | [Solution](Codeforces/Groups/Tunisian CP community/2023 ICPC HIAST Collegiate Programming Contest/K - K - Sam-Oh, the funny coach.cpp) |
+
+**2023-2024 ACM-ICPC Latin American Regional Programming Contest** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Blackboard Game](https://codeforces.com/group/YTYmnVxV00/contest/104736/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ACM-ICPC Latin American Regional Programming Contest/B - B - Blackboard Game.cpp) |
+
+**2023-2024 ICPC Central Europe Regional Contest (CERC 23)** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Ball Passing](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/B - B - Ball Passing.cpp) |
+| [D. Drying Laundry](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/D - D - Drying Laundry.cpp) |
+| [G. Going to the Moon](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/G - G - Going to the Moon.cpp) |
+| [K. Keys](https://codeforces.com/group/YTYmnVxV00/contest/104871/problem/K) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC Central Europe Regional Contest (CERC 23)/K - K - Keys.cpp) |
+
+**2023-2024 ICPC, Asia Yokohama Regional Contest 2023** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Yokohama Phenomena](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/A - A - Yokohama Phenomena.cpp) |
+| [B. Rank Promotion](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/B - B - Rank Promotion.cpp) |
+| [D. Nested Repetition Compression](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/D - D - Nested Repetition Compression.cpp) |
+| [F. Color Inversion on a Huge Chessboard](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/F - F - Color Inversion on a Huge Chessboard.cpp) |
+| [G. Fortune Telling](https://codeforces.com/group/YTYmnVxV00/contest/104832/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Asia Yokohama Regional Contest 2023/G - G - Fortune Telling.cpp) |
+
+**2023-2024 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Blueprint for Seating](https://codeforces.com/group/YTYmnVxV00/contest/1912/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)/B - B - Blueprint for Seating.cpp) |
+
+**2023-2024 ICPC, Swiss Subregional** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [C. Continued Fractions](https://codeforces.com/group/YTYmnVxV00/contest/104854/problem/C) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 ICPC, Swiss Subregional/C - C - Continued Fractions.cpp) |
+
+**2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)** (4 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. Cooperative Game on a Tree](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/B - B - Cooperative Game on a Tree.cpp) |
+| [E. Casino](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/E - E - Casino.cpp) |
+| [G. Not Everything Is So Ambiguous](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/G - G - Not Everything Is So Ambiguous.cpp) |
+| [H. Scooter Numbers](https://codeforces.com/group/YTYmnVxV00/contest/104872/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/2023-2024 Russia Team Open, High School Programming Contest (VKOSHP XXIV)/H - H - Scooter Numbers.cpp) |
+
+**Al-Baath Collegiate Programming Contest 2023** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Is It A Math Problem?](https://codeforces.com/group/YTYmnVxV00/contest/104447/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/Al-Baath Collegiate Programming Contest 2023/A - A - Is It A Math Problem_.cpp) |
+| [J. How Kifah sees Extreme?](https://codeforces.com/group/YTYmnVxV00/contest/104447/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/Al-Baath Collegiate Programming Contest 2023/J - J - How Kifah sees Extreme_.cpp) |
+
+**Central Russia Regional Contest, 2022** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. Alley](https://codeforces.com/group/YTYmnVxV00/contest/104805/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/Central Russia Regional Contest, 2022/E - E - Alley.cpp) |
+
+**Code And Conquer 1.0** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Mushroom Power-Up](https://codeforces.com/group/YTYmnVxV00/contest/520855/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/Code And Conquer 1.0/A - A - Mushroom Power-Up.cpp) |
+
+**Codentines Day** (11 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Happy Valentine's Day](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/A - A - Happy Valentine's Day.cpp) |
+| [B. Arcade Game](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/B - B - Arcade Game.cpp) |
+| [D. Traffic Lights](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/D - D - Traffic Lights.cpp) |
+| [E. Intern Florist](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/E - E - Intern Florist.cpp) |
+| [F. Painting a Picture](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/F - F - Painting a Picture.cpp) |
+| [G. Truecaller](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/G - G - Truecaller.cpp) |
+| [H. Chocolate Messages](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/H - H - Chocolate Messages.cpp) |
+| [I. Collin-Count](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/I) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/I - I - Collin-Count.cpp) |
+| [J. Bouquet of Flowers](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/J - J - Bouquet of Flowers.cpp) |
+| [L. Gifts](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/L) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/L - L - Gifts.cpp) |
+| [O. Gift Battle](https://codeforces.com/group/YTYmnVxV00/contest/503544/problem/O) | [Solution](Codeforces/Groups/Tunisian CP community/Codentines Day/O - O - Gift Battle.cpp) |
+
+**League Of Coders 3.0** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. GCD](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/E - E - GCD.cpp) |
+| [F. Learn The Jargon](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/F - F - Learn The Jargon.cpp) |
+| [G. Magnets](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/G - G - Magnets.cpp) |
+| [J. Relay Race](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/J - J - Relay Race.cpp) |
+| [L. Star](https://codeforces.com/group/YTYmnVxV00/contest/488595/problem/L) | [Solution](Codeforces/Groups/Tunisian CP community/League Of Coders 3.0/L - L - Star.cpp) |
+
+**Osijek Competitive Programming Camp, Fall 2023. Day 6: Estonian Contest (The 2nd Universal Cup. Stage 19: Estonia)** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [E. Freshman's Dream](https://codeforces.com/group/YTYmnVxV00/contest/104925/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/Osijek Competitive Programming Camp, Fall 2023. Day 6_ Estonian Contest (The 2nd Universal Cup. Stage 19_ Estonia)/E - E - Freshman's Dream.cpp) |
+
+**TCPC Tunisian Collegiate Programming Contest 2022** (14 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Mood](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/A - A - Mood.cpp) |
+| [B. Hungry](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/B) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/B - B - Hungry.cpp) |
+| [C. Ice Coffee](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/C) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/C - C - Ice Coffee.cpp) |
+| [D. Beautiful decrease](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/D - D - Beautiful decrease.cpp) |
+| [E. The Detective Game](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/E - E - The Detective Game.cpp) |
+| [F. Distinct](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/F - F - Distinct.cpp) |
+| [G. String Rotation](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/G - G - String Rotation.cpp) |
+| [H. Cookies](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/H - H - Cookies.cpp) |
+| [I. Omar and Trees](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/I) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/I - I - Omar and Trees.cpp) |
+| [J. Hide and Seek](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/J - J - Hide and Seek.cpp) |
+| [K. Wrong digits](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/K) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/K - K - Wrong digits.cpp) |
+| [L. Black and White Tree](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/L) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/L - L - Black and White Tree.cpp) |
+| [M. Delivery](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/M) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/M - M - Delivery.cpp) |
+| [N. How many rectangles?](https://codeforces.com/group/YTYmnVxV00/contest/105020/problem/N) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2022/N - N - How many rectangles_.cpp) |
+
+**TCPC Tunisian Collegiate Programming Contest 2023** (9 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [A. Fibionacci Sequence](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/A) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/A - A - Fibionacci Sequence.cpp) |
+| [C. Divisibility](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/C) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/C - C - Divisibility.cpp) |
+| [D. Game of Permutations](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/D - D - Game of Permutations.cpp) |
+| [E. Ultra Palindrome Sequence](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/E) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/E - E - Ultra Palindrome Sequence.cpp) |
+| [G. Help the Judges](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/G - G - Help the Judges.cpp) |
+| [H. Palindrome Builder](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/H) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/H - H - Palindrome Builder.cpp) |
+| [J. Is it a Helal Sequence?](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/J) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/J - J - Is it a Helal Sequence_.cpp) |
+| [K. Btunis Beek](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/K) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/K - K - Btunis Beek.cpp) |
+| [L. Lucky Letters](https://codeforces.com/group/YTYmnVxV00/contest/105019/problem/L) | [Solution](Codeforces/Groups/Tunisian CP community/TCPC Tunisian Collegiate Programming Contest 2023/L - L - Lucky Letters.cpp) |
+
+**The 2023 Damascus University Collegiate Programming Contest** (2 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [G. Wael-utiful Array](https://codeforces.com/group/YTYmnVxV00/contest/104468/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/The 2023 Damascus University Collegiate Programming Contest/G - G - Wael-utiful Array.cpp) |
+| [M. Resli-utiful Indices](https://codeforces.com/group/YTYmnVxV00/contest/104468/problem/M) | [Solution](Codeforces/Groups/Tunisian CP community/The 2023 Damascus University Collegiate Programming Contest/M - M - Resli-utiful Indices.cpp) |
+
+**The 2024 ICPC Latin America Championship** (5 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [D. DiviDuelo](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/D) | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/D - D - DiviDuelo.cpp) |
+| [F. Fair Distribution](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/F) | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/F - F - Fair Distribution.cpp) |
+| [G. Greek Casino](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/G - G - Greek Casino.cpp) |
+| [K. KMOP](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/K) | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/K - K - KMOP.cpp) |
+| [L. LED Matrix](https://codeforces.com/group/YTYmnVxV00/contest/105053/problem/L) | [Solution](Codeforces/Groups/Tunisian CP community/The 2024 ICPC Latin America Championship/L - L - LED Matrix.cpp) |
+
+**Tishreen + SVU CPC 2023** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [G. Charging Power](https://codeforces.com/group/YTYmnVxV00/contest/104487/problem/G) | [Solution](Codeforces/Groups/Tunisian CP community/Tishreen + SVU CPC 2023/G - G - Charging Power.cpp) |
+
+**Tishreen-CPC 2018** (1 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [K. K. Quantum Stones](https://codeforces.com/group/YTYmnVxV00/contest/101801/problem/K) | [Solution](Codeforces/Groups/Tunisian CP community/Tishreen-CPC 2018/K - K - K. Quantum Stones.cpp) |
+
+</details>
+
+<details>
+<summary><b>Winter Cup 5.0</b> (3 problems, 1 contests)</summary>
+
+**Winter Cup 5.0 Online Mirror Contest** (3 problems)
+
+| Problem | Solution |
+|---------|----------|
+| [B. GCD LCM SUM](https://codeforces.com/group/Osuk2cmEQr/contest/426194/problem/B) | [Solution](Codeforces/Groups/Winter Cup 5.0/Winter Cup 5.0 Online Mirror Contest/B - B - GCD LCM SUM.cpp) |
+| [C. Rooks](https://codeforces.com/group/Osuk2cmEQr/contest/426194/problem/C) | [Solution](Codeforces/Groups/Winter Cup 5.0/Winter Cup 5.0 Online Mirror Contest/C - C - Rooks.cpp) |
+| [I. Hall of Faces](https://codeforces.com/group/Osuk2cmEQr/contest/426194/problem/I) | [Solution](Codeforces/Groups/Winter Cup 5.0/Winter Cup 5.0 Online Mirror Contest/I - I - Hall of Faces.cpp) |
 
 </details>
 
