@@ -1,0 +1,57 @@
+/*    _   __   ___    _   ____    _    _        _____    ___     _____
+     | | / /  / _ \  | | |  _ \  | |  | |      |___  |  / _ \   |  ___|
+     | |/ /  | |_| | | | | |_| | |  \/  |         / /  | |_| |  | |__
+     |   /   |  _  | | | |  _ /  | |\/| |        / /   |  _  |  |  __|
+     | |\ \  | | | | | | | | \ \ | |  | |       / /__  | | | |  | |
+     |_| \_\ |_| |_| |_| |_| |_| |_|  |_|      |_____| |_| |_|  |_|      */
+#include<bits/stdc++.h>
+
+typedef long long ll;
+using namespace std;
+#ifndef ONLINE_JUDGE
+
+#include "debug.cpp"
+
+#else
+#define kar(...)
+#endif
+#define pb push_back
+#define F first
+#define S second
+#define all(x) x.begin(),x.end()
+#define rall(x) x.rbegin(),x.rend()
+#define int ll
+#define endl '\n'
+
+const int N = 3e5 + 30, mod = 1e9 + 7, INF = 1e18 + 10;
+
+void Solve() {
+
+    vector<pair<int, int>> vp(4);
+
+
+    for (int i = 0; i < 4; i++) cin >> vp[i].F;
+    vp[2].S = 1;
+    vp[3].S = 1;
+    sort(all(vp));
+    for (int i = 1; i < 4; i++) {
+        if (vp[i].S == vp[i - 1].S || vp[0].S == vp[3].S) {
+            cout << "NO\n";
+            return;
+        }
+
+    }
+    cout << "YES\n";
+
+
+}
+
+int32_t main() {
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin), freopen("output.txt", "w", stdout);
+#endif
+    ios::sync_with_stdio(0), cin.tie(0);
+    int Test_case = 1;
+    cin >> Test_case;
+    while (Test_case--) Solve();
+}

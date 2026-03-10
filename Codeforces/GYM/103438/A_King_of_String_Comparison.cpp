@@ -1,0 +1,90 @@
+//#pragma GCC optimize("Ofast")
+//#pragma GCC target("avx,avx2,fma")
+//#pragma GCC target("sse,sse2,sse3,ssse3,sse4.1,sse4.2,sse4a,avx,avx2,popcnt,tune=native")
+#include <iostream>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp> 
+#include <cstdio>
+#include <cstdlib>
+#include <algorithm>
+#include <cmath>
+#include <vector>
+#include <set>
+#include <map>
+#include <unordered_set>
+#include <unordered_map>
+#include <queue>
+#include <ctime>
+#include <cassert>
+#include <complex>
+#include <string>
+#include <cstring>
+#include <chrono>
+#include <random>
+#include <bitset>
+#include <array>
+#include <climits>
+using namespace std ;
+using namespace __gnu_pbds;
+using ll = long long ;
+using ld = long double ;
+using uint = unsigned int ;
+using ull = unsigned long long;
+using pii = pair<int, int>;
+using pli = pair<ll, int>;
+using pll = pair<ll, ll>;
+
+#ifndef ONLINE_JUDGE
+#include "dbg.cpp"
+#else
+#define dbg(...)
+#endif
+
+#define ll long long
+#define endl "\n"    
+#define fast ios::sync_with_stdio(false);cout.tie(NULL);cin.tie(NULL);
+#define F first
+#define S second
+#define ordered_set tree<pair<ll, ll>, null_type, less<pair<ll, ll>>, rb_tree_tag,tree_order_statistics_node_update>
+const int mod = 1e9+7 ;
+const ll inf = 1e18+500 ;
+ 
+ 
+ll gcd(ll a , ll b) {return b ? gcd(b , a % b) : a ;}
+ll lcm(ll a , ll b) {return (a * b) / gcd(a , b);}
+ll inv(ll i) {if (i == 1) return 1; return (mod - ((mod / i) * inv(mod % i)) % mod) % mod;} 
+
+const int N = 200100 ; 
+ll ans[N] ; 
+
+void solve(){ 
+    int n ; cin >> n ; 
+    string s , t ;
+    cin >> s >> t ;     
+    s = "#" + s ;
+    t = "#" + t ; 
+    if(s[n] < t[n]) ans[n] = 1 ;
+    else ans[n] = 0 ;
+    
+    ll res = ans[n] ; 
+    for(int i = n - 1 ; i >= 1 ; i--){
+        if(s[i] < t[i]) ans[i] = n - i + 1 ; 
+        else if(s[i] == t[i]) ans[i] = ans[i + 1] ; 
+        res += ans[i] ; 
+    }
+    cout << res << endl;
+}
+
+int main(){
+    fast 
+
+    #ifndef ONLINE_JUDGE
+    freopen("inputf.txt","r",stdin);
+    freopen("outputf.txt","w",stdout);
+    #endif
+    
+    ll t = 1 ; 
+    // cin >> t  ; 
+    while(t--) solve() ;
+    return 0;
+}  

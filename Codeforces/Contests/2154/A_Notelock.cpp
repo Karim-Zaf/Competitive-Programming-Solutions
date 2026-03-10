@@ -1,0 +1,53 @@
+/*  ██╗  ██╗ █████╗ ██╗██████╗ ███╗   ███╗        ███████╗ █████╗ ███████╗
+    ██║ ██╔╝██╔══██╗██║██╔══██╗████╗ ████║        ╚══███╔╝██╔══██╗██╔════╝
+    █████╔╝ ███████║██║██████╔╝██╔████╔██║          ███╔╝ ███████║█████╗
+    ██╔═██╗ ██╔══██║██║██╔══██╗██║╚██╔╝██║         ███╔╝  ██╔══██║██╔══╝
+    ██║  ██╗██║  ██║██║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║██║
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     */
+#include <bits/stdc++.h>
+typedef long long ll;
+using namespace std;
+#ifndef ONLINE_JUDGE
+#include "debug.cpp"
+#else
+#define kar(...)
+#endif
+#define pb push_back
+#define F first
+#define S second
+#define all(x) x.begin(), x.end()
+#define rall(x) x.rbegin(), x.rend()
+#define int ll
+#define endl '\n'
+
+const int N = 3e5 + 30, mod = 1e9 + 7, INF = 1e18 + 10;
+
+void Solve(){
+    int n, k;
+    cin >> n >> k;
+    string s;
+    cin >> s;
+
+    int lst = -INF;
+    int cnt = 0;
+    for (int i = 0; i < n; i++){
+        if (s[i] == '0') continue;
+
+        if (i - lst + 1 > k){
+            cnt++;
+            lst = i;
+        }
+        else lst = i;
+    }
+    cout << cnt << endl;
+}
+
+int32_t main(){
+#ifndef ONLINE_JUDGE
+    freopen("output.txt", "w", stdout);
+#endif
+    ios::sync_with_stdio(0), cin.tie(0);
+    int Test_case = 1;
+    cin >> Test_case;
+    while (Test_case--) Solve();
+}

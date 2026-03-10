@@ -1,0 +1,102 @@
+//  (1/0+) WINS
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long ll ;
+#define FAST ios::sync_with_stdio(0), cin.tie(0),cout.tie(0)
+#define pb push_back
+#define pi pair<ll,ll>
+#define vi vector<ll>
+#define yes cout<<"YES"<<endl;
+#define no cout<<"NO"<<endl;
+#define fr(i,a,b) for(ll i = a;i < (ll)b;i++)
+#define rfr(i,a,b) for(ll i = a;i > (ll)b;i--)
+#define watch(x) cout << (#x) << " is " << (x) << endl
+#define F first
+#define S second
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define endl '\n'
+#define INF (ll)(1e18)
+void io(){ios::sync_with_stdio(false) ;cin.tie(NULL) ;}
+void dbg(set<ll> tab){for(auto it : tab) cout<<it<<" ";cout<<endl;}
+void dbgg(pi p){cout<<p.F<<" "<<p.S<<endl;}
+void dbgmp(map<ll,ll> mp){for(auto p: mp) cout<<p.F<<" "<<p.S<<endl;}
+void dbgpi(vector<pi> tab){for(auto it : tab) dbgg(it) ;}
+
+const ll N = 2e5+7, mod =1e9+7, Q =1e6+5 ; 
+ll n ,q ;
+ll a[N], x[N], y[N], id[N], ans [N];
+ll freq[Q];
+ll l , r , ok, cnt ;
+
+void  add(ll x ){   
+    cnt -= freq[x]*freq[x]*x;
+    freq[x]++;
+    cnt += freq[x]*freq[x]*x;
+}
+
+void rmv ( ll x){
+    cnt -= freq[x]*freq[x]*x;
+    freq[x]--;
+    cnt += freq[x]*freq[x]*x;
+}
+
+void update(ll id){
+    while ( r<y[id])
+        add(a[++r]);
+    while (l>x[id])
+        add(a[--l]);
+    while (r> y[id])
+        rmv (a[r--]);
+    while ( l<x[id])
+        rmv ( a[l++]);
+}
+
+void mo (){
+    ll B = sqrt (n);
+    sort ( id, id+q , [B](ll a , ll b ){ return make_pair (x[a]/B,y[a]) < make_pair (x[b]/B, y[b]); } );
+    cnt =0 ;
+    l = 0 ; 
+    r= -1 ;
+    for (ll i=0 ;i<  q; i++){
+        ll currid = id[i];
+        update ( currid);
+        // if (cnt>=1)
+            ans[currid]=cnt ;
+        // else
+        //     ans [currid]=0;
+    }
+}
+
+void solve(){
+    cin >> n>> q ; 
+    memset ( freq, 0 , sizeof (freq));
+    for (ll i=0 ;i<n ;i++)
+        cin >> a[i];
+    for (ll i=0 ;i<q; i++){
+        cin >> x[i] >> y[i];
+        x[i]--;
+        y[i]--;
+        id[i]=i;
+    }
+
+    mo();
+    for (ll i =0 ;i< q; i++)
+        cout << ans[i]<<endl;
+    
+}
+
+
+int main(){
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt","r",stdin);freopen("output.txt","w",stdout);
+    #endif
+    FAST ;
+    io() ;
+    srand(time(0)) ;
+    ll tt=1;
+    // cin >> tt;
+    while (tt--)
+        solve() ;
+    // dbgmp(freq);
+}

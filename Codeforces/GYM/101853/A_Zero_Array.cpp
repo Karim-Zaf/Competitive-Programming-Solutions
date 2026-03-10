@@ -1,0 +1,80 @@
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef long double ld;
+#define pb push_back
+#define pi pair<ll,ll>
+#define F first
+#define S second
+#define all(x) (x).begin(), (x).end()
+#define alll(x) ((x).begin()+1), (x).end()
+#define clean(v) (v).resize(distance((v).begin(), unique(all(v))));
+#define yes cout<<"Yes"<<endl;
+#define no cout<<"No"<<endl;
+#define mod mod
+#define endl '\n'
+mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
+const ll mod = 998244353;
+
+void io() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+}
+
+template<class T>
+bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
+
+template<class T>
+bool ckmin(T &a, const T &b) { return a > b ? a = b, 1 : 0; }
+
+void nop() {
+    cout << -1 << endl;
+    return;
+}
+
+
+
+void solve() {
+    int n , q ;
+    cin>>n>>q ;
+    map<int,int> mp ;
+    int ans = 0 ;
+    vector<int> a(n+1) ;
+    for(int i = 1 ; i<=n ; i++){
+        int x ; cin>>x ;
+        a[i] = x ;
+        mp[x]++ ;
+        if(mp[x]==1) ++ans ;
+    }
+    while(q--){
+        int tp ; cin>>tp ;
+        if(tp==1){
+            int idx , val ;
+            cin>>idx>>val ;
+            mp[a[idx]]-- ;
+            if(!mp[a[idx]]) --ans ;
+            a[idx] = val ;
+            mp[a[idx]]++ ;
+            if(mp[a[idx]]==1) ++ans ;
+        }
+        else{
+            int y = mp[0] > 0 ? 1 : 0 ;
+            cout<<ans - y<<endl;
+        }
+    }
+}
+
+int main() {
+#ifndef ONLINE_JUDGE
+    freopen("input.in", "r", stdin);
+    freopen("output.out", "w", stdout);
+#endif
+    io();
+    ll tt = 1;
+    cin>>tt ;
+    while (tt--) {
+        solve();
+    }
+
+    return 0;
+}

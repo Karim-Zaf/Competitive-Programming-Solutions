@@ -1,0 +1,51 @@
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long ll ;
+#define FAST ios::sync_with_stdio(0), cin.tie(0),cout.tie(0)
+#define pb push_back
+#define pi pair<ll,ll>
+#define yes cout<<"YES"<<endl;
+#define no cout<<"NO"<<endl;
+#define fr(i,a,b) for(ll i = a;i < (ll)b;i++)
+#define rfr(i,a,b) for(ll i = a;i > (ll)b;i--)
+#define F first
+#define S second
+#define all(x) (x).begin(), (x).end()
+#define endl '\n'
+void io(){ios::sync_with_stdio(false) ;cin.tie(NULL) ;}
+void dbg(vector<ll> tab){for(auto it : tab) cout<<it<<" ";cout<<endl;}
+void dbgg(pi p){cout<<p.F<<" "<<p.S<<endl;}
+void dbgpi(vector<pi> tab){for(auto it : tab) dbgg(it) ;}
+
+vector <ll> v;
+map <ll,ll> mp;
+set <ll> s;
+
+void solve()
+{
+    ll n ,x,j,occ=0; cin >> n ;j=n;
+    while ( j-- ){
+        cin >> x ;
+        if (!mp[x]){occ++;v.pb(x);}
+        if (occ >3) {no return;}
+        mp[x]++;
+    }
+    if ( occ<3){yes return;}
+    // dbg(v);
+    sort (v.begin(),v.end());
+    if (((v[2]+v[0])/2.0 )==double(v[1])){yes return;} no
+    
+}
+ 
+int main()
+{
+//    freopen("input.txt","r",stdin); fraeopen("output.txt","w",stdout);
+    FAST ;
+    io() ;
+    srand(time(0)) ;
+     ll tt=1;
+    //  cin >> tt;
+ 
+    while (tt--)
+        solve() ;
+}
