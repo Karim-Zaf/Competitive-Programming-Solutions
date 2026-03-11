@@ -1,15 +1,71 @@
-# Competitive Programming Solutions
+<p align="center">
+  <img src="Assets/Codeforces Logo.png" alt="Codeforces" height="50"/>
+</p>
 
-My accepted solutions for competitive programming problems, primarily from [Codeforces](https://codeforces.com/profile/Kairm_Zaf).
+<h1 align="center">Competitive Programming Solutions</h1>
 
-**Handle:** [Kairm_Zaf](https://codeforces.com/profile/Kairm_Zaf)  
-**Total Problems Solved:** 2660  
-**Contest Problems:** 1501  
-**GYM Problems:** 607  
-**Group Problems:** 552  
-**Last Updated:** 2026-03-10
+<p align="center">
+  <b>2,660+ problems solved</b> on <a href="https://codeforces.com/profile/Kairm_Zaf">Codeforces</a> — from 800-rated warmups to 2800-rated challenges.
+</p>
 
-## Rating Distribution
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Expert%20(1729)-blue?style=for-the-badge&logo=codeforces" alt="Expert"/>
+  <img src="https://img.shields.io/badge/Max%20Rating-1921%20(Candidate%20Master)-purple?style=for-the-badge" alt="Max Rating"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-2660+-green?style=for-the-badge" alt="Solved"/>
+</p>
+
+---
+
+## About
+
+I'm **Karim Zaafrani** ([Kairm_Zaf](https://codeforces.com/profile/Kairm_Zaf)), a Software Engineering student at **Universite de Technologie de Compiegne (UTC)**, currently based in Paris. I've been actively competing in competitive programming since 2022, solving algorithmic problems daily and competing in weekly contests on Codeforces, AtCoder, and CodeChef.
+
+This repository contains **every accepted solution** I've submitted on Codeforces — across rated contests, GYM training, and private group contests (ICPC regionals, ACPC, TCPC, and more).
+
+### Highlights
+
+- **Tunisian Champion** — 1st place at TCPC 2025 (Tunisian Collegiate Programming Contest)
+- **2x ACPC Finalist** — Arab Collegiate Programming Contest
+- **Top 10 in Tunisia** — Competitive programming ranking
+- **Expert on Codeforces** — Peak rating **1921** (Candidate Master), current **1729**
+- **132-day streak** — Longest consecutive solving streak
+- **2,610+ problems** solved across all Codeforces categories
+
+<p align="center">
+  <img src="Assets/Codeforces MAIN profil Kairm_ZAF.png" alt="Codeforces Profile" width="600"/>
+</p>
+
+---
+
+## Rating Progression & Activity
+
+My rating journey from Newbie to Expert/Candidate Master over 3+ years of consistent practice:
+
+<p align="center">
+  <img src="Assets/Codeforces Graph.png" alt="Rating Graph & Activity" width="700"/>
+</p>
+
+| Metric | Value |
+|--------|-------|
+| Current Rating | **1729** (Expert) |
+| Max Rating | **1921** (Candidate Master) |
+| Total Solved | **2,660+** |
+| Contest Problems | 1,501 |
+| GYM Problems | 607 |
+| Group Problems | 552 |
+| Contests Participated | 200+ |
+
+---
+
+## Problem Difficulty & Topics
+
+Problems solved span the full difficulty spectrum, from beginner (800) up to extremely hard (2800):
+
+<p align="center">
+  <img src="Assets/Codeforces Analysis.png" alt="Problem Ratings & Tags Distribution" width="600"/>
+</p>
+
+### Rating Distribution
 
 | Rating | Count | Bar |
 |--------|-------|-----|
@@ -30,16 +86,49 @@ My accepted solutions for competitive programming problems, primarily from [Code
 | 2200 | 59 | ███ |
 | 2300 | 37 | ██ |
 | 2400 | 27 | █ |
-| 2500 | 11 |  |
-| 2600 | 7 |  |
-| 2700 | 3 |  |
-| 2800 | 3 |  |
+| 2500 | 11 | |
+| 2600 | 7 | |
+| 2700 | 3 | |
+| 2800 | 3 | |
 
-## Topics
+### Topics Covered
 
-`greedy` (634) · `math` (592) · `implementation` (405) · `data structures` (337) · `dp` (335) · `brute force` (318) · `constructive algorithms` (296) · `binary search` (234) · `sortings` (216) · `number theory` (194) · `bitmasks` (145) · `strings` (139) · `two pointers` (131) · `dfs and similar` (127) · `trees` (117) · `graphs` (97) · `combinatorics` (90) · `dsu` (59) · `divide and conquer` (51) · `games` (42) · `geometry` (36) · `hashing` (33) · `shortest paths` (26) · `*special` (20) · `interactive` (19) · `fft` (13) · `ternary search` (12) · `string suffix structures` (11) · `matrices` (9) · `probabilities` (7) · `graph matchings` (5) · `schedules` (5) · `flows` (5) · `chinese remainder theorem` (4) · `expression parsing` (3) · `meet-in-the-middle` (3) · `2-sat` (3)
+`greedy` (634) · `math` (592) · `implementation` (405) · `data structures` (337) · `dp` (335) · `brute force` (318) · `constructive algorithms` (296) · `binary search` (234) · `sortings` (216) · `number theory` (194) · `bitmasks` (145) · `strings` (139) · `two pointers` (131) · `dfs and similar` (127) · `trees` (117) · `graphs` (97) · `combinatorics` (90) · `dsu` (59) · `divide and conquer` (51) · `games` (42) · `geometry` (36) · `hashing` (33) · `shortest paths` (26) · `interactive` (19) · `fft` (13) · `ternary search` (12) · `string suffix structures` (11) · `matrices` (9) · `probabilities` (7) · `graph matchings` (5) · `flows` (5) · `chinese remainder theorem` (4) · `meet-in-the-middle` (3) · `2-sat` (3)
 
-## Problems by Rating
+---
+
+## What is Codeforces?
+
+[Codeforces](https://codeforces.com) is the world's largest competitive programming platform, used by over 600,000 active programmers globally. It hosts weekly algorithmic contests where participants solve complex problems under time pressure — testing problem-solving speed, algorithmic knowledge, and coding efficiency.
+
+The rating system (similar to chess Elo) ranks users from **Newbie** (< 1200) to **Legendary Grandmaster** (3000+). Reaching **Expert** (1600+) places you in the **top 10%** of all active users, and **Candidate Master** (1900+) in the **top 3%**.
+
+Major tech companies (Google, Meta, Amazon, Microsoft) actively recruit from top competitive programmers, as the skills directly translate to technical interview performance and systems-level problem solving.
+
+---
+
+## Repository Structure
+
+```
+Competitive-Programming-Solutions/
+├── Codeforces/
+│   ├── Contests/         # 1,501 solutions from 710+ rated contests
+│   ├── GYM/              # 607 solutions from 92 training contests
+│   └── Groups/           # 552 solutions from 21 private groups
+│       ├── ACPC Scientific Committee Archive/
+│       ├── Tunisian CP community/
+│       ├── ENSI Competitive Programming Club/
+│       └── ... (18 more groups)
+├── Assets/               # Profile screenshots & graphs
+├── problems.json         # Full metadata index (rating, tags, links)
+├── README.md
+└── scripts/              # Automated fetching tools
+```
+
+---
+
+</content>
+</invoke>## Problems by Rating
 
 <details>
 <summary><b>Rating 800</b> (310 problems)</summary>
@@ -12749,10 +12838,12 @@ Solutions from private Codeforces group contests (ICPC regionals, ACPC, TCPC, tr
 
 </details>
 
-## Templates
+## Links
 
-Reusable algorithm and data structure templates in `Templates/`.
+* **Codeforces Profile:** [Kairm_Zaf](https://codeforces.com/profile/Kairm_Zaf)
+* **Portfolio:** [karim-zaafrani.vercel.app](https://karim-zaafrani.vercel.app)
+* **LinkedIn:** [Karim Zaafrani](https://linkedin.com/in/karim-zaafrani-148868209)
+* **GitHub:** [Karim-Zaf](https://github.com/Karim-Zaf)
 
 ---
 
-*Auto-generated by [fetch_codeforces.py](scripts/fetch_codeforces.py)*
